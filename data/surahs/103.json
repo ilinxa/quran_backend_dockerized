@@ -1,0 +1,49 @@
+{
+  "data": {
+    "index_number": 103,
+    "name_arabic": "العصر",
+    "name_turkish": "Asr",
+    "description": "Adını 1. âyetteki “Asr/zaman, çağ” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 13,
+    "verse_count": 4,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْعَصْرِۙ",
+        "turkish_text": "Asra(1) ant olsun,",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Asr, kelime anlamı olarak -isim ve mastar olarak- zaman, çağ, yüzyıl, ikindi vakti, kabile, tutuklamak, menetmek gibi anlamlara gelmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الْاِنْسَانَ لَف۪ي خُسْرٍۙ",
+        "turkish_text": "Kuşkusuz o insan kesinlikle hüsrandadır.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+        "turkish_text": "Ancak îmân edenler, sâlihâtı(1) yapanlar, hakkı tavsiye edenler ve sabrı tavsiye edenler hariç.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- “Îmân edip, sâlihâtı yapanlar” terkibini “îmân edip iyi işler yapanlar” diye çevirmek doğru değildir. Sâlihât, davranış yolu ile bütünüyle dışa yansıyan îmândır. Sâlihât, bozgunculuk ve kötülükle mücadele etmek, bozuk olan şeyi düzeltmeye çalışmak, yapıcı olmak, iyi olmak ve iyiye yönlendirmek demektir. Bu kelimenin karşıtı “seyyiât” yani kötülük ve “fesad” yani bozgunculuk kelimeleridir."
+          }
+        ]
+      }
+    ]
+  }
+}

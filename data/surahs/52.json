@@ -1,0 +1,395 @@
+{
+  "data": {
+    "index_number": 52,
+    "name_arabic": "الطور",
+    "name_turkish": "Tûr",
+    "description": "Adını 1. âyetteki “Tûr/dağ” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 76,
+    "verse_count": 50,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالطُّورِۙ",
+        "turkish_text": "Tûr'a ant olsun;",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكِتَابٍ مَسْطُورٍۙ",
+        "turkish_text": "Satır satır yazılmış Kitâp'a,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي رَقٍّ مَنْشُورٍۙ",
+        "turkish_text": "Üzerine yazı yazılmış, yayılmış ince deriye.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْبَيْتِ الْمَعْمُورِۙ",
+        "turkish_text": "Beyt-i Mamûr'a(1) ant olsun.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kâbe."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالسَّقْفِ الْمَرْفُوعِۙ",
+        "turkish_text": "Yükseltilmiş tavana ant olsun",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْبَحْرِ الْمَسْجُورِۙ",
+        "turkish_text": "Doldurulmuş denize ant olsun.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ عَذَابَ رَبِّكَ لَوَاقِـعٌۙ",
+        "turkish_text": "Rabb'inin azâbı kesinlikle gerçekleşecektir.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا لَهُ مِنْ دَافِـعٍۙ",
+        "turkish_text": "Onu savacak yoktur.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ تَمُورُ السَّمَٓاءُ مَوْراًۙ",
+        "turkish_text": "O Gün(1) gök, sarsıldıkça sarsılır.",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap sorma günü, yalnızca Allah'ın belirlediği ilke ve kuralların geçerli olduğu gün."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَتَس۪يرُ الْجِبَالُ سَيْراًۜ",
+        "turkish_text": "Dağlar yerlerinden oynar.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَۙ",
+        "turkish_text": "O Gün yalanlayanların vay hallerine.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ هُمْ ف۪ي خَوْضٍ يَلْعَبُونَۢ",
+        "turkish_text": "Onlar ki, gereksiz şeylere dalıp oyalanıyorlar.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يُدَعُّونَ اِلٰى نَارِ جَهَنَّمَ دَعاًّۜ",
+        "turkish_text": "O Gün, Cehennem ateşine sürüklenirler.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هٰذِهِ النَّارُ الَّت۪ي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+        "turkish_text": "İşte bu, yalanladığınız ateştir!",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَفَسِحْرٌ هٰذَٓا اَمْ اَنْتُمْ لَا تُبْصِرُونَ",
+        "turkish_text": "Bu sihir miymiş? Yoksa siz mi görmüyormuşsunuz?",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِصْلَوْهَا فَاصْبِرُٓوا اَوْ لَا تَصْبِرُواۚ سَوَٓاءٌ عَلَيْكُمْۜ اِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+        "turkish_text": "Oraya girin. Artık dayansanız da dayanmasanız da sizin için birdir. Yaptığınız şeylerin karşılığını görüyorsunuz.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الْمُتَّق۪ينَ ف۪ي جَنَّاتٍ وَنَع۪يمٍۙ",
+        "turkish_text": "Takvâ sahipleri cennetlerde(1) ve nimetler içindedirler;",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bahçelerde."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاكِه۪ينَ بِمَٓا اٰتٰيهُمْ رَبُّهُمْۚ وَوَقٰيهُمْ رَبُّهُمْ عَذَابَ الْجَح۪يمِ",
+        "turkish_text": "Rabb'lerinin kendilerine verdiklerinden hoşnut olarak. Rabb'leri onları Cehennem ateşinden korumuştur.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كُلُوا وَاشْرَبُوا هَن۪ٓيـٔاً بِمَا كُنْتُمْ تَعْمَلُونَۙ",
+        "turkish_text": "Yaptıklarınızın karşılığı olarak, afiyetle yiyin ve için;",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مُتَّكِـ۪ٔينَ عَلٰى سُرُرٍ مَصْفُوفَةٍۚ وَزَوَّجْنَاهُمْ بِحُورٍ ع۪ينٍ",
+        "turkish_text": "Sıra sıra dizilmiş koltuklara yaslanarak. Biz, onları temiz, “güzel bakışlı” hûrilerle(1) eşleştirmişizdir.",
+        "index_number": 20,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Parlak iri siyah gözlü eşler. Bu eşleştirme, erkek için de kadın için de geçerli bir eşleştirmedir. “Hûrun îynun;” âyet, bu iki kelimeden oluşmaktadır. “Hûr,” parlak siyah göz demektir. “Îynun,” ise karası fazla büyük gözlü demektir. Dolayısı ile âyet, “parlak, iri, siyah gözlü” anlamına gelmektedir “İsrâîliyyât kaynaklı, sapkın erkeksi algı,” âyette yer alan “Hûr” kelimesine “dişil” anlam yükleyerek; âyeti, “ceylan gözlü dilberler”, “ahu gözlü kadınlar”, “hûriler” şeklinde anlam vermektedir. Oysaki “Hûr” eril ve dişil formun çoğuludur. “Hûr” kelimesinin tekil formu, erkek için “ahver”, dişi için “havra” dır. Kur'an'da, kelimenin çoğul formu olan “Hûr” kelimesi, cinsiyet olarak ne erkek ne de kadın anlamı taşımaktadır. “Hûr” kelimesi, her iki cinsi de içine alan ortak bir anlama sahiptir. Yani hem erkeğin hem de kadının gözünü ifade etmektedir. Keza “îyn” kelimesi de hem eril “a'yun” kelimesinin hem de dişil “ayna” kelimesinin çoğuludur. Ayrıca bu kelimelerle ifade edilmek istenen şey “güzelliktir. Bu kelimelerin, tefsir ve çeviri külliyatında, Cennette erkeklere sunulacak, ikram edilecek dişi varlıklar olarak tanımlanmış olması büyük bir yanılgıdır. Bu yanılgı, İslâm'ın âhiret inancına sürülmüş büyük bir lekedir. Ödüllendirmede ve cezalandırmada cinsiyet ayırımcılığı yapmak, Kur'an'a atılmış büyük bir iftiradır. Bu cinsiyet ayırımcısı sapkın anlayışın durumunu, “namus” dendiğinde akıllarına yalnızca “kadının” gelmesi çok iyi tanımlamaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِا۪يمَانٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَٓا اَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍۜ كُلُّ امْرِئٍ بِمَا كَسَبَ رَه۪ينٌ",
+        "turkish_text": "Îmân eden, soyları da îmân ederek kendilerine tâbi olan kimselerin, soylarını da kendilerine kattık.(1) Ve onların yaptıklarından bir şey eksiltmedik. Herkes kendi yaptıklarının karşılığını alacak.",
+        "index_number": 21,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Cennet'i hak etmiş aile bireylerini, kan bağı mensuplarını Cennet'te bir araya getireceğiz."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ",
+        "turkish_text": "Onlara; meyvelerden, etlerden ve canlarının çektiği şeylerden bol bol sunarız.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَتَنَازَعُونَ ف۪يهَا كَأْساً لَا لَغْوٌ ف۪يهَا وَلَا تَأْث۪يمٌ",
+        "turkish_text": "Birbirlerine, saçmalamaya ve günaha yol açmayan kadehler sunacaklar.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَهُمْ كَاَنَّهُمْ لُؤْلُؤٌ۬ مَكْنُونٌ",
+        "turkish_text": "Sedefleri içine gizlenmiş inci gibi gılmanlar,(1) hizmet için çevrelerinde dolanırlar.",
+        "index_number": 24,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hizmetçiler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَتَسَٓاءَلُونَ",
+        "turkish_text": "Bir araya gelerek söyleşirler:",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالُٓوا اِنَّا كُنَّا قَبْلُ ف۪ٓي اَهْلِنَا مُشْفِق۪ينَ",
+        "turkish_text": "“Doğrusu biz, daha önce ailemizden dolayı korkuyorduk.”",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَنَّ اللّٰهُ عَلَيْنَا وَوَقٰينَا عَذَابَ السَّمُومِ",
+        "turkish_text": "“Şimdi, Allah, bizi nimetlendirdi ve bizi kavurucu ateşin azâbından korudu.”",
+        "index_number": 27,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّا كُنَّا مِنْ قَبْلُ نَدْعُوهُۜ اِنَّهُ هُوَ الْبَرُّ الرَّح۪يمُ۟",
+        "turkish_text": "“İyi ki daha önce yalnızca O'na yöneldik. Kuşkusuz ki O, İyilik Yapan'dır, Rahmeti Kesintisiz'dir.”",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَذَكِّرْ فَمَٓا اَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍۜ",
+        "turkish_text": "O halde öğüt vermeye devam et. Rabb'inin nimeti sayesinde ne kâhin ne de mecnûnsun.",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ يَقُولُونَ شَاعِرٌ نَتَرَبَّصُ بِه۪ رَيْبَ الْمَنُونِ",
+        "turkish_text": "Yoksa: “O bir şâirdir, ansızın zamanın felaketine uğramasını bekliyoruz.” mu diyorlar?",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ تَرَبَّصُوا فَاِنّ۪ي مَعَكُمْ مِنَ الْمُتَرَبِّص۪ينَۜ",
+        "turkish_text": "De ki: “Bekleyin! Ben de sizinle birlikte bekleyenlerdenim.”",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ تَأْمُرُهُمْ اَحْلَامُهُمْ بِهٰذَٓا اَمْ هُمْ قَوْمٌ طَاغُونَۚ",
+        "turkish_text": "Yoksa onların düşleri böyle mi istiyor? Yoksa onlar azgın bir halk mı?",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ يَقُولُونَ تَقَوَّلَهُۚ بَلْ لَا يُؤْمِنُونَۚ",
+        "turkish_text": "Yoksa: “Onu kendisi uydurup söyledi.” mi diyorlar? İşin gerçeği, onlar inanmak istemiyorlar.",
+        "index_number": 33,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَلْيَأْتُوا بِحَد۪يثٍ مِثْلِه۪ٓ اِنْ كَانُوا صَادِق۪ينَۜ",
+        "turkish_text": "Eğer söylediklerinde haklı kimselerse, onlar da onun benzeri bir hadis(1) getirsinler!",
+        "index_number": 34,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Söz."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ اَمْ هُمُ الْخَالِقُونَۜ",
+        "turkish_text": "Yoksa onlar, bir yaratıcı olmaksızın mı yaratıldılar? Yoksa yaratanlar onlar mıdır?",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ خَلَقُوا السَّمٰوَاتِ وَالْاَرْضَۚ بَلْ لَا يُوقِنُونَۜ",
+        "turkish_text": "Yoksa gökleri ve yeryüzünü onlar mı yarattı? Hayır, onlar gerçeğe ulaşmaya yanaşmıyorlar!",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ عِنْدَهُمْ خَزَٓائِنُ رَبِّكَ اَمْ هُمُ الْمُصَيْطِرُونَۜ",
+        "turkish_text": "Yoksa Rabb'inin hazineleri onların yanında mı? Veya kendilerinin her şeye güç yetirebileceklerini mi sanıyorlar?",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ ف۪يهِۚ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطَانٍ مُب۪ينٍۜ",
+        "turkish_text": "Yoksa onların, orada dinleyecekleri bir merdivenleri mi var? Öyleyse dinleyenleri buna dair bir belge getirsinler!",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ لَهُ الْبَنَاتُ وَلَـكُمُ الْبَنُونَۜ",
+        "turkish_text": "Yoksa kızlar O'nun da oğullar sizin mi?",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْراً فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَۜ",
+        "turkish_text": "Yoksa sen onlardan bir ücret istiyorsun da bu yüzden onlar ağır bir yük altına mı giriyorlar?",
+        "index_number": 40,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَۜ",
+        "turkish_text": "Yoksa gayb(1) onların yanında da onlar mı yazıyorlar?",
+        "index_number": 41,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Duyu organları ile algılanamayan; görülemeyen, bilinemeyen."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَمْ يُر۪يدُونَ كَيْداًۜ فَالَّذ۪ينَ كَفَرُوا هُمُ الْمَك۪يدُونَۜ",
+        "turkish_text": "Yoksa bir tuzak mı kurmak istiyorlar? Ne var ki tuzağa düşecek olanlar Kâfirlerdir.",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمْ لَهُمْ اِلٰهٌ غَيْرُ اللّٰهِۜ سُبْحَانَ اللّٰهِ عَمَّا يُشْرِكُونَ",
+        "turkish_text": "Yoksa onlar için Allah'tan başka bir ilâhları mı var? Allah, onların şirk koştuklarından münezzehtir(1).",
+        "index_number": 43,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kusur ve eksikliklerden arınık, eşsiz ve benzersiz. Allah'a ait nitelikler hiçbir varlıkta yoktur. Allah'ın âcizlik, eksiklik ve yaratılmış özelliklerinden arınmış olduğunu benimsemek. Tenzih, tevhidin başka bir ifadesidir. Eş koşulanların ve yakıştırılan niteliklerin tamamından arındırma demektir. “Hiçbir şey O'nun benzeri değildir (42:11).”"
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنْ يَرَوْا كِسْفاً مِنَ السَّمَٓاءِ سَاقِطاً يَقُولُوا سَحَابٌ مَرْكُومٌ",
+        "turkish_text": "Gökten bir parçanın düştüğünü görseler, “Üst üste yığılmış bulutlardır.” derler!(1)",
+        "index_number": 44,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Pişkinliklerinden yine de bunun bir mucize olduğunu düşünmezler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَذَرْهُمْ حَتّٰى يُلَاقُوا يَوْمَهُمُ الَّذ۪ي ف۪يهِ يُصْعَقُونَۙ",
+        "turkish_text": "Artık onları cezalandırılacakları güne kavuşuncaya kadar kendi hallerine bırak.",
+        "index_number": 45,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ لَا يُغْن۪ي عَنْهُمْ كَيْدُهُمْ شَيْـٔاً وَلَا هُمْ يُنْصَرُونَۜ",
+        "turkish_text": "O Gün planları onlara hiçbir yarar sağlamaz. Ve onlar yardım da olunmazlar.",
+        "index_number": 46,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِنَّ لِلَّذ۪ينَ ظَلَمُوا عَذَاباً دُونَ ذٰلِكَ وَلٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+        "turkish_text": "Zûlmedenler için bundan başka bir azâp daha vardır. Ne var ki onların çoğu, bunun bilincinde değiller.",
+        "index_number": 47,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَاِنَّكَ بِاَعْيُنِنَا وَسَبِّـحْ بِحَمْدِ رَبِّكَ ح۪ينَ تَقُومُۙ",
+        "turkish_text": "Rabb'inin hükmünü sabrederek bekle. Sen gözümüzün önündesin.(1) Ve her kalkışında(2) Rabb'ini hamd ile tesbih(3) et.",
+        "index_number": 48,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gözetimimizdesin."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Yapacağın her işte."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Bkz. 48:9. âyetin 3. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمِنَ الَّيْلِ فَسَبِّحْهُ وَاِدْبَارَ النُّجُومِ",
+        "turkish_text": "Gecenin bir kısmında ve yıldızların batışının ardından(1) O'nu tesbih et.",
+        "index_number": 49,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yıldızların kaybolmasının ardından."
+          }
+        ]
+      }
+    ]
+  }
+}

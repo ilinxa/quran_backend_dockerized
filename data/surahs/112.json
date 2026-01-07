@@ -1,0 +1,72 @@
+{
+  "data": {
+    "index_number": 112,
+    "name_arabic": "الإخلاص",
+    "name_turkish": "İhlas",
+    "description": "Adını surenin içeriğinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 22,
+    "verse_count": 5,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+        "turkish_text": "De ki: “O Allah(1) Ehad'dır.(2)”",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah, Allah'ın özel ismidir. Allah kelimesi, isim olarak Allah'ın dışında başka hiçbir şey için kullanılamaz. Başka dillere bu ismin dışında başka bir isimle aktarılamaz. Dilbilimcilere göre herhangi bir isimden türememiş, çoğulu, erili, dişili olmayan “tek başına, kökü olmayan” bir isimdir. İlâh; hizmet edilen, tapınılan, kulluk edinilen, koruyucu, gönülden bağlanıp sığınılan, yüceliği karşısında hayrete düşülen, duyularla idrak edilemeyen varlık demektir. Hak veya bâtıl olsun tapılmaya lâyık görülüp ibadet edilen her varlığa ilâh adı verildiği ve âlihe şeklinde çoğulu bulunduğu dikkate alınınca, ilâhın tanrı anlamına geldiği, Allah'ın ise bir ve kendisinden başka “gerçek ilâh” olmayanın adı olduğu, diğer bir ifade ile Allah'a özgü bir isim olduğu ortaya çıkar. İlâh'ın başına belirlilik takısı getirilerek Allah ismi, Allah'a özgü özel bir isim olmaktadır. Kur'an'a baktığımız zaman İlâh kelimesinin kök harflerinden hiç fiil gelmediği görülür. El-İlâh şeklinde bir kullanımı da yoktur. Bu nokta da sadece Allah kelimesinin El-İlâhı yansıttığı görülmektedir. Dolayısı ile Allah ve Tanrı kelimeleri birbirinin eşiti değildir. İlâhlar denebilir ama Allahlar denemez. Bu da birbirlerinin eşiti olmadıklarını gösterir. Onun için Allah'a tanrı denmesi doğru değildir. Elif ve Lam harfleri ilâhın başına geldiğinde bu yeni form Allah'ın özel ismi olmaktadır. “Allah ancak bir tek ilâhtır” (4:171)."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bir tektir: Ehad, sayısal bir değer olarak tek, bir demek olmasının yanında, bu teklik aynı zamanda “eşsizliği”, “benzersizliği” de ifade etmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَللّٰهُ الصَّمَدُۚ",
+        "turkish_text": "“Allah Samed'dir.(1)”",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hiçbir şeye muhtaç olmayan, her şey kendisine muhtaç olunandır. Dilediğini yapan, istediği kuralı koyandır. Ezeli ve ebedi olandır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۙ",
+        "turkish_text": "O, ürememiş, üretilmemiştir.(1)",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kimsenin babası da değil, çocuğu da."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَمْ يَكُنْ لَهُ كُفُواً اَحَدٌ",
+        "turkish_text": "“Hiçbir şey O'nun dengi değildir.(1)”",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah, evrenin yaratıcısı, yöneticisi, düzenleyicisi ve tek egemenidir. Evren ve evrende olanlar Allah tarafından yaratılmış olup bunlar hiçbir yönüyle ve hiçbir şekilde Allah'la bir benzerliğe sahip değildir."
+          }
+        ]
+      }
+    ]
+  }
+}

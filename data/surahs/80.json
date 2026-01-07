@@ -1,0 +1,331 @@
+{
+  "data": {
+    "index_number": 80,
+    "name_arabic": "عبس",
+    "name_turkish": "Abese",
+    "description": "Adını 1. âyetteki “Abese/surat astı” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 24,
+    "verse_count": 43,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَبَسَ وَتَوَلّٰىۙ",
+        "turkish_text": "Surat astı ve yüz çevirdi.",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَنْ جَٓاءَهُ الْاَعْمٰىۜ",
+        "turkish_text": "O gözleri görmeyen geldi diye.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا يُدْر۪يكَ لَعَلَّهُ يَزَّكّٰىۙ",
+        "turkish_text": "Sen bilemezsin, belki o tezkiye(1) olacak.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnancını arındıracak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرٰىۜ",
+        "turkish_text": "Veya öğüt alır ve böylece öğüt ona yararlı olur.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَمَّا مَنِ اسْتَغْنٰىۙ",
+        "turkish_text": "Fakat öğüt almayı gereksiz gören o kimseye gelince de;",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَنْتَ لَهُ تَصَدّٰىۜ",
+        "turkish_text": "Sen ona ilgi gösteriyorsun.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا عَلَيْكَ اَلَّا يَزَّكّٰىۜ",
+        "turkish_text": "Oysaki onun arınmak istememesinden sorumlu sen değilsin.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَمَّا مَنْ جَٓاءَكَ يَسْعٰىۙ",
+        "turkish_text": "Fakat sana koşarak gelen kimseye gelince;",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَهُوَ يَخْشٰىۙ",
+        "turkish_text": "O hûşû(1) duyanla,",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 79:26. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاَنْتَ عَنْهُ تَلَهّٰىۚ",
+        "turkish_text": "Sen onunla ilgilenmiyorsun.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّٓا اِنَّهَا تَذْكِرَةٌۚ",
+        "turkish_text": "Hayır! Kuşkusuz o bir öğüttür.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَنْ شَٓاءَ ذَكَرَهُۢ",
+        "turkish_text": "Dileyen kimse ondan öğüt alır.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي صُحُفٍ مُكَرَّمَةٍۙ",
+        "turkish_text": "O şerefli sayfalardadır,",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَرْفُوعَةٍ مُطَهَّرَةٍۙ",
+        "turkish_text": "Yüceltilmiş, temizlenmiş,",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "بِاَيْد۪ي سَفَرَةٍۙ",
+        "turkish_text": "Yazıcıların elleriyle,",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كِرَامٍ بَرَرَةٍۜ",
+        "turkish_text": "Şerefli ve birr(1) sahiplerince.",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İyi, yararlı ve doğru olan her şey, bütün iyilikler, bağışlamak, sadakat, samimiyet, doğruluk, adalet, gerçeklik, erdem, gönül."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قُتِلَ الْاِنْسَانُ مَٓا اَكْفَرَهُۜ",
+        "turkish_text": "O insan(1) kendisini mahvetti, o ne kadar da nankördür.",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Öğüt almayı gereksiz gören, 80: 5. İnsandan kasıt, Müşrikler ve Kâfirlerdir. Kelimenin başında bulunan “El” takısı söz konusu insanların belirli, bilinen kimse olduğunu göstermektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مِنْ اَيِّ شَيْءٍ خَلَقَهُۜ",
+        "turkish_text": "Onu hangi şeyden yarattı?",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مِنْ نُطْفَةٍۜ خَلَقَهُ فَقَدَّرَهُۙ",
+        "turkish_text": "Bir nutfeden yarattı. Sonra da ona kader takdir etti.(1)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ölçülendirip, biçimlendirdi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ثُمَّ السَّب۪يلَ يَسَّرَهُۙ",
+        "turkish_text": "Sonra yolu ona kolaylaştırdı.(1)",
+        "index_number": 20,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Vahiy ile ona hakk yolu gösterdi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ثُمَّ اَمَاتَهُ فَاَقْبَرَهُۙ",
+        "turkish_text": "Sonra onu öldürdü ve kabre koydurdu.",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ اِذَا شَٓاءَ اَنْشَرَهُۜ",
+        "turkish_text": "Sonra dilediği zaman onu diriltip ortaya çıkardı.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا لَمَّا يَقْضِ مَٓا اَمَرَهُۜ",
+        "turkish_text": "Hayır! Ona buyurduğu şeyi yerine getirmedi.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَلْيَنْظُرِ الْاِنْسَانُ اِلٰى طَعَامِه۪ۙ",
+        "turkish_text": "O insan(1) yiyeceğine bir baksın!",
+        "index_number": 24,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- O nankör insan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَنَّا صَبَبْنَا الْمَٓاءَ صَباًّۙ",
+        "turkish_text": "Suyu nasıl akıttıkça akıttık.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ شَقَقْنَا الْاَرْضَ شَقاًّۙ",
+        "turkish_text": "Sonra yeri yardıkça yardık.",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَنْبَتْنَا ف۪يهَا حَباًّۙ",
+        "turkish_text": "Böylece orada taneler yetiştirdik;",
+        "index_number": 27,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَعِنَباً وَقَضْباًۙ",
+        "turkish_text": "Üzümler, sebzeler,",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَزَيْتُوناً وَنَخْلاًۙ",
+        "turkish_text": "Zeytinler, hurmalar,",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَحَدَٓائِقَ غُلْباًۙ",
+        "turkish_text": "Dalları iç içe girmiş bahçeler,",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَفَاكِهَةً وَاَباًّۙ",
+        "turkish_text": "Meyveler ve otlaklar.",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَتَاعاً لَكُمْ وَلِاَنْعَامِكُمْۜ",
+        "turkish_text": "Size ve hayvanlarınıza geçim olarak.",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاِذَا جَٓاءَتِ الصَّٓاخَّةُۘ",
+        "turkish_text": "Fakat o kulakları sağır edici ses geldiği zaman.",
+        "index_number": 33,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ اَخ۪يهِۙ",
+        "turkish_text": "O Gün insan kardeşinden kaçar;",
+        "index_number": 34,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاُمِّه۪ وَاَب۪يهِۙ",
+        "turkish_text": "Annesinden ve babasından,",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَصَاحِبَتِه۪ وَبَن۪يهِۜ",
+        "turkish_text": "Eşinden ve çocuklarından.",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْن۪يهِۜ",
+        "turkish_text": "Onların hepsinin O Gün başından aşkın uğraşısı vardır.",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌۙ",
+        "turkish_text": "O Gün pırıl pırıl yüzler vardır;",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ضَاحِكَةٌ مُسْتَبْشِرَةٌۚ",
+        "turkish_text": "Gülen, sevinen.",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌۙ",
+        "turkish_text": "O Gün, kimi yüzler de tozludur,(1)",
+        "index_number": 40,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Karanlıklar içindedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "تَرْهَقُهَا قَتَرَةٌۜ",
+        "turkish_text": "Onu bir karanlık kaplar.(1)",
+        "index_number": 41,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Üzgün ve endişelidir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اُو۬لٰٓئِكَ هُـمُ الْكَفَرَةُ الْفَجَرَةُ",
+        "turkish_text": "İşte bunlar Kâfirlerdir, facirlerdir(1).",
+        "index_number": 42,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Facir kelimesi, “birr” kelimesinin zıddıdır. Yani kötü, bozguncu, samimiyetsiz, yalancı, hak-hukuk tanımaz, düzenbaz, zâlim; kısacası din diyânet tanımamak, dinin sınırlarını çiğneyerek onun dışına çıkmak demektir."
+          }
+        ]
+      }
+    ]
+  }
+}

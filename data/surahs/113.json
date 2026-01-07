@@ -1,0 +1,67 @@
+{
+  "data": {
+    "index_number": 113,
+    "name_arabic": "الفلق",
+    "name_turkish": "Felak",
+    "description": "Adını 1. âyetteki “Felak/yarıp çıkaran” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 20,
+    "verse_count": 6,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِۙ",
+        "turkish_text": "De ki: “Felak'ın(1) Rabb'ine sığınırım.”",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Felak, kelime olarak “yarıp çıkaran” demektir. Bu yarılmayı karanlığı yaran aydınlıkla sınırlamak doğru değildir. Felak'ın Rabb'i isim tamlaması olarak, evrende karanlığı yaran aydınlık da dâhil olmak üzere, bitki, toprak, hücre, kısacası üreyerek, yarılarak, bölünerek çoğalan, değişikliğe uğrayarak yenilenen ne varsa onların tamamının programlayıcısı, düzenleyicisi demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مِنْ شَرِّ مَا خَلَقَۙ",
+        "turkish_text": "“Yarattığı şeylerin şerrinden,”",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+        "turkish_text": "“Ve çöktüğü zaman karanlığın(1) şerrinden,”",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Âyette gece kelimesi yer almamaktadır. Bu karanlık gecenin karanlığı olabileceği gibi mecazen cehaletin karanlığı anlamına da gelmektedir. Ve korkulması gereken en koyu karanlık da cehalet karanlığıdır. Cehalet, yalnızca bilgisizlik demek değildir; aynı zamanda gerçeğin dışında bir şeye inanmak ve doğru olanın, Hakk'ın tersini yapmaktır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِۙ",
+        "turkish_text": "“Düğümlere üfleyenlerin(1) şerrinden,”",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Her türlü falcılık, büyü, yıldıznâme, astroloji/müneccimlik vb. şeyler, şerlerinden Allah'a sığınılacak türden şeyler olup şeytânî şeylerdir. Mü'minler bu tür şirk içeren şeylerden uzak durmalıdırlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+        "turkish_text": "“Ve kıskandığı zaman, kıskananın şerrinden.”",
+        "index_number": 5,
+        "deep_notes": []
+      }
+    ]
+  }
+}

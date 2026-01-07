@@ -1,0 +1,89 @@
+{
+  "data": {
+    "index_number": 99,
+    "name_arabic": "الزلزلة",
+    "name_turkish": "Zilzâl",
+    "description": "Adını 1. âyetteki “Zilzâl/sarsıntı” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 93,
+    "verse_count": 9,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+        "turkish_text": "Yeryüzü şiddetli sarsıntı ile sarsıldığı zaman,",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+        "turkish_text": "Yeryüzü ağırlıklarını çıkardığı;",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+        "turkish_text": "Ve insan, “Ona ne oluyor?” dediği,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَئِذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+        "turkish_text": "O Gün,(1) hadislerini(2) anlatacak.(3)",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap sorma günü, yalnızca Allah'ın belirlediği ilke ve kuralların geçerli olduğu gün."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Haberlerini."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- O gün yeryüzü hal diliyle olup biteni anlatacak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۜ",
+        "turkish_text": "Çünkü Rabb'in ona vahyetmiştir.(1)",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Böyle düzen koymuştur."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتاً لِيُرَوْا اَعْمَالَهُمْۜ",
+        "turkish_text": "O Gün, insanlar amelleri kendilerine gösterilsin diye grup grup ortaya çıkacaklar.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْراً يَرَهُۜ",
+        "turkish_text": "Artık kim zerre ağırlığınca iyilik yapmışsa onu görür.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَراًّ يَرَهُ",
+        "turkish_text": "Ve kim zerre ağırlığınca kötülük yapmışsa onu görür.",
+        "index_number": 8,
+        "deep_notes": []
+      }
+    ]
+  }
+}

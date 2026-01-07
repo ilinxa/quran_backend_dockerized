@@ -1,0 +1,168 @@
+{
+  "data": {
+    "index_number": 60,
+    "name_arabic": "الممتحنة",
+    "name_turkish": "Mumtehine",
+    "description": "Adını 10. âyette geçen “Femtehinûhunne/imtihan olunan kadın” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 91,
+    "verse_count": 14,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَتَّخِذُوا عَدُوّ۪ي وَعَدُوَّكُمْ اَوْلِيَٓاءَ تُلْقُونَ اِلَيْهِمْ بِالْمَوَدَّةِ وَقَدْ كَفَرُوا بِمَا جَٓاءَكُمْ مِنَ الْحَقِّۚ يُخْرِجُونَ الرَّسُولَ وَاِيَّاكُمْ اَنْ تُؤْمِنُوا بِاللّٰهِ رَبِّكُمْۜ اِنْ كُنْتُمْ خَرَجْتُمْ جِهَاداً ف۪ي سَب۪يل۪ي وَابْتِغَٓاءَ مَرْضَات۪ي تُسِرُّونَ اِلَيْهِمْ بِالْمَوَدَّةِۗ وَاَنَا۬ اَعْلَمُ بِمَٓا اَخْفَيْتُمْ وَمَٓا اَعْلَنْتُمْۜ وَمَنْ يَفْعَلْهُ مِنْكُمْ فَقَدْ ضَلَّ سَوَٓاءَ السَّب۪يلِ",
+        "turkish_text": "Ey Îmân Edenler! Benim ve sizin düşmanlarınızı evliya(1) edinmeyin. Onlar, Hakk'tan size geleni inkâr ettikleri halde onlarla yakınlık kuruyorsunuz. Oysaki Rabb'iniz olan Allah'a îmân etmenizden dolayı Resûl'ü ve sizi yurdunuzdan çıkardılar. Eğer Benim yolumda mücadele etmek ve rızamı kazanmak için yola çıktıysanız, niçin onlara yakınlık kurup sır veriyorsunuz? Ben, sizin gizli ve açık bütün yaptıklarınızı bilirim. Sizden kim bunu yaparsa o, kesinlikle yolun ortasından sapmış olur.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Koruyucu, yardımcı, yönlendirici, gözeten, destekleyici, yandaş. Kur'an'da yer alan “veli” ve velinin çoğulu olan “evliya” kelimelerine dost, dostlar olarak anlam verilmesi doğru değildir. Bu kelimeler, ahlâki anlamdaki dostluğu değil; siyasi anlamda yönetmeyi, korumayı, gözetilmeyi ifade etmektedir. Kur'an, “dost” için “halil” kelimesini kullanmaktadır (2:254; 4:125; 17:73; 25:28). Allah'ın isimlerinden olan “El-Veli; Sahip Çıkan, Koruyan, Gözeten, Destek Olan.” demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنْ يَثْقَفُوكُمْ يَكُونُوا لَكُمْ اَعْدَٓاءً وَيَبْسُطُٓوا اِلَيْكُمْ اَيْدِيَهُمْ وَاَلْسِنَتَهُمْ بِالسُّٓوءِ وَوَدُّوا لَوْ تَكْفُرُونَۜ",
+        "turkish_text": "Eğer ellerine fırsat geçirirlerse size düşman kesilirler. Elleriyle ve dilleriyle size her türlü kötülüğü yaparlar. Tekrar küfre dönmenizi temenni ederler.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَنْ تَنْفَعَكُمْ اَرْحَامُكُمْ وَلَٓا اَوْلَادُكُمْۚۛ يَوْمَ الْقِيٰمَةِۚۛ يَفْصِلُ بَيْنَكُمْۜ وَاللّٰهُ بِمَا تَعْمَلُونَ بَص۪يرٌ",
+        "turkish_text": "Kıyamet günü akrabalarınız ve çocuklarınız size asla fayda sağlamazlar. Sizin aranızı ayıracaktır. Ve Allah, yaptıklarınızı En İyi Gören'dir.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَدْ كَانَتْ لَكُمْ اُسْوَةٌ حَسَنَةٌ ف۪ٓي اِبْرٰه۪يمَ وَالَّذ۪ينَ مَعَهُۚ اِذْ قَالُوا لِقَوْمِهِمْ اِنَّا بُرَءٰٓؤُ۬ا مِنْكُمْ وَمِمَّا تَعْبُدُونَ مِنْ دُونِ اللّٰهِۘ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ الْعَدَاوَةُ وَالْبَغْضَٓاءُ اَبَداً حَتّٰى تُؤْمِنُوا بِاللّٰهِ وَحْدَهُٓ اِلَّا قَوْلَ اِبْرٰه۪يمَ لِاَب۪يهِ لَاَسْتَغْفِرَنَّ لَكَ وَمَٓا اَمْلِكُ لَكَ مِنَ اللّٰهِ مِنْ شَيْءٍۜ رَبَّـنَا عَلَيْكَ تَوَكَّلْنَا وَاِلَيْكَ اَنَبْنَا وَاِلَيْكَ الْمَص۪يرُ",
+        "turkish_text": "Ancak İbrâhîm'in babasına: “Allah'tan olacak olana gücüm yetmez, fakat senin için bağışlanma dileyeceğim” sözü hariç.(1) İbrâhîm'de ve onunla birlikte bulunanlarda sizin için iyi bir örnek vardır. Onlar halklarına şöyle demişlerdi: “Biz, sizden ve sizin Allah'ın yanı sıra kulluk(2) ettiğiniz şeylerden kesinlikle uzağız. Biz, sizi reddediyoruz. Siz, ilâhın yalnızca Allah olduğuna îmân edinceye kadar bizimle sizin aranızda düşmanlık ve kınama devam edecektir. Rabb'imiz! Yalnız Sana dayandık, yalnız Sana yöneldik. Ve dönüş yalnızca Sana'dır.”",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İbrâhîm'in bu isteği iyi bir örnek değildir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Her insan kaçınılmaz olarak kuldur. Bu seçime bağlı olmayıp. Zorunlu bir durumdur. Seçim kul olup olmamakla ilgili değil, kulluğun kime yapılacağı ile ilgilidir. Kulluk ya Allah'a ya da Allah'tan başka şeylere olur. Allah'a özgü olan kulluk gerçek özgürlüktür. Allah'tan başkasına olan kulluk ise köleliktir. Allah'a kul olmayan bir kimse; bir düşünceye, görüşe, doğaya, iktidara, sisteme, kişiye, ünvana, paraya, dünya malına vs. kul olmak zorundadır. Bu kulluk doğası gereği köleliktir. İnsan yaşamında kulluğun kapsamadığı, kulluğun dışına tutulabilecek hiçbir alan yoktur. Bir Mü'min için kulluk, insanın rûhen ve bedenen bütün varlığı ile Allah'a bilinçli bir bağlılık ile yönelmesidir. İbadet ve kulluk anlam olarak aynı şeydir: İbadet kul kelimesinin mastarıdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِلَّذ۪ينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَاۚ اِنَّكَ اَنْتَ الْعَز۪يزُ الْحَك۪يمُ",
+        "turkish_text": "“Rabb'imiz! Bizi Kâfirler için sınav konusu yapma. Bizi bağışla Rabb'imiz! Kuşkusuz Sen, Mutlak Üstün Olan'sın, En Doğru Karar Veren'sin.”",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَقَدْ كَانَ لَـكُمْ ف۪يهِمْ اُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُوا اللّٰهَ وَالْيَوْمَ الْاٰخِرَۜ وَمَنْ يَتَوَلَّ فَاِنَّ اللّٰهَ هُوَ الْغَنِيُّ الْحَم۪يدُ۟",
+        "turkish_text": "Ant olsun ki, onlar, sizin için ve âhiret gününü bekleyen kimseler için iyi bir örnektirler. Kim yüz çevirirse, bilsin ki kuşkusuz Allah; Hiçbir Şeye Muhtaç Olmayan'dır, Övgüye Değer Yegâne Varlık'tır.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَسَى اللّٰهُ اَنْ يَجْعَلَ بَيْنَكُمْ وَبَيْنَ الَّذ۪ينَ عَادَيْتُمْ مِنْهُمْ مَوَدَّةًۜ وَاللّٰهُ قَد۪يرٌۜ وَاللّٰهُ غَفُورٌ رَح۪يمٌ",
+        "turkish_text": "Belki Allah, gün gelir sizinle, onlardan düşmanlık beslediğiniz kimseler arasında bir sevgi oluşturur. Allah; Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَا يَنْهٰيكُمُ اللّٰهُ عَنِ الَّذ۪ينَ لَمْ يُقَاتِلُوكُمْ فِي الدّ۪ينِ وَلَمْ يُخْرِجُوكُمْ مِنْ دِيَارِكُمْ اَنْ تَـبَرُّوهُمْ وَتُقْسِطُٓوا اِلَيْهِمْۜ اِنَّ اللّٰهَ يُحِبُّ الْمُقْسِط۪ينَ",
+        "turkish_text": "Allah; sizi, din konusunda sizinle savaşmayan ve sizi yurdunuzdan çıkarmayan kimselere iyilik yapmaktan, onlara karşı hak neyse onu yapmaktan alıkoymaz. Kuşkusuz ki Allah, haktan ve haklıdan yana olanları sever.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّمَا يَنْهٰيكُمُ اللّٰهُ عَنِ الَّذ۪ينَ قَاتَلُوكُمْ فِي الدّ۪ينِ وَاَخْرَجُوكُمْ مِنْ دِيَارِكُمْ وَظَاهَرُوا عَلٰٓى اِخْرَاجِكُمْ اَنْ تَوَلَّوْهُمْۚ وَمَنْ يَتَوَلَّهُمْ فَاُو۬لٰٓئِكَ هُمُ الظَّالِمُونَ",
+        "turkish_text": "Ancak Allah, din konusunda sizinle savaşan, sizi yurtlarınızdan çıkaran ve çıkarılmanız için yardımlaşan kimselerle yakınlık kurmanızı yasaklamıştır. Kim onlarla yakınlık kurarsa, onlar zâlimlerin ta kendileridir.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِذَا جَٓاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّۜ اَللّٰهُ اَعْلَمُ بِا۪يمَانِهِنَّۚ فَاِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ اِلَى الْكُفَّارِۜ لَا هُنَّ حِلٌّ لَهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّۜ وَاٰتُوهُمْ مَٓا اَنْفَقُواۜ وَلَا جُنَاحَ عَلَيْكُمْ اَنْ تَنْكِحُوهُنَّ اِذَٓا اٰتَيْتُمُوهُنَّ اُجُورَهُنَّۜ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَسْـَٔلُوا مَٓا اَنْفَقْتُمْ وَلْيَسْـَٔلُوا مَٓا اَنْفَقُواۜ ذٰلِكُمْ حُكْمُ اللّٰهِۜ يَحْكُمُ بَيْنَكُمْۜ وَاللّٰهُ عَل۪يمٌ حَك۪يمٌ",
+        "turkish_text": "Ey Îmân Edenler! Sığınmak üzere size gelen Mü'min(1) kadınların hicret nedenlerini sorgulayın. Allah, onların gerçekten îmân edip etmediklerini çok iyi bilmektedir. Eğer gerçekten Mü'min olduklarını anlarsanız, onları Kâfirlere geri göndermeyin. Onlar, Kâfir erkeklere helâl değildir. Kâfir erkekler de onlara helâl değildir. Kâfirlerin bu kadınlara verdiklerini(2) iade edin. Mehirlerini verdiğiniz takdirde onlarla nikâhlanmanızda bir sakınca yoktur. Ve Kâfir kadınları(3) nikâhınızda tutmayın. Ve ne infak(4) ettiyseniz geri isteyin. Onlar da infak ettiklerini geri istesinler. İşte bu Allah'ın aranızda verdiği hükmüdür. Allah; Her Şeyi Bilen'dir, En Doğru Karar Veren'dir.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnandıklarını söyleyen."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Mehir ve harcamalar."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Kafirlere katılan kadınları."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Mehir ve harcamaları."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنْ فَاتَكُمْ شَيْءٌ مِنْ اَزْوَاجِكُمْ اِلَى الْـكُفَّارِ فَعَاقَبْتُمْ فَاٰتُوا الَّذ۪ينَ ذَهَبَتْ اَزْوَاجُهُمْ مِثْلَ مَٓا اَنْفَقُواۜ وَاتَّقُوا اللّٰهَ الَّـذ۪ٓي اَنْتُمْ بِه۪ مُؤْمِنُونَ",
+        "turkish_text": "Eğer eşlerinizden(1) dolayı, bir şeyiniz Kâfirlere geçtiyse, sonra da ödeme sırası size geldiğinde(2), o zaman eşleri gitmiş olanlara infak ettikleri kadar verin. Ve siz, kendisine îmân ettiğiniz Allah'a karşı takvâ sahibi olun.",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kâfirlerin tarafına geçen."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- O Kâfirlerle savaşıp ganimet elde ederseniz, eşleri gitmiş olanlara, eşlerine ödedikleri mehiri o ganimetten verin."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا النَّبِيُّ اِذَا جَٓاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلٰٓى اَنْ لَا يُشْرِكْنَ بِاللّٰهِ شَيْـٔاً وَلَا يَسْرِقْنَ وَلَا يَزْن۪ينَ وَلَا يَقْتُلْنَ اَوْلَادَهُنَّ وَلَا يَأْت۪ينَ بِبُهْتَانٍ يَفْتَر۪ينَهُ بَيْنَ اَيْد۪يهِنَّ وَاَرْجُلِهِنَّ وَلَا يَعْص۪ينَكَ ف۪ي مَعْرُوفٍ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللّٰهَۜ اِنَّ اللّٰهَ غَفُورٌ رَح۪يمٌ",
+        "turkish_text": "Ey Nebi! Îmân Eden kadınlar; Allah'a hiçbir şeyi ortak koşmamak, hırsızlık yapmamak, zinâ yapmamak, çocuklarını öldürmemek, elleri ve ayakları arasında bir iftira uydurup(1) getirmemek, maruf(2) olan konularda sana asilik yapmamak koşuluyla sana bi'at(3) ederlerse onların bi'atlarını kabul et ve onlar için Allah'tan bağışlanma dile. Kuşkusuz Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 12,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hiç yoktan yalan uydurup, iftirada bulunmak."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Toplumun; doğru, iyi ve yararlı gördüğü; vahye uygun olan."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Allah yolunda birlikte olmak için bağlılığını bildirmek, birlikte hareket edeceğine, her koşul ve durumda yanında yer alacağına dair söz vermek."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَتَوَلَّوْا قَوْماً غَضِبَ اللّٰهُ عَلَيْهِمْ قَدْ يَـئِسُوا مِنَ الْاٰخِرَةِ كَمَا يَـئِسَ الْكُفَّارُ مِنْ اَصْحَابِ الْقُبُورِ",
+        "turkish_text": "Ey Îmân Edenler! Allah'ın gazâp ettiği halka dönmeyin. Kâfirlerin mezarlık halkından ümitlerini kestikleri gibi(1) onlar da âhiretten ümitlerini kesmişlerdir.",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Onların tekrar dünyaya dönmelerinden."
+          }
+        ]
+      }
+    ]
+  }
+}

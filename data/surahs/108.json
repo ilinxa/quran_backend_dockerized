@@ -1,0 +1,70 @@
+{
+  "data": {
+    "index_number": 108,
+    "name_arabic": "الكوثر",
+    "name_turkish": "Kevser",
+    "description": "Adını 1. âyetteki “Kevser/çokluk, nimet, şeref, değer” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 15,
+    "verse_count": 4,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّٓا اَعْطَيْنَاكَ الْـكَوْثَرَۜ",
+        "turkish_text": "Kuşkusuz Biz(1) sana kevseri(2) verdik.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Birçok âyette; Allah'a atfen “Biz”, “Biziz” çoğul zamirleri kullanılmaktadır. Kur'an'daki “Biz/Biziz” zamirleri çokluğu değil, “yüceliği, gücü, büyüklüğü” ifade etmektedir. “Biz” çoğul zamirinin kullanıldığı hiçbir âyette Allah'ın zatı/kendisi söz konusu edilmemektedir. Allah'ın zatından söz eden âyetlerin tamamında “ene”, “inni” (ben, beni/bana) zamirleri gibi tekil şahıs zamirleri kullanılmaktadır. “Biz” zamiri ise, Allah'ın yaptıklarını veya yapacaklarını bildiren âyetlerde, Allah'ın gücünün, üstünlüğün ve büyüklüğün ifadesi olarak yer almaktadır. Bütün dillerde gücü ve yönetimi elinde bulunduran erk, otorite, yönetici kendi gücünden ve üstünlüğünden söz eden ifadelerde, açıklama ve buyruklarda “biz” zamirini kullanmaktadır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Pek çok hayırlı ve güzel nimetleri, Kur'an'ı. Kevser, kelime anlamı olarak çokluk demektir. Bu çokluk, “sayısal” şeyler için olabileceği gibi; değerli olma, önemli olma gibi şeyler için de olabilir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۜ",
+        "turkish_text": "O halde Rabb'in için salât(1) et ve zorlukları göğüsle.(2)",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Salât, ibadete layık yegâne ilâhın Allah olduğuna inanmak, şirkten arınmış bir bilinçle Allah'a yönelme demektir. Bu yönelme: Sürekli destek olmak, dayanışmak, ilgi duymak, duyarlı olmak, izleyici kalmamak, yanında yer almaktır. Salâtın diğer anlamları şunlardır: Ritüel salât (Namaz), dûa etmek, din, havra. Salâtın hangi anlamı ifade ettiği, içinde yer aldığı âyet ve konu bağlamından rahatlıkla anlaşılabilir. Salâtın zıddı tevellâdır. Tevellâ süreklilik ifade etmektedir: Sürekli karşı çıkmak, ilgisiz ve duyarsız kalmak, köstek olmak, engellemeye çalışmak. Namaz, Farsça bir kelimedir ve bu kelime Kur'an'da geçmez."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Kelimesi kelimesine “venhar.” Çevirilerin, âyette geçen “venhar” kelimesine “kurban kes” anlamını vermeleri, âyetin bağlamını dikkate almamaktan kaynaklanan bir yanılgıdır. Sûrenin vahyedildiği dönem ve koşullar dikkate alındığında “kurban kesmekten” söz etmenin mümkün olmayacağını da anlamak gerekir. Nahr, kelime anlamı olarak, “göğüs, gerdan, göğüslemek, deveyi göğsünden kesmek, elleri göğse değdirmek” gibi anlamlara gelmektedir. “Nahr” kelimesi bu ayette kurban kesmek anlamına değil, “zorlukları göğüslemek, göğüs germek” anlamına gelmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
+        "turkish_text": "Kuşkusuz o sana buğzeden,(1) sonu olmayanın ta kendisidir.(2)",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Nefret eden, kin besleyen."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Sonu ebter/beter olacak olandır. Sonu kötü olacak olan odur."
+          }
+        ]
+      }
+    ]
+  }
+}

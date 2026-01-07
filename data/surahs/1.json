@@ -1,0 +1,61 @@
+{
+  "data": {
+    "index_number": 1,
+    "name_arabic": "الفاتحة",
+    "name_turkish": "Fâtiha",
+    "description": "Adını açılış anlamındaki Fâtiha kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 5,
+    "verse_count": 7,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ",
+        "turkish_text": "Övülmeye değer olan yalnızca Âlemlerin Rabb'i Allah'tır.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلرَّحْمٰنِ الرَّح۪يمِۙ",
+        "turkish_text": "O'nun Rahmeti Bol ve Kesintisizdir.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَالِكِ يَوْمِ الدّ۪ينِۜ",
+        "turkish_text": "O, Hesap Günü'nün sahibidir.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُۜ",
+        "turkish_text": "Yalnız Sana kulluk eder ve yalnız Sen'den yardım dileriz.(1)",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Dûa; çağırmak, seslenmek, yardım istemek demektir. Dûa, Allah'a istek ve ihtiyaçlarını arz ederek O'nun lütfunu desteğini, bağışlamasını ve yardımını istemektir (2:186). İnsan, dûa etmeden önce kendisine düşeni yapmalıdır. Kendisine düşeni yapmadan Allah'tan bir şey istemek samimiyetsizliktir. Yine Allah'tan istenilen şeyin doğru bir şey olması gerekir: İstediği şeyi hak edip etmediğini, hakkı olup olmadığını dikkate almalıdır. Dûa edenin, isteği kabul edildikten sonra, Allah'ı unutacak olması, duasının kabul edilmesine engeldir. Allah'ın yanı sıra başka bir kimseye veya şeye dua etmek şirktir (1:5)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَۙ",
+        "turkish_text": "Bize doğru yolu göster;",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ",
+        "turkish_text": "Nimet verdiklerinin yolunu. Gazabına uğrayanların ve sapkınların yolunu değil.",
+        "index_number": 7,
+        "deep_notes": []
+      }
+    ]
+  }
+}

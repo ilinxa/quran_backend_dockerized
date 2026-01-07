@@ -1,0 +1,98 @@
+{
+  "data": {
+    "index_number": 97,
+    "name_arabic": "القدر",
+    "name_turkish": "Kadr",
+    "description": "Adını 1. âyetteki “Kadr/değerli” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 25,
+    "verse_count": 6,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّٓا اَنْزَلْنَاهُ ف۪ي لَيْلَةِ الْقَدْرِۚ",
+        "turkish_text": "Kuşkusuz Biz onu(1) Kad'r Gecesi'nde(2) indirdik(3).",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'ı, Kitâp'ı."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- “Kad'r,” kelime olarak “değer,” “kıymet” demektir. Kad'r gecesi, vahyin inmeye başladığı ilk gecedir. Ve bu yalnızca bir kez olmuştur. Kur'an'ın indiği değil, inmeye başladığı gecenin adıdır Kad'r gecesi. Bu her yıl tekrarlanan bir süreç değildir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- İndirmeye başladık. Geçmiş zaman kipinin kullanılması, olan şeyin kesinliğini ifade etmek içindir. Zira Arapça'da pekiştirme, kesinlik bildirme edatları içinde geçmiş zaman kipi de bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا لَيْلَةُ الْقَدْرِۜ",
+        "turkish_text": "Kad'r Gecesi'nin ne olduğunu sana bildiren nedir?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ اَلْفِ شَهْرٍۜ",
+        "turkish_text": "Kad'r gecesi bin aydan daha hayırlıdır.(1)",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kad'r gecesini önemli yapan, gecenin bizatihi kendisi değil, Kur'an'ın o gece indirilmeye başlanmış olmasıdır. Yani geceyi önemli yapan şey, Kur'an'ın ilk kez indirilmeye başlandığı gece olmasıdır. Bu gecenin, bin aydan daha hayırlı olduğunu söyleyerek vurgulanmak istenen şey, Kur'an'ın ne denli önemli olduğuna dikkat çekmektir. Bin ay sayısı, Kur'an'ın saygınlığının derecesini, önemini vurgulamak için ifade edilen bir sayıdır. Bu zaman/gün bildiren bir sayı değil, “değer” bildiren bir sayıdır. Bu gecenin günahları sıfırlayan bir gece olduğuna dair ileri sürülen rivâyetlerin tamamı uydurmadır, hurafedir; Kur'an'ın mesajına her açıdan aykırıdır ve İsrâîliyyât kaynaklıdır; Kur'an'ı tahrif etmekten başka bir şey değildir: Kad'r gecesinden bir gün sonra ölen bir kimse günahları sıfırlanmış olarak ölecek, bir gün önce ölen ise günahları ile birlikte ölecek. Böyle bir haksızlığı Allah'a yakıştırmak, Allah'ı zâlim saymakla eşdeğer bir cürümdür."
+          }
+        ]
+      },
+      {
+        "arabic_text": "تَنَزَّلُ الْمَلٰٓئِكَةُ وَالرُّوحُ ف۪يهَا بِاِذْنِ رَبِّهِمْۚ مِنْ كُلِّ اَمْرٍۙۛ",
+        "turkish_text": "Melekler(1) ve rûh,(2) onda Rabb'lerinin izniyle(3) her bir emir için iner de iner.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- “İlâhi güç.”"
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Rûh, kelime anlamı olarak; “can”, “vücuda hayat veren cevher” demektir. Kur'an, rûh kelimesini vahiy anlamında da kullanmaktadır. Zira vahiy, insana ve topluma hayat vermekte, insana ve topluma düzen vererek onları canlı ve diri tutmaktadır; onlara en iyi yaşantıyı sağlamanın yolunu göstermektedir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- “Allah'ın izni ile”, terkibi, “Allah'ın belirlediği ilke ve kurallara göre, Allah'ın bilgisine göre ve bilgisi gereği” anlamlarına gelmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "سَلَامٌ۠ۛ هِيَ حَتّٰى مَطْلَعِ الْفَجْرِ",
+        "turkish_text": "O, fecrin ağarmasına(1) kadar selâmdır.(2)",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şafak sökene kadar."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Esenliktir, güvendir."
+          }
+        ]
+      }
+    ]
+  }
+}

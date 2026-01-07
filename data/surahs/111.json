@@ -1,0 +1,71 @@
+{
+  "data": {
+    "index_number": 111,
+    "name_arabic": "المسد",
+    "name_turkish": "Tebbet",
+    "description": "Adını 1. âyetteki “Tebbet/ kurusun, kahrolsun” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 6,
+    "verse_count": 6,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَبَّتْ يَدَٓا اَب۪ي لَهَبٍ وَتَبَّۜ",
+        "turkish_text": "Ebû Leheb'in iki eli(1) kurudu.(2) Ve kendisi de yok oldu.(3)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gücü, malı mülkü, imkânı."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Yok oldu."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Kur'an, anlatım üslubu olarak, ileride olacak bir şeyin, kesinlikle olacağını vurgulamak için gelecek zaman yerine geniş veya geçmiş zaman kipini kullanmaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مَٓا اَغْنٰى عَنْهُ مَالُهُ وَمَا كَسَبَۜ",
+        "turkish_text": "Malı da kazandıkları da ona bir yarar sağlamadı.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَيَصْلٰى نَاراً ذَاتَ لَهَبٍۚ",
+        "turkish_text": "Alevli ateşe atılacak.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَامْرَاَتُهُۜ حَمَّالَةَ الْحَطَبِۚ",
+        "turkish_text": "Odun hamalı karısı da.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي ج۪يدِهَا حَبْلٌ مِنْ مَسَدٍ",
+        "turkish_text": "Boynunda liften bir urgan.(1)",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Benzetme ile boynundaki urgan/kalın iple kocası ve kendisi için Cehennem ateşine odun taşıyacağı ifade edilmektedir. “Odun taşımak”, Arapça'da deyim olarak, “koğuculuk yapmak, laf taşımak” anlamına gelmektedir."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1568 @@
+{
+  "data": {
+    "index_number": 5,
+    "name_arabic": "المائدة",
+    "name_turkish": "Maide",
+    "description": "Hicretin 6. yılında indirilmiştir. 120 âyettir. Adını, 112. Ve 114. âyette geçen “maide/sofra” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 112,
+    "verse_count": 121,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اَوْفُوا بِالْعُقُودِۜ اُحِلَّتْ لَكُمْ بَه۪يمَةُ الْاَنْعَامِ اِلَّا مَا يُتْلٰى عَلَيْكُمْ غَيْرَ مُحِلِّي الصَّيْدِ وَاَنْتُمْ حُرُمٌۜ اِنَّ اللّٰهَ يَحْكُمُ مَا يُر۪يدُ",
+        "turkish_text": "Ey Îmân Edenler! Sözlerinizi yerine getirin. İhramlı iken helâl saymamanız(1) şartı ile okunacak olanların dışında kalan(2) en'âm(3) size helâl kılındı Kuşkusuz, Allah, dilediği hükmü verir.(4)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İhramlı iken helâl olanlar da harâmdır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bir sonraki âyette yazılı olanlar."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Davarlar; deve, sığır, koyun, keçi vb. otçul küçük ve büyük baş hayvanlar."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Allah, kulları için en uygun, en iyi, en doğru hükmü verir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تُحِلُّوا شَعَٓائِرَ اللّٰهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَٓائِدَ وَلَٓا آٰمّ۪ينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلاً مِنْ رَبِّهِمْ وَرِضْوَاناًۜ وَاِذَا حَلَلْتُمْ فَاصْطَادُواۜ وَلَا يَجْرِمَنَّكُمْ شَنَاٰنُ قَوْمٍ اَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ اَنْ تَعْتَدُواۢ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوٰىۖ وَلَا تَعَاوَنُوا عَلَى الْاِثْمِ وَالْعُدْوَانِۖ وَاتَّقُوا اللّٰهَۜ اِنَّ اللّٰهَ شَد۪يدُ الْعِقَابِ",
+        "turkish_text": "Ey Îmân Edenler! Allah'ın işaretlerine,(1) harâm aya, kurbana, gerdanlıklara;(2) Rabb'lerinin lütuf ve rızasını dileyerek Beyt-i Harâm'a gelenlere saygısızlık etmeyin. İhramdan çıktığınız zaman avlanabilirsiniz. Sizi, Mescid-i Harâm'dan alıkoymalarından dolayı bir halka olan kızgınlığınız, aşırı gitmenize neden olmasın. Günah ve düşmanlık üzerinde değil, iyilik ve takvâ üzerinde yardımlaşın. Allah'a karşı takvâlı(3) olun. Kuşkusuz Allah'ın azâbı çok şiddetlidir.",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın belirlediği simgeleri."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Haccda yemek amacıyla ayrılan hayvanları belirleyen işaretleme."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Takvâ, korunmak demektir. Allah'ın buyruklarına içtenlikle uyarak fucûr, günah, kötü, zararlı ve tehlikeli şeylere karşı kendisini korumak ve güvene almaktır. Takvâ, kelime anlamı olarak zarar verecek şey ile korunacak şey arasına konan engel demektir. Muttakî: Takvâ sahibi olan. Takvâ “Fucûr”un karşıtıdır (Bkz. 38:28; 91:8). Facir, fütursuzca günaha dalan, Hakk'tan Bâtıl'a sapan kimse demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْز۪يرِ وَمَٓا اُهِلَّ لِغَيْرِ اللّٰهِ بِه۪ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّط۪يحَةُ وَمَٓا اَكَلَ السَّبُعُ اِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَاَنْ تَسْتَقْسِمُوا بِالْاَزْلَامِۜ ذٰلِكُمْ فِسْقٌۜ اَلْيَوْمَ يَـئِسَ الَّذ۪ينَ كَفَرُوا مِنْ د۪ينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِۜ اَلْيَوْمَ اَكْمَلْتُ لَكُمْ د۪ينَكُمْ وَاَتْمَمْتُ عَلَيْكُمْ نِعْمَت۪ي وَرَض۪يتُ لَكُمُ الْاِسْلَامَ د۪يناًۜ فَمَنِ اضْطُرَّ ف۪ي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِاِثْمٍۙ فَاِنَّ اللّٰهَ غَفُورٌ رَح۪يمٌ",
+        "turkish_text": "Ölü, kan, domuz eti, Allah'tan başkasının adı anılarak(1) kesilen ve boğularak ölmüş, vurularak ölmüş, yüksekten düşerek ölmüş, boynuzlanarak ölmüş; yırtıcı hayvan tarafından yenmiş -canı çıkmadan kesilmiş olanlar hariç- ve putlar adına kesilenler harâm kılındı. Fal okları(2) ile kısmet aramanız size harâm kılındı. Bunlar fısktır.(3) Artık, Kâfirler, dininize bir şey yapmaktan umutlarını kesmişlerdir. Öyleyse, onlara hûşû(4) duymayın. Bana hûşû duyun. Bugün, sizin için dininizi kemale erdirdim/ikmal ettim ve sizin üzerinize nimetimi(5) tamamladım. Sizin için din olarak İslâm'ı seçtim/ beğendim. Kim açlıktan dolayı mecbur kalırsa, istekli olmaksızın bunlardan yiyebilir. Kuşkusuz Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'tan başka şeylere adanan. Başka ilâhlar için kesilen. Hayvan kesilirken üzerine Allah'ın adının anılmamış olması onu harâm yapmaz. Diğer bir deyimle Allah'tan başka ilâhlar adına kesmeye niyetlenmiş olmamak koşulu ile kesilen, ancak üzerinde Allah'ın adı anılmamış olan hayvanların etlerini yemek helâldir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Câhiliye döneminde Araplar bir şey yapmaya niyet ettikleri zaman karar vermek için üç ok alırlardı. Üzerlerine, Rabb'im emretti, Rabb'im yasakladı yazarak ve birini de boş bırakarak bir torbaya koyar, sonra da içlerinden birini çekerler ve onun üzerinde yazılı olana göre karar verirlerdi."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Günaha sapan. Günahta ısrar eden. Vahyin belirlediği sınırların dışına çıkan; iyi, doğru, güzel ve temiz şeylerden uzak kalan. İnandığı halde, yaşantı olarak Kâfir olan."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Derin saygı ve içten sevgi."
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- Vahyin gönderilişini."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَسْـَٔلُونَكَ مَاذَٓا اُحِلَّ لَهُمْۜ قُلْ اُحِلَّ لَكُمُ الطَّيِّبَاتُۙ وَمَا عَلَّمْتُمْ مِنَ الْجَوَارِحِ مُكَلِّب۪ينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ اللّٰهُۘ فَكُلُوا مِمَّٓا اَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللّٰهِ عَلَيْهِۖ وَاتَّقُوا اللّٰهَۜ اِنَّ اللّٰهَ سَر۪يعُ الْحِسَابِ",
+        "turkish_text": "Sana, kendilerine neyin helâl olduğunu soruyorlar. De ki: “Temiz ve iyi olanlar, size helâl kılındı. Ve Allah'ın size verdiği bilgi ile eğittiğiniz eğitimli av hayvanlarının yakaladıklarını yiyin. Ve Allah'ın adını onun(1) üzerine anın. Allah'a karşı takvâlı olun. Kuşkusuz, Allah, Hesabı Çok Çabuk Gören'dir.”",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Eğitimli av hayvanının yakaladığı şeyi keserken veya yerken."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلْيَوْمَ اُحِلَّ لَكُمُ الطَّيِّبَاتُۜ وَطَعَامُ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ حِلٌّ لَكُمْۖ وَطَعَامُكُمْ حِلٌّ لَهُمْۘ وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ وَالْمُحْصَنَاتُ مِنَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ مِنْ قَبْلِكُمْ اِذَٓا اٰتَيْتُمُوهُنَّ اُجُورَهُنَّ مُحْصِن۪ينَ غَيْرَ مُسَافِح۪ينَ وَلَا مُتَّخِذ۪ٓي اَخْدَانٍۜ وَمَنْ يَكْفُرْ بِالْا۪يمَانِ فَقَدْ حَبِطَ عَمَلُهُۘ وَهُوَ فِي الْاٰخِرَةِ مِنَ الْخَاسِر۪ينَ۟",
+        "turkish_text": "Bugün size, temiz şeyler helâl kılındı. Ve Kitâp verilenlerin yiyecekleri size, sizin yiyecekleriniz de onlara helâldir. Îmân eden muhsenât(1) kadınlar ve sizden önce kendilerine Kitâp verilenlerin muhsenât kadınları; karşılıklarını(2) vermeniz, iffetli olmanız, iffetsiz olmamanız ve gizli dost tutmamanız koşuluyla size helâldir. Kim îmânı küfrederse(3) yaptığı işler boşa gider ve o, âhirette hüsrana uğrayanlardan olur.",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Korunan: İffetini, edebini, namusunu, özgürlüğünü koruyan. Bir kadın; evlilik, özgür olmak ve iffetli olmakla korunmayı, sakınılmayı ve engel olunmayı sağlamaktadır. Muhsenât kelimesi, kök anlamı itibariyle saklamak, korumak, engel olmak demektir. Bu kelime, Arapça'da hür kadın, namuslu/iffetli kadın anlamlarına gelmektedir. Muhsenât, hür kadın anlamında (4:4; 4:25); iffet ve namus sahibi anlamında (21:91; 66:12.) âyetlerinde geçmektedir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Mehirlerini."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- İnançsız, îmân etmeyen. Gerçeğin üzerini örten, gerçeği kabul etmeyen, gerçeğe karşı nankörlük eden. Allah'ı ve vahyi reddeden. Fıtrî yeteneğini köreltip örten. Küfr, Îmân'ın emin olmanın, güvenmenin, onaylamanın karşıtıdır. Kur'an, ektiği tohumun üzerini toprakla örttüğü için çiftçiye de kâfir demektedir (57:20)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِذَا قُمْتُمْ اِلَى الصَّلٰوةِ فَاغْسِلُوا وُجُوهَكُمْ وَاَيْدِيَكُمْ اِلَى الْمَرَافِقِ وَامْسَحُوا بِرُؤُ۫سِكُمْ وَاَرْجُلَكُمْ اِلَى الْكَعْبَيْنِۜ وَاِنْ كُنْتُمْ جُنُباً فَاطَّهَّرُواۜ وَاِنْ كُنْتُمْ مَرْضٰٓى اَوْ عَلٰى سَفَرٍ اَوْ جَٓاءَ اَحَدٌ مِنْكُمْ مِنَ الْغَٓائِطِ اَوْ لٰمَسْتُمُ النِّسَٓاءَ فَلَمْ تَجِدُوا مَٓاءً فَتَيَمَّمُوا صَع۪يداً طَيِّباً فَامْسَحُوا بِوُجُوهِكُمْ وَاَيْد۪يكُمْ مِنْهُۜ مَا يُر۪يدُ اللّٰهُ لِيَجْعَلَ عَلَيْكُمْ مِنْ حَرَجٍ وَلٰكِنْ يُر۪يدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+        "turkish_text": "Ey Îmân Edenler! Salâta(1) durduğunuz zaman, yüzlerinizi ve ellerinizi -dirseklerinizle beraber- yıkayın. Başlarınızı ve -aşık kemiklerinizle beraber- ayaklarınızı mesh edin.(2) Eğer cünüpseniz; tam olarak temizlenin.(3) Eğer hasta veya yolcukta iseniz veya tuvaletten(4) gelmişseniz veya kadınlarınızla ilişkiye girdiyseniz ve o anda su bulamadıysanız, temiz kumla(5) teyemmüm edin; onunla ellerinizi ve yüzlerinizi mesh edin. Allah size herhangi bir zorluk dilemiyor. Ancak sizi tertemiz etmek ve üzerinize nimetini tamamlamak istiyor. Umulur ki şükredersiniz.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Namaza."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Abdest alırken, esas olan şey ayakların mesh edilmesidir. Ayakları yıkamak, abdestin koşullarından değildir. Dikkat edilirse teyemmüm etmede abdest alırken yıkanan azalar sayılmıştır. Teyemmüm edilecek azalar arasında ayakların sayılmaması, abdest alırken ayakların yıkanmasının şart olmadığını göstermektedir. Ancak, isteğe bağlı olarak ayakların yıkanmasının bir sakıncası yoktur. Mesh, doğrudan ayağa yapılmalıdır. Başka bir nesnenin üzerine yapılan mesh geçerli değildir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Boy abdesti alın."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Âyette geçen  (ğâid) kelimesinin kök harfi olan  (ğavt) oyuk, boşluk demektir. Ğavtâ ise kaka demektir. Ğaid ise tuvalet yolu demektir. Diğer bir ifade ile tuvalet demektir. Tuvalet küçük ve büyük abdestin yapıldığı yer olduğu için, sadece büyük abdest değil küçük abdest de abdest almayı gerektirir."
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- İnce toprak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاذْكُرُوا نِعْمَةَ اللّٰهِ عَلَيْكُمْ وَم۪يثَاقَهُ الَّذ۪ي وَاثَقَكُمْ بِه۪ٓۙ اِذْ قُلْتُمْ سَمِعْنَا وَاَطَعْنَاۘ وَاتَّقُوا اللّٰهَۜ اِنَّ اللّٰهَ عَل۪يمٌ بِذَاتِ الصُّدُورِ",
+        "turkish_text": "Allah'ın, size olan nimetini ve “İşittik ve itaat ettik.” dediğinizde, onunla sizi bağladığı sözünüzü hatırlayın. Allah'a karşı takvâlı(1) olun. Kuşkusuz, Allah göğüslerde olanı gerçeğiyle bilendir.",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 5:2. âyetin 3. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا كُونُوا قَوَّام۪ينَ لِلّٰهِ شُهَدَٓاءَ بِالْقِسْطِۘ وَلَا يَجْرِمَنَّكُمْ شَنَاٰنُ قَوْمٍ عَلٰٓى اَلَّا تَعْدِلُواۜ اِعْدِلُوا۠ هُوَ اَقْرَبُ لِلتَّقْوٰىۘ وَاتَّقُوا اللّٰهَۜ اِنَّ اللّٰهَ خَب۪يرٌ بِمَا تَعْمَلُونَ",
+        "turkish_text": "Ey Îmân Edenler! Allah için gerçeğe bağlı kalmada kararlı olun! Hakkâniyetli tanıklar olun! Bir halka olan düşmanlığınız sizi adaletsizliğe yöneltmesin. Adil olun, bu, takvâlı olmaya en uygun olandır. Allah'a karşı takvâlı olun. Allah, yaptığınız her şeyden haberdardır.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَعَدَ اللّٰهُ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِۙ لَهُمْ مَغْفِرَةٌ وَاَجْرٌ عَظ۪يمٌ",
+        "turkish_text": "Allah, îmân edip sâlihâtı(1) yapanlara söz verdi, onlar için bağışlanma ve büyük bir karşılık vardır.",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- “Îmân edip, sâlihâtı yapanlar” terkibini “Îmân edip iyi işler yapanlar” diye çevirmek doğru değildir. Sâlihât, davranış yolu ile bütünüyle dışa yansıyan îmândır. Sâlihât, bozgunculuk ve kötülükle mücadele etmek, bozuk olan şeyi düzeltmeye çalışmak, yapıcı olmak, iyi olmak ve iyiye yönlendirmek demektir. Bu kelimenin karşıtı “seyyiât” yani kötülük ve “fesad” yani bozgunculuk kelimeleridir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ كَفَرُوا وَكَذَّبُوا بِاٰيَاتِنَٓا اُو۬لٰٓئِكَ اَصْحَابُ الْجَح۪يمِ",
+        "turkish_text": "Küfreden ve âyetlerimizi yalanlayan kimselere gelince, işte onlar Cehennem'lik kimselerdir.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا اذْكُرُوا نِعْمَتَ اللّٰهِ عَلَيْكُمْ اِذْ هَمَّ قَوْمٌ اَنْ يَبْسُطُٓوا اِلَيْكُمْ اَيْدِيَهُمْ فَكَفَّ اَيْدِيَهُمْ عَنْكُمْۚ وَاتَّقُوا اللّٰهَۜ وَعَلَى اللّٰهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ۟",
+        "turkish_text": "Ey Îmân Edenler! Allah'ın üzerinizdeki nimetini hatırlayın. Hani bir topluluk size saldırmayı tasarlamıştı da Allah, onları, size saldırmaktan vazgeçirmişti. Allah'a karşı takvâlı olun. Mü'minler, yalnızca Allah'a güvenip yönelsinler.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ اَخَذَ اللّٰهُ م۪يثَاقَ بَن۪ٓي اِسْرَٓائ۪لَۚ وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَق۪يباًۜ وَقَالَ اللّٰهُ اِنّ۪ي مَعَكُمْۜ لَئِنْ اَقَمْتُمُ الصَّلٰوةَ وَاٰتَيْتُمُ الزَّكٰوةَ وَاٰمَنْتُمْ بِرُسُل۪ي وَعَزَّرْتُمُوهُمْ وَاَقْرَضْتُمُ اللّٰهَ قَرْضاً حَسَناً لَاُكَفِّرَنَّ عَنْكُمْ سَيِّـَٔاتِكُمْ وَلَاُدْخِلَنَّكُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۚ فَمَنْ كَفَرَ بَعْدَ ذٰلِكَ مِنْكُمْ فَقَدْ ضَلَّ سَوَٓاءَ السَّب۪يلِ",
+        "turkish_text": "Doğrusu Allah İsrâîloğullarından kesin söz aldı. Onlardan on iki temsilci gönderdik. Ve Allah, “Sizinle beraberim.” dedi. Ant olsun eğer salâtı ikâme eder, zekâtı yapar(1), Resûl'lerime îmân eder ve onlara yardımcı olur, böylece Allah'a iyi bir ödünç verirseniz, o zaman elbette kötülüklerinizi örterim, muhakkak içinden ırmaklar akan Cennetlere koyarım. Bundan sonra, sizden kim küfrederse(2) düz yoldan sapmış olur.",
+        "index_number": 12,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Salâtın namaz kılmak anlamının yanı sıra birçok anlamı bulunmaktadır. Bu âyetteki salât, “namaz kılmak” anlamında değildir. Namazı kılın, zekâtı verin” şeklinde anlam verilen bu terkip: İbadete layık yegâne ilâhın yalnızca Allah olduğuna inanmak; Allah'a yönelmeyi, kulluğu ve dûayı “şirkten arınmış bir bilinçle; arınmış, arı duru hale gelmiş bir benlikle yapmak; dayanışmayı, yardımlaşmayı ve destek olmayı canlı ve diri tutmak demektir. Namazı kılın, zekâtı verin” şeklinde anlam verilen bu terkipteki “vermek” kelimesinin kök harfleri  (Elif-Te-Ye) olup, 549 yerde geçmektedir. Her ne kadar bu terkipte,” vermek” anlamına gelen “Âtû” kelimesi yer alsa da () âtû kelimesine, () Eta “yapmak” anlamının verilmesi de uygundur. Bu kelime kök anlamı itibarıyla yaygın olarak şu üç anlamda kullanılmaktadır: “Yapmak”, “getirmek” ve “vermek.” Arınmak, aklanmak, temizlenmek demek olan “zekât”, verilen bir şey değil, “yapılan” bir şeydir. Kur'an, zekât kelimesini “arınmak” anlamında kullanmaktadır (Bkz. 19:13). Zekât, “mâli yardım” demek değil, mâli yardım yapılarak malın arınmasıdır. Kur'an'daki mâli yardımın adı sadakadır (Bkz. 9:60). Sadaka verilirse, malın arınması gerçekleşmiş olacaktır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bkz. 5:5. âyetin 3. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِمَا نَقْضِهِمْ م۪يثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةًۚ يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِه۪ۙ وَنَسُوا حَظاًّ مِمَّا ذُكِّرُوا بِه۪ۚ وَلَا تَزَالُ تَطَّلِعُ عَلٰى خَٓائِنَةٍ مِنْهُمْ اِلَّا قَل۪يلاً مِنْهُمْ فَاعْفُ عَنْهُمْ وَاصْفَحْۜ اِنَّ اللّٰهَ يُحِبُّ الْمُحْسِن۪ينَ",
+        "turkish_text": "Anlaşmalarını bozmalarından dolayı onlara lânet ettik ve kalplerini katılaştırdık. Kelimeleri bağlamlarından kopararak çarpıtıyorlar, öğütlendikleri şeyden nasiplenmeyi unuturlar, içlerinden çok azı hariç, daima onların hainlik ettiklerini görürsün. Yine de vazgeç ve yaptıklarına aldırma. Kuşkusuz Allah, iyi davrananları sever.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمِنَ الَّذ۪ينَ قَالُٓوا اِنَّا نَصَارٰٓى اَخَذْنَا م۪يثَاقَهُمْ فَنَسُوا حَظاًّ مِمَّا ذُكِّرُوا بِه۪ۖ فَاَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَٓاءَ اِلٰى يَوْمِ الْقِيٰمَةِۜ وَسَوْفَ يُنَبِّئُهُمُ اللّٰهُ بِمَا كَانُوا يَصْنَعُونَ",
+        "turkish_text": "Ve “Biz Nesârâ'yız.(1)” diyenlerden de söz aldık. Öğütlendikleri şeyden nasiplenmeyi unuttular. Biz de kıyamet gününe kadar aralarına düşmanlık ve kin yerleştirdik. Ve Allah, ne iş yaptıklarını yakında haber verecektir.",
+        "index_number": 14,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hıristiyanız."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَهْلَ الْكِتَابِ قَدْ جَٓاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَث۪يراً مِمَّا كُنْتُمْ تُخْفُونَ مِنَ الْكِتَابِ وَيَعْفُوا عَنْ كَث۪يرٍۜ قَدْ جَٓاءَكُمْ مِنَ اللّٰهِ نُورٌ وَكِتَابٌ مُب۪ينٌۙ",
+        "turkish_text": "Ey Kitâp Ehli! Doğrusu, Kitâp'tan gizlediğiniz birçok şeyi size açıklayan ve bir kısmından da söz etmeyen Resûl'ümüz geldi. Doğrusu size Allah'tan bir nur ve apaçık bir Kitâp geldi.",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَهْد۪ي بِهِ اللّٰهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ اِلَى النُّورِ بِاِذْنِه۪ وَيَهْد۪يهِمْ اِلٰى صِرَاطٍ مُسْتَق۪يمٍ",
+        "turkish_text": "Allah, onunla(1), rızasına bilerek tâbi olanları esenlik yollarına iletir. Onları, izniyle karanlıklardan aydınlığa çıkartır. Ve onları dosdoğru olan yola iletir.",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'la."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَقَدْ كَفَرَ الَّذ۪ينَ قَالُٓوا اِنَّ اللّٰهَ هُوَ الْمَس۪يحُ ابْنُ مَرْيَمَۜ قُلْ فَمَنْ يَمْلِكُ مِنَ اللّٰهِ شَيْـٔاً اِنْ اَرَادَ اَنْ يُهْلِكَ الْمَس۪يحَ ابْنَ مَرْيَمَ وَاُمَّهُ وَمَنْ فِي الْاَرْضِ جَم۪يعاًۜ وَلِلّٰهِ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۜ يَخْلُقُ مَا يَشَٓاءُۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+        "turkish_text": "Ant olsun ki, Meyem Oğlu Mesih için, “O Allah'tır.” diyenler kuşkusuz Kâfir oldu. De ki: “Allah, Meyem Oğlu Mesih'i, annesini ve yeryüzündekilerin tamamını yok etmek isterse, O'na kim engel olabilir?” Göklerin, yeryüzünün ve ikisinin arasındakilerin tamamı, Allah'a aittir. Dilediğini yaratır. Ve Allah, Her Şeye Gücü Yeten'dir.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَقَالَتِ الْيَهُودُ وَالنَّصَارٰى نَحْنُ اَبْنَٓاءُ اللّٰهِ وَاَحِبَّٓاؤُ۬هُۜ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُمْۜ بَلْ اَنْتُمْ بَشَرٌ مِمَّنْ خَلَقَۜ يَغْفِرُ لِمَنْ يَشَٓاءُ وَيُعَذِّبُ مَنْ يَشَٓاءُۜ وَلِلّٰهِ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۘ وَاِلَيْهِ الْمَص۪يرُ",
+        "turkish_text": "Yahudiler ve Nesârâ(1), “Bizler Allah'ın oğulları ve O'nun sevgilileriyiz.” dediler. De ki: “O halde suçlarınızdan dolayı, size niçin azâp ediyor? Doğrusu, siz de yarattıklarından bir beşersiniz(2). Dilediğini bağışlar, dilediğine(3) azâp eder. Göklerin, yerin ve ikisi arasındakilerin mülkü Allah'a aittir. Son varış O'nadır.”",
+        "index_number": 18,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hıristiyanlar."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Sıradan, normal bir insan. Her insan gibi, insan olmanın dışında insanüstü hiçbir özelliği olmayan insan. Beşer için insanın yaratılış evresindeki ilk hali şeklindeki iddiar doğru değildir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Kelimesi kelimesine, “dilediğini.” Dilediğini demek: “Hak edeni” demektir; Allah, azâbı hak edene azâp eder; bağışlanmayı hak edeni bağışlar, demektir. Allah, “Dilediğimi” demekle, kimin neyi hak ettiğine en doğru kararı Ben veririm, demeyi kastetmektedir. Zira burada Allah'ın “dilemesi,” insanın “dilemesine,” “insanın seçimine” bağlı olarak gerçekleşmektedir. “Şâe” kelimesinin âyetteki anlamı; “gayret göstereni, bir şey yapmak isteyeni” yani “bir şeyi dileyeni” anlamındadır. Seçim insana aittir ve belirleyici olan insanın “dilemesi”dir (Bkz. 76:3)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَهْلَ الْكِتَابِ قَدْ جَٓاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلٰى فَتْرَةٍ مِنَ الرُّسُلِ اَنْ تَقُولُوا مَا جَٓاءَنَا مِنْ بَش۪يرٍ وَلَا نَذ۪يرٍۘ فَقَدْ جَٓاءَكُمْ بَش۪يرٌ وَنَذ۪يرٌۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ۟",
+        "turkish_text": "Ey Kitâp Ehli! Resûllerin arasının kesildiği bir dönemde size gerçekleri açıklayan Resûl'ümüz geldi. “Bize herhangi bir müjdeleyici ve uyarıcı gelmedi.” demeyesiniz diye, müjdeleyici ve uyarıcı olarak. Allah, Her Şeye Gücü Yeten'dir.",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذْ قَالَ مُوسٰى لِقَوْمِه۪ يَا قَوْمِ اذْكُرُوا نِعْمَةَ اللّٰهِ عَلَيْكُمْ اِذْ جَعَلَ ف۪يكُمْ اَنْبِيَٓاءَ وَجَعَلَكُمْ مُلُوكاًۗ وَاٰتٰيكُمْ مَا لَمْ يُؤْتِ اَحَداً مِنَ الْعَالَم۪ينَ",
+        "turkish_text": "Hani Mûsâ, halkına: “Ey halkım! Allah'ın size verdiği nimetleri hatırlayın. Hani O, içinizden Nebiler seçti; sizi melikler(1) yaptı ve âlemlerden hiç kimseye vermediği birçok şeyi size verdi.” dedi.",
+        "index_number": 20,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Güç ve egemenlik sahibi. Özgür olma."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَا قَوْمِ ادْخُلُوا الْاَرْضَ الْمُقَدَّسَةَ الَّت۪ي كَتَبَ اللّٰهُ لَكُمْ وَلَا تَرْتَدُّوا عَلٰٓى اَدْبَارِكُمْ فَتَنْقَلِبُوا خَاسِر۪ينَ",
+        "turkish_text": "(Mûsâ) “Ey kavmim! Allah'ın, sizin için yazdığı, kutsal topraklara girin. Gerisin geri dönmeyin. Yoksa ters yüz olarak hüsrana uğrarsınız.”",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالُوا يَا مُوسٰٓى اِنَّ ف۪يهَا قَوْماً جَبَّار۪ينَۗ وَاِنَّا لَنْ نَدْخُلَهَا حَتّٰى يَخْرُجُوا مِنْهَاۚ فَاِنْ يَخْرُجُوا مِنْهَا فَاِنَّا دَاخِلُونَ",
+        "turkish_text": "“Ey Mûsâ! Kuşkusuz, orada çok zorlu bir halk var. Onlar, oradan çıkmadıkça, biz oraya asla girmeyiz. Eğer çıkarlarsa, o zaman gireriz.” dediler.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالَ رَجُلَانِ مِنَ الَّذ۪ينَ يَخَافُونَ اَنْعَمَ اللّٰهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَۚ فَاِذَا دَخَلْتُمُوهُ فَاِنَّكُمْ غَالِبُونَ وَعَلَى اللّٰهِ فَتَوَكَّلُٓوا اِنْ كُنْتُمْ مُؤْمِن۪ينَ",
+        "turkish_text": "Korkanların içinden, Allah'ın kendilerine nimet verdiği iki kişi, şöyle dedi: “Onların üzerine bildik kapıdan girin. Eğer oraya girerseniz, o zaman galip gelirsiniz. Eğer îmân edenlerseniz, Allah'a tevekkül(1) edin.”",
+        "index_number": 23,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'a güvenmek, O'na dayanmak; her türlü hazırlığı yaptıktan sonra sonucu Allah'a bırakmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قَالُوا يَا مُوسٰٓى اِنَّا لَنْ نَدْخُلَـهَٓا اَبَداً مَا دَامُوا ف۪يهَا فَاذْهَبْ اَنْتَ وَرَبُّكَ فَقَاتِلَٓا اِنَّا هٰهُنَا قَاعِدُونَ",
+        "turkish_text": "“Ey Mûsâ! Onlar, orada oldukları sürece biz oraya asla girmeyiz; haydi sen git, sen ve Rabb'in birlikte savaşın. Kuşkusuz, işte biz buradan öteye gitmeyiz.” dediler.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالَ رَبِّ اِنّ۪ي لَٓا اَمْلِكُ اِلَّا نَفْس۪ي وَاَخ۪ي فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِق۪ينَ",
+        "turkish_text": "(Mûsâ) “Ey Rabb'im! Kendimden ve kardeşimden başkasına söz geçiremiyorum. O halde bizimle fâsık halkın arasını ayır.” dedi.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالَ فَاِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ اَرْبَع۪ينَ سَنَةًۚ يَت۪يهُونَ فِي الْاَرْضِ فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِق۪ينَ۟",
+        "turkish_text": "“Onlar, oradan kırk yıl(1) yoksun kalacaklar.” dedi. “Onlar, o yerde şaşkınlık içinde dolaşacaklar. Artık fâsık olan halkın durumuna üzülme.”",
+        "index_number": 26,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu sayı çokluk ifade etmektedir: Yıllarca, uzun zaman anlamındadır. Kırk sayısı Yahudi kültüründe sembolik anlam taşımaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاتْلُ عَلَيْهِمْ نَبَاَ ابْنَيْ اٰدَمَ بِالْحَقِّۢ اِذْ قَرَّبَا قُرْبَاناً فَتُقُبِّلَ مِنْ اَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْاٰخَرِۜ قَالَ لَاَقْتُلَنَّكَۜ قَالَ اِنَّمَا يَتَقَبَّلُ اللّٰهُ مِنَ الْمُتَّق۪ينَ",
+        "turkish_text": "Onlara, iki âdem oğlunun(1) gerçek öyküsünü anlat: İkisi de birer sunu(2) sundular. Birisininki kabul olundu, diğerininki ise kabul olunmadı. Dedi ki: “Yemin olsun seni öldüreceğim.” Dedi ki: “Allah, yalnız takvâ sahiplerinden kabul eder.”",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- “İbney Âdeme” belirtisiz isim tamlaması olarak “Adem'in iki oğlu” anlamında değil, “iki âdem oğlu” demektir. Bu iki âdem oğlu, yaygın ve kabul gören anlayışın aksine Nebi in iki oğlu olduğu rivâyet edilen Hâbil ve Kâbil değil, iki insan oğlu anlamındadır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Allah'a yaklaşmayı, yakın Âdem'in olmayı sağlamak için."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَئِنْ بَسَطْتَ اِلَيَّ يَدَكَ لِتَقْتُلَن۪ي مَٓا اَنَا۬ بِبَاسِطٍ يَدِيَ اِلَيْكَ لِاَقْتُلَكَۚ اِنّ۪ٓي اَخَافُ اللّٰهَ رَبَّ الْعَالَم۪ينَ",
+        "turkish_text": "“Yemin olsun ki! Beni öldürmek istesen de ben sana elimi kaldırmayacağım. Ben âlemlerin Rabb'i olan Allah'a karşı gelmekten korkarım.”",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنّ۪ٓي اُر۪يدُ اَنْ تَبُٓوأَ بِاِثْم۪ي وَاِثْمِكَ فَتَكُونَ مِنْ اَصْحَابِ النَّارِۚ وَذٰلِكَ جَزٰٓؤُا الظَّالِم۪ينَۚ",
+        "turkish_text": "“Dilerim ki, benim günahımla(1) birlikte kendi günahını da yüklenerek Ateş'e gidenlerden olursun. Çünkü zâlimlerin cezası budur.”",
+        "index_number": 29,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Beni öldürmenden dolayı kazanacağın günahla."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ اَخ۪يهِ فَقَتَلَهُ فَاَصْبَحَ مِنَ الْخَاسِر۪ينَ",
+        "turkish_text": "Nefsi(1) kardeşini isteyerek öldürmesini kolaylaştırdı. O da onu öldürdü. Böylece hüsrana uğrayanlardan oldu.",
+        "index_number": 30,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Haset duygusu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبَعَثَ اللّٰهُ غُرَاباً يَبْحَثُ فِي الْاَرْضِ لِيُرِيَهُ كَيْفَ يُوَار۪ي سَوْاَةَ اَخ۪يهِۜ قَالَ يَا وَيْلَتٰٓى اَعَجَزْتُ اَنْ اَكُونَ مِثْلَ هٰذَا الْغُرَابِ فَاُوَارِيَ سَوْاَةَ اَخ۪يۚ فَاَصْبَحَ مِنَ النَّادِم۪ينَۚۛ",
+        "turkish_text": "Allah, bir karga gönderdi. Kardeşinin cesedini nasıl örteceğini ona göstermek için yeri eşeliyordu.(1) “Eyvah! Bana yazıklar olsun, kardeşimin cesedini örtmekte karga kadar bile olamayacak kadar aciz miyim!” dedi. Pişman olanlardan oldu.",
+        "index_number": 31,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Karga, öldürdüğü kardeşinin cesedini, ortada bırakan kardeşe, ölüyü nasıl toprağa gömeceğini göstermek için değil; ölüyü açıkta bırakmakla ne denli kötü ve düşüncesizce bir şey yaptığını hatırlatmak için yeri eşelemektedir. Ölünün nasıl toprağa gömüldüğünün bilinmediğini varsaymak doğru bir düşünce değildir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مِنْ اَجْلِ ذٰلِكَۚۛ كَتَبْنَا عَلٰى بَن۪ٓي اِسْرَٓائ۪لَ اَنَّهُ مَنْ قَتَلَ نَفْساً بِغَيْرِ نَفْسٍ اَوْ فَسَادٍ فِي الْاَرْضِ فَكَاَنَّمَا قَتَلَ النَّاسَ جَم۪يـعاًۜ وَمَنْ اَحْيَاهَا فَكَاَنَّمَٓا اَحْيَا النَّاسَ جَم۪يعاًۜ وَلَقَدْ جَٓاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِۘ ثُمَّ اِنَّ كَث۪يراً مِنْهُمْ بَعْدَ ذٰلِكَ فِي الْاَرْضِ لَمُسْرِفُونَ",
+        "turkish_text": "Bundan dolayı(1) İsrâîloğullarına yazdık: “Kuşkusuz kim, bir cana karşılık olmaksızın veya yeryüzünde bozgunculuk yapmamış birini öldürürse, sanki bütün insanları öldürmüş gibidir. Kim de onu yaşatırsa, sanki bütün insanları yaşatmış gibi olur.” Resûl'lerimiz onlara kanıtlayıcı açık bilgilerle geldiği halde onların çoğu bundan sonra da yeryüzünde israf(2) etmektedirler.",
+        "index_number": 32,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnsanın insanı öldürmesinden dolayı."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Haddi aşmak, bozgunculuk yapmak, ölçüsüz davranmak, taşkınlık yapmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّمَا جَزٰٓؤُا الَّذ۪ينَ يُحَارِبُونَ اللّٰهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْاَرْضِ فَسَاداً اَنْ يُقَتَّلُٓوا اَوْ يُصَلَّـبُٓوا اَوْ تُقَطَّعَ اَيْد۪يهِمْ وَاَرْجُلُهُمْ مِنْ خِلَافٍ اَوْ يُنْفَوْا مِنَ الْاَرْضِۜ ذٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا وَلَهُمْ فِي الْاٰخِرَةِ عَذَابٌ عَظ۪يمٌۙ",
+        "turkish_text": "Allah ve Resûl'üyle savaşanların ve yeryüzünde bozgunculuk(1) yapmaya çalışanların cezası öldürülmeleri veya asılmaları veya ellerinin ve ayaklarının çapraz kesilmesi veya yerlerinden sürgün edilmeleridir(2). İşte bu durum, onlar için dünyada bir rezilliktir. Âhiret'te ise onlar için büyük bir azâp vardır.",
+        "index_number": 33,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İyi olanı bozup, kötülüğü yayanların."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bu cezalar, işlenen suça göredir. Öldürme yoksa ceza sürgündür."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِلَّا الَّذ۪ينَ تَابُوا مِنْ قَبْلِ اَنْ تَقْدِرُوا عَلَيْهِمْۚ فَاعْلَمُٓوا اَنَّ اللّٰهَ غَفُورٌ رَح۪يمٌ۟",
+        "turkish_text": "Ancak onlar üzerinde bir karara(1) varmanızdan önce tevbe(2) edenler hariç. İyi bilin ki Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 34,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Onlar üzerinde güç kullanmadan, onları ele geçirmeden önce vazgeçenler hariç."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Savaşmaktan ve bozgunculuk yapmaktan vaz geçmek."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا اتَّقُوا اللّٰهَ وَابْتَغُٓوا اِلَيْهِ الْوَس۪يلَةَ وَجَاهِدُوا ف۪ي سَب۪يلِه۪ لَعَلَّكُمْ تُفْلِحُونَ",
+        "turkish_text": "Ey Îmân Edenler! Allah'a karşı takvâ sahibi olun ve O'na yakınlaşmak için vesile(1) arayın. O'nun yolunda gayret gösterin ki kurtuluşa eresiniz.",
+        "index_number": 35,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yol. Allah'a yakınlaştıracak en güzel ve doğru vesile O'nun gösterdiği yoldan gitmektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ كَفَرُوا لَوْ اَنَّ لَهُمْ مَا فِي الْاَرْضِ جَم۪يعاً وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِه۪ مِنْ عَذَابِ يَوْمِ الْقِيٰمَةِ مَا تُقُبِّلَ مِنْهُمْۚ وَلَهُمْ عَذَابٌ اَل۪يمٌ",
+        "turkish_text": "Yeryüzünde olanların tamamı ve bir o kadarı daha, Kâfirlerin olsa ve kıyamet gününün azâbından kurtulmak için bunları karşılık olarak verseler, bu onlardan asla kabul edilmeyecektir. Onlar için elem verici bir azâp vardır.",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يُر۪يدُونَ اَنْ يَخْرُجُوا مِنَ النَّارِ وَمَا هُمْ بِخَارِج۪ينَ مِنْهَاۘ وَلَهُمْ عَذَابٌ مُق۪يمٌ",
+        "turkish_text": "Ateşten çıkmak isterler. Onlar, o ateşten asla çıkamayacaklar. Onlar için kalıcı bir azâp vardır.",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُٓوا اَيْدِيَهُمَا جَزَٓاءً بِمَا كَسَبَا نَكَالاً مِنَ اللّٰهِۜ وَاللّٰهُ عَز۪يزٌ حَك۪يمٌ",
+        "turkish_text": "Hırsızlık yapan erkeğin ve kadının, her ikisinin de ellerini, Allah'tan caydırıcı bir karşılık olarak kesin.(1) Allah, Mutlak Üstün Olan'dır, En İyi Hüküm Veren'dir.",
+        "index_number": 38,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu âyette, Allah'ın hükmüne göre hırsızlık yapanın eli kesilmelidir. Ancak bunun “el kesmek” anlamında değil de hırsızlık yapanların “güçlerini yok edin, güçlerini ellerinden alın” anlamına geldiği görüşü de bulunmaktadır. Bu görüşe göre, “el” anlamına gelen “yed(ye-de-ye)” kelimesinin diğer anlamlarından biri de “güçtür/kuvvettir.” Kelimesin bu anlamından hareketle; “fektaû eydiyehuma” kelimeleri “ellerini kesin” anlamında değil “güçlerini yok edin, güçlerini ellerinden alın” anlamındadır. Oysaki şu âyetlerde de ifade edildiği gibi, doğru olanın, gücün yok edilmesi değil, ellerin kesilmesidir: 7:124; 20:71; 26:49; 59:5. Âyetin açık anlamı ve “kesme” kelimesinin çoğul formda olması dikkate alındığında yargı bizatihi ellerin kesilmesi yönündedir. Ellerin nereden kesileceğinin belirtilmemiş olmasını itiraza konu etmenin bir anlamı yoktur. Zira el, kola birleştiği yer olan bileklere kadar olan kısma denmektedir. Âyette yer alan “ibret verici bir ceza olarak” deyimi de elin bizatihi kesilmesine işarettir. Zira gücün elinden alınması ibretlik bir ceza olmaz. Diğer bir husus da elin kesilmesi için hırsızlığın illa elle yapılmış olması da gerekmez. Hangi yol ve araçla olursa olsun, nasıl yapılırsa yapılsın hırsızlık, hırsızlıktır. Ancak şu gerçek göz ardı edilmemelidir: Allah'ın en temel ve genel hükmü -ki bütün hükümler geçerliliğini bu hükümden almaktadır- şudur: Zorunluluklar/mecburiyetler bütün harâmları mübah, yasakları geçersiz kılar. Dolayısıyla yapılan şeyin neden yapıldığı çok önemlidir. Belirleyici olan şey sebeptir. Örneğin aç kalmış bir kimsenin açlığını gidermek için yiyecek çalması hırsızlık değildir ve eli de kesilmez. Zira suçlu o değil, onu aç bırakandır. Örneğin, birisini öldürenin cezası öldürülmek olduğu halde; eğer nefsi- müdafaa veya meşru bir nedenle öldürmüşse, öldürülme cezasının uygulanmaması gibi. Ancak, tıpkı can gibi mal/emek te çok önemlidir ve her türlü güveni hak etmektedir. Birilerinin emek harcamadan, haksız yoldan ve zorunlu bir ihtiyaç da değilken başkasının malını çalması hırsızlıktır ve eli kesilir. İslâm'da can da emek (mal) da çok büyük öneme sahiptir. El kesme olayı ile ilgili en önemli konu bir sonraki âyette açıkça ifade edildiği gibi, bir kimse yaptığı hırsızlıktan pişman olup, çaldığı malı sahibine iade eder ve kendisini düzeltirse, yani tevbe ederse tevbesi geçerlidir ve eli kesilmez."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِه۪ وَاَصْلَحَ فَاِنَّ اللّٰهَ يَتُوبُ عَلَيْهِۜ اِنَّ اللّٰهَ غَفُورٌ رَح۪يمٌ",
+        "turkish_text": "Kim yaptığı haksızlıktan(1) sonra tevbe(2) eder ve uslanırsa, kuşkusuz Allah onun tevbesini kabul eder. Kuşkusuz Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 39,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hırsızlıktan."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Yaptığı hırsızlıktan pişman olup hırsızlık yapmaktan vazgeçerse eli kesilmez. Tevbe kelimesinin esas anlamı vazgeçmektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَمْ تَعْلَمْ اَنَّ اللّٰهَ لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ يُعَذِّبُ مَنْ يَشَٓاءُ وَيَغْفِرُ لِمَنْ يَشَٓاءُۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+        "turkish_text": "Bilmez misin? Kuşkusuz ki göklerin ve yerin mülkü Allah'a aittir. Hak edene(1) azâp eder, Hak edeni bağışlar. Allah Her Şeye Güç Yetiren'dir.",
+        "index_number": 40,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 5:18. âyetin 3. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذ۪ينَ يُسَارِعُونَ فِي الْكُفْرِ مِنَ الَّذ۪ينَ قَالُٓوا اٰمَنَّا بِاَفْوَاهِهِمْ وَلَمْ تُؤْمِنْ قُلُوبُهُمْۚ وَمِنَ الَّذ۪ينَ هَادُوا سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ اٰخَر۪ينَۙ لَمْ يَأْتُوكَۜ يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِه۪ۚ يَقُولُونَ اِنْ اُو۫ت۪يتُمْ هٰذَا فَخُذُوهُ وَاِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُواۜ وَمَنْ يُرِدِ اللّٰهُ فِتْنَتَهُ فَلَنْ تَمْلِكَ لَهُ مِنَ اللّٰهِ شَيْـٔاًۜ اُو۬لٰٓئِكَ الَّذ۪ينَ لَمْ يُرِدِ اللّٰهُ اَنْ يُطَهِّرَ قُلُوبَهُمْۜ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْاٰخِرَةِ عَذَابٌ عَظ۪يمٌ",
+        "turkish_text": "Ey Resûl! Küfre koşuşanlar seni üzmesin. O kimseler ki ağızlarıyla îmân ettik dedikleri halde, kalben îmân etmediler. Ve bir de yalan uydurmak amacıyla kasıtlı dinleyen Yahudiler, sana gelmeyen başka bir halk adına casusluk yapmak için dinlerler. Sözleri bağlamlarından kopararak değiştiriyorlar: “Eğer bu size verilirse onu alın, eğer bu verilmezse sakının!” diyorlar. Allah, kimin fitneye düşmesini isterse, onun için Allah'a karşı elinden hiçbir şey gelmez. İşte onlar, Allah'ın kalplerini arındırmak istemediği kimselerdir.(1) Onlar için dünyada aşağılanma, ahirette de büyük bir azâp vardır.",
+        "index_number": 41,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kalplerinin arındırılmasını hak etmeyen kimselerdir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "سَمَّاعُونَ لِلْكَذِبِ اَكَّالُونَ لِلسُّحْتِۜ فَاِنْ جَٓاؤُ۫كَ فَاحْكُمْ بَيْنَهُمْ اَوْ اَعْرِضْ عَنْهُمْۚ وَاِنْ تُعْرِضْ عَنْهُمْ فَلَنْ يَضُرُّوكَ شَيْـٔاًۜ وَاِنْ حَكَمْتَ فَاحْكُمْ بَيْنَهُمْ بِالْقِسْطِۜ اِنَّ اللّٰهَ يُحِبُّ الْمُقْسِط۪ينَ",
+        "turkish_text": "Yalan uydurmak için can kulağı ile dinlerler ve sürekli suhtla(1) geçinirler. Eğer hüküm vermen için sana gelirlerse, aralarında hüküm ver veya onlardan yüz çevir. Eğer onlardan yüz çevirirsen sana hiçbir zarar veremezler. Ve eğer hüküm verirsen, aralarında hakkaniyetle hüküm ver. Kuşkusuz, Allah, hakkaniyetli olanları sever.",
+        "index_number": 42,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Harâm kazanç, meşru olmayan kazançların tamamı, her türlü yolsuzluk."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَكَيْفَ يُحَكِّمُونَكَ وَعِنْدَهُمُ التَّوْرٰيةُ ف۪يهَا حُكْمُ اللّٰهِ ثُمَّ يَتَوَلَّوْنَ مِنْ بَعْدِ ذٰلِكَۜ وَمَٓا اُو۬لٰٓئِكَ بِالْمُؤْمِن۪ينَ۟",
+        "turkish_text": "İçinde, Allah'ın hükmünün(1) bulunduğu Tevrât yanlarında olduğu halde, nasıl olur da sana hüküm verdiriyorlar? Sonra da o hükümden döneklik ediyorlar. Onlar, aslında inanmış değiller.",
+        "index_number": 43,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kısas hükmü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّٓا اَنْزَلْنَا التَّوْرٰيةَ ف۪يهَا هُدًى وَنُورٌۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذ۪ينَ اَسْلَمُوا لِلَّذ۪ينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْاَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللّٰهِ وَكَانُوا عَلَيْهِ شُهَدَٓاءَۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِاٰيَات۪ي ثَمَناً قَل۪يلاًۜ وَمَنْ لَمْ يَحْكُمْ بِمَٓا اَنْزَلَ اللّٰهُ فَاُو۬لٰٓئِكَ هُمُ الْكَافِرُونَ",
+        "turkish_text": "Kuşkusuz, Biz, doğru yola iletici ve aydınlatıcı olan Tevrât'ı indirdik. Teslim olmuş Yahûdiler için Nebiler onunla hüküm veriyorlardı. Rabbaniler(1) ve ahbar(2) olanlar da Allah'ın kitabından ezberletilmiş olmasından dolayı, ona tanıklık ediyorlardı. Öyleyse siz insanlardan değil, Bana karşı gelmekten sakının. Benim âyetlerimi az bir bedele değişmeyin! Allah'ın indirdiği ile hükmetmeyenler, Kâfirlerin(3) ta kendileridirler.",
+        "index_number": 44,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Rabb'e adanmış olanlar."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Din bilginleri, haber getiren."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Nankörlerin."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَكَتَبْنَا عَلَيْهِمْ ف۪يهَٓا اَنَّ النَّفْسَ بِالنَّفْسِۙ وَالْعَيْنَ بِالْعَيْنِ وَالْاَنْفَ بِالْاَنْفِ وَالْاُذُنَ بِالْاُذُنِ وَالسِّنَّ بِالسِّنِّۙ وَالْجُرُوحَ قِصَاصٌۜ فَمَنْ تَصَدَّقَ بِه۪ فَهُوَ كَفَّارَةٌ لَهُۜ وَمَنْ لَمْ يَحْكُمْ بِمَٓا اَنْزَلَ اللّٰهُ فَاُو۬لٰٓئِكَ هُمُ الظَّالِمُونَ",
+        "turkish_text": "Ve Biz, onda, onların üzerine yazdık: “Cana can, göze göz, buruna burun, kulağa kulak, dişe diş ve yaralamalarda kısas(1) vardır.” Artık kim onunla tasadduk(2) ederse o, onun için bir kefarettir.(3) Allah'ın indirdiği ile hükmetmeyenler, zalimlerin ta kendileridirler.",
+        "index_number": 45,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Eş değer karşılık."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Kısas hakkını bağışlarsa, kısastan vazgeçerse."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Bağışlanmadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَقَفَّيْنَا عَلٰٓى اٰثَارِهِمْ بِع۪يسَى ابْنِ مَرْيَمَ مُصَدِّقاً لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرٰيةِۖ وَاٰتَيْنَاهُ الْاِنْج۪يلَ ف۪يهِ هُدًى وَنُورٌۙ وَمُصَدِّقاً لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرٰيةِ وَهُدًى وَمَوْعِظَةً لِلْمُتَّق۪ينَ",
+        "turkish_text": "Onların ardından, Tevrât'ı tasdik edici olarak, Meryem Oğlu Îsâ'yı gönderdik. Biz ona, içinde hidâyet ve nûr bulunan, Tevrât'ı tasdik eden, takvâ sahipleri için hidâyet ve öğüt olan İncil'i verdik.",
+        "index_number": 46,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلْيَحْكُمْ اَهْلُ الْاِنْج۪يلِ بِمَٓا اَنْزَلَ اللّٰهُ ف۪يهِۜ وَمَنْ لَمْ يَحْكُمْ بِمَٓا اَنْزَلَ اللّٰهُ فَاُو۬لٰٓئِكَ هُمُ الْفَاسِقُونَ",
+        "turkish_text": "İncil Ehli, Allah'ın onda indirdiği ile hükmetsinler. Ve kim Allah'ın indirdiği ile hükmetmezse işte onlar Fâsıklardır.(1)",
+        "index_number": 47,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Günaha sapan. Günahta ısrar eden. Vahyin belirlediği sınırların dışına çıkan; iyi, doğru, güzel ve temiz şeylerden uzak kalan. İnandığı halde, yaşantı olarak Kâfir olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنْزَلْـنَٓا اِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقاً لِمَا بَيْنَ يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِناً عَلَيْهِ فَاحْكُمْ بَيْنَهُمْ بِمَٓا اَنْزَلَ اللّٰهُ وَلَا تَتَّبِعْ اَهْوَٓاءَهُمْ عَمَّا جَٓاءَكَ مِنَ الْحَقِّۜ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجاًۜ وَلَوْ شَٓاءَ اللّٰهُ لَجَعَلَكُمْ اُمَّةً وَاحِدَةً وَلٰكِنْ لِيَبْلُوَكُمْ ف۪ي مَٓا اٰتٰيكُمْ فَاسْتَبِقُوا الْخَيْرَاتِۜ اِلَى اللّٰهِ مَرْجِعُكُمْ جَم۪يعاً فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ ف۪يهِ تَخْتَلِفُونَۙ",
+        "turkish_text": "Biz sana, kendinden önceki Kitâp'ı tasdik eden, onu düzenleyen(1) bu Kitâp'ı hakk(2) olarak indirdik. O halde, aralarında Allah'ın indirdiği ile hükmet. Ve sakın sana gelen hakkı bırakıp onların hevâlarına(3) uyma. Ve Biz, sizin her biriniz için, bir şeriat(4) ve yöntem belirledik. Allah dileseydi, sizi tek tip bir topluluk yapardı. Ancak sizlere verdiği ile sizi sınıyor.(5) O halde hayırlarda yarışın. Hepinizin dönüşü Allah'adır. Allah, üzerinde ayrılığa düştüğünüz şeyleri bildirecektir.",
+        "index_number": 48,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Düzenleyen. Çarpıtılmış, tahrif edilmiş hakikatleri ve tevhid inancının gerçeğini ortaya koymak. Gözetici ve koruyucu."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Gerçeklik. Doğruluğu kesin olan. Bir işin aslı."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Tutku, kuruntu, bencil ve çıkarcı isteklere uymak. Sahip olduğu zenginlik, makam, ün, güç, bilgi vb. imkânları imtiyaza dönüştürerek üstünlük taslamak. Vahiy yerine din adamları sınıfının uydurduğu dine uymak."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- İlâhi yasalar bütünü. Gerçeğin kaynağına götüren yol."
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- Samimiyetiniz ortaya çıksın."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنِ احْكُمْ بَيْنَهُمْ بِمَٓا اَنْزَلَ اللّٰهُ وَلَا تَتَّبِـعْ اَهْوَٓاءَهُمْ وَاحْذَرْهُمْ اَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَٓا اَنْزَلَ اللّٰهُ اِلَيْكَۜ فَاِنْ تَوَلَّوْا فَاعْلَمْ اَنَّمَا يُر۪يدُ اللّٰهُ اَنْ يُص۪يبَهُمْ بِبَعْضِ ذُنُوبِهِمْۜ وَاِنَّ كَث۪يراً مِنَ النَّاسِ لَفَاسِقُونَ",
+        "turkish_text": "Ve aralarında, Allah'ın sana indirdiğiyle hükmet. Onların hevâlarına uyma. Allah'ın sana indirdiğinin bir kısmından seni şaşırtmalarından ve onlardan sakın. Eğer verdiğin kararlara uymazlarsa, bilesin ki Allah, bazı günahları nedeniyle onlara musibet isabet ettirmeyi istiyor. İnsanların pek çoğu elbette fâsıktır.",
+        "index_number": 49,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَۜ وَمَنْ اَحْسَنُ مِنَ اللّٰهِ حُكْماً لِقَوْمٍ يُوقِنُونَ۟",
+        "turkish_text": "Câhiliye(1) hükmünü mü istiyorlar? Gerçeği kavramış bir toplum için, Allah'tan daha iyi hüküm veren kim olabilir?",
+        "index_number": 50,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Vahiy dışı inanç, düşünce ve yaşam biçimleri. Kur'an; Câhiliye'yi, bilgisizlik, bilmezlik, okuryazar olmamak anlamında değil; gerçeğin dışında bir şeye inanmak, yapılması gerekenin veya gerçeğin tersini yapmak anlamında kullanmaktadır. Kur'an'a göre vahiy dışı yaşam biçimi Câhiliye'dir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارٰٓى اَوْلِيَٓاءَۢ بَعْضُهُمْ اَوْلِيَٓاءُ بَعْضٍۜ وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَاِنَّهُ مِنْهُمْۜ اِنَّ اللّٰهَ لَا يَهْدِي الْقَوْمَ الظَّالِم۪ينَ",
+        "turkish_text": "Ey Îmân Edenler! Yahudileri ve Nesârâ'yı(1) veliler(2) edinmeyin. Onlar, birbirlerinin velileridir. Sizden kim onları mütevelli edinirse, kuşkusuz o, onlardandır. Kuşkusuz, Allah, zâlim topluma hidâyet(3) etmez.",
+        "index_number": 51,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hıristiyanları."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Koruyucu, yardımcı, yönlendirici, gözeten, destekleyici, yandaş. Kur'an'da yer alan “veli” ve velinin çoğulu olan “evliya” kelimelerine dost, dostlar olarak anlam verilmesi doğru değildir. Bu kelimeler, ahlâki anlamdaki dostluğu değil; siyasi anlamda yönetmeyi, korumayı, gözetilmeyi ifade etmektedir. Kur'an, “dost” için “halil” kelimesini kullanmaktadır (Bkz. 2:254; 4:125; 17:73; 25:28). Allah'ın isimlerinden olan “El-Veli; Sahip Çıkan, Koruyan, Gözeten, Destek Olan.” demektir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Doğru yolu göstermez. Hidayet, güzel, yumuşak bir şekilde yol göstermek; işaret etmek şeklinde yol göstermek. Gerçeğe ve doğruya ulaşmak, hakikatle buluşmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَتَرَى الَّذ۪ينَ ف۪ي قُلُوبِهِمْ مَرَضٌ يُسَارِعُونَ ف۪يهِمْ يَقُولُونَ نَخْشٰٓى اَنْ تُص۪يبَنَا دَٓائِرَةٌۜ فَعَسَى اللّٰهُ اَنْ يَأْتِيَ بِالْفَتْحِ اَوْ اَمْرٍ مِنْ عِنْدِه۪ فَيُصْبِحُوا عَلٰى مَٓا اَسَرُّوا ف۪ٓي اَنْفُسِهِمْ نَادِم۪ينَۜ",
+        "turkish_text": "Kalplerinde hastalık bulunanların, “Başımıza bir bela gelmesinden korkuyoruz.” diyerek, onların aralarında koşuştuklarını görürsün. Olur ki, Allah bir fetih veya kendi katından bir emir getirir ve böylece onlar içlerinde gizledikleri şeyden pişman olurlar!",
+        "index_number": 52,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيَقُولُ الَّذ۪ينَ اٰمَنُٓوا اَهٰٓؤُ۬لَٓاءِ الَّذ۪ينَ اَقْسَمُوا بِاللّٰهِ جَهْدَ اَيْمَانِهِمْۙ اِنَّهُمْ لَمَعَكُمْۜ حَبِطَتْ اَعْمَالُهُمْ فَاَصْبَحُوا خَاسِر۪ينَ",
+        "turkish_text": "Îmân Edenler şöyle derler: “Bütün yeminleri(1) ile senin yanında olacaklarına dair Allah'a yemin edenler bunlar mı?” İşte onların yaptığı bütün işler boşa gitti. Ve hüsrana uğrayanlar oldular.",
+        "index_number": 53,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Güçleri ile."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ د۪ينِه۪ فَسَوْفَ يَأْتِي اللّٰهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُٓ اَذِلَّةٍ عَلَى الْمُؤْمِن۪ينَ اَعِزَّةٍ عَلَى الْكَافِر۪ينَۘ يُجَاهِدُونَ ف۪ي سَب۪يلِ اللّٰهِ وَلَا يَخَافُونَ لَوْمَةَ لَٓائِمٍۜ ذٰلِكَ فَضْلُ اللّٰهِ يُؤْت۪يهِ مَنْ يَشَٓاءُۜ وَاللّٰهُ وَاسِعٌ عَل۪يمٌ",
+        "turkish_text": "Ey Îmân Edenler! Sizden kim dininden dönerse(1) bilsin ki Allah, Kendisinin onları sevdiği ve onların da O'nu sevdiği; Mü'minlere karşı alçak gönüllü, Kâfirlere karşı izzetli,(2) Allah yolunda cihad eden, kınayıcının kınamasından korkmayan bir halk getirir. İşte bu Allah'ın fazlıdır(3) ki o fazlı dilediğine verir. Ve Allah, Yardımı Çok Kapsamlı Olan'dır, Her Şeyi Bilen'dir.",
+        "index_number": 54,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Mürted olursa. Geleneksel İslâm'ın fıkıh kayklarında yer alan, “mürted olanın öldürülmesi” hükmü kesinlikle Kur'an'a aykırı bir düşüncedir. Dinde zorlama yoktur. Rabb'imiz, kullarına dilediğini seçme hakkı vermiştir. Dileyen îmân eder, dileyen küfreder. Esas küfür, zorla dindar edilmek veya zorla dinden döndürülmektir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Yüksek onur, şeref, büyük itibar, yücelik, saygınlık, üstünlük, güç."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Üstünlük, lütuf, ihsân, ikrâm, cömertlik, hayır, iyilik."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّمَا وَلِيُّكُمُ اللّٰهُ وَرَسُولُهُ وَالَّذ۪ينَ اٰمَنُوا الَّذ۪ينَ يُق۪يمُونَ الصَّلٰوةَ وَيُؤْتُونَ الزَّكٰوةَ وَهُمْ رَاكِعُونَ",
+        "turkish_text": "Sizin veliniz; ancak Allah, O'nun Resûl'ü ve “salâtı ikame edip rukû halinde zekât yapan(1)” Mü'minlerdir.",
+        "index_number": 55,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu cümleye, kimi çevirilerde, “namaz kılan, zekât veren ve rukû eden” şeklinde verilen anlam doğru değildir. Âyette, kelime anlamı itibariyle “salâtı ikame edip rukû halinde zekât yapan” demek olan bu terkip; şirkten arınmış bir bilinçle Allah'a yönelmek, O'na kulluk etmek ve bunu, Allah'a bağlılığı ortaya koyarak, buyruklarına içtenlikle teslim olarak; arınmış, temizlenmiş bir benlikle yapmak demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَنْ يَتَوَلَّ اللّٰهَ وَرَسُولَهُ وَالَّذ۪ينَ اٰمَنُوا فَاِنَّ حِزْبَ اللّٰهِ هُمُ الْغَالِبُونَ۟",
+        "turkish_text": "Ve kim Allah'ı ve O'nun Resûl'ünü ve Mü'minleri veli edinirse, Allah'ın taraftarları onlardır. Galip gelecek olanlar da onlardır.",
+        "index_number": 56,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَتَّخِذُوا الَّذ۪ينَ اتَّخَذُوا د۪ينَكُمْ هُزُواً وَلَعِباً مِنَ الَّذ۪ينَ اُو۫تُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَالْكُفَّارَ اَوْلِيَٓاءَۚ وَاتَّقُوا اللّٰهَ اِنْ كُنْتُمْ مُؤْمِن۪ينَ",
+        "turkish_text": "Ey Îmân Edenler! Sizden önce kendilerine Kitâp verilenlerden ve Kâfirlerden,(1) dininizi alay ve eğlenceye alan kimseleri veliler(2) edinmeyin. Eğer îmân etmiş kimselerseniz, Allah'a karşı takvâlı olun.",
+        "index_number": 57,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 5:5. âyetin 3. dipnotu."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bkz. 5:51. âyetin 2. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا نَادَيْتُمْ اِلَى الصَّلٰوةِ اتَّخَذُوهَا هُزُواً وَلَعِباًۜ ذٰلِكَ بِاَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ",
+        "turkish_text": "Salâta(1) çağrıldığınız zaman, onu alay ve eğlence konusu yaparlar. Bu, onların kesinlikle aklını kullanmayan bir topluluk olmalarındandır.",
+        "index_number": 58,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Namaza."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قُلْ يَٓا اَهْلَ الْكِتَابِ هَلْ تَنْقِمُونَ مِنَّٓا اِلَّٓا اَنْ اٰمَنَّا بِاللّٰهِ وَمَٓا اُنْزِلَ اِلَيْنَا وَمَٓا اُنْزِلَ مِنْ قَبْلُۙ وَاَنَّ اَكْثَرَكُمْ فَاسِقُونَ",
+        "turkish_text": "De ki: “Ey Kitâp Ehli! Allah'a, bize indirilene ve bizden önce indirilene inandığımız için mi bizden nefret ediyorsunuz? Kuşkusuz, çoğunuz fâsıksınız.”",
+        "index_number": 59,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ هَلْ اُنَبِّئُكُمْ بِشَرٍّ مِنْ ذٰلِكَ مَثُوبَةً عِنْدَ اللّٰهِۜ مَنْ لَعَنَهُ اللّٰهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَاز۪يرَ وَعَبَدَ الطَّاغُوتَۜ اُو۬لٰٓئِكَ شَرٌّ مَكَاناً وَاَضَلُّ عَنْ سَوَٓاءِ السَّب۪يلِ",
+        "turkish_text": "De ki: “Allah'ın katında ceza olarak bunlardan daha kötüsünü size haber vereyim mi? Allah'ın lânet ettiği, gazâbına uğrattığı ve onlardan maymunlar,(1) domuzlar(1) ve tâğûta(2) kulluk eden kimseler yapmışsa, işte bunlar, durumları bakımından en kötü olan ve doğru yoldan sapmış olanlardır.”",
+        "index_number": 60,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Maymun ve domuz olmak mecazendir. Karakter yönü ile maymun ve domuz benzetmesi yapılmaktadır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Allah'a isyan etmek anlamına gelen “tağa” kökünden türemiştir. Despot, azgın, sapkın, kötülük önderi, zorba, şeytân, put, kâhin; kaba kuvvetle hükmeden kişi, kurum veya yönetim demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا جَٓاؤُ۫كُمْ قَالُٓوا اٰمَنَّا وَقَدْ دَخَلُوا بِالْـكُفْرِ وَهُمْ قَدْ خَرَجُوا بِه۪ۜ وَاللّٰهُ اَعْلَمُ بِمَا كَانُوا يَكْتُمُونَ",
+        "turkish_text": "Onlar, size geldiklerinde, “Îmân ettik.” dediler. Oysaki onlar, yanınıza küfürle girdiler, küfürle çıktılar. Allah, gizledikleri şeyi en iyi bilendir.",
+        "index_number": 61,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَتَرٰى كَث۪يراً مِنْهُمْ يُسَارِعُونَ فِي الْاِثْمِ وَالْعُدْوَانِ وَاَكْلِهِمُ السُّحْتَۜ لَبِئْسَ مَا كَانُوا يَعْمَلُونَ",
+        "turkish_text": "Ve onlardan pek çoğunun, günah işlemede, düşmanlık yapmada ve suht(1) yemede birbirleriyle yarıştıklarını görürsün. Yapmakta oldukları şey ne kadar kötüdür!",
+        "index_number": 62,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Harâm kazanç, meşru olmayan kazançların tamamı, her türlü yolsuzluk."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَوْلَا يَنْهٰيهُمُ الرَّبَّانِيُّونَ وَالْاَحْبَارُ عَنْ قَوْلِهِمُ الْاِثْمَ وَاَكْلِهِمُ السُّحْتَۜ لَبِئْسَ مَا كَانُوا يَصْنَعُونَ",
+        "turkish_text": "Rabbânilerin(1) ve ahbârın;(2) günah söz söylemekten ve suht(3) yemekten sakındırmaları gerekmez miydi? Yaltaklanmaları ne kötüdür.",
+        "index_number": 63,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ruhban. Rabb'e kul olan. (Hıristiyan din adamı.) Ruhbanlık, çekingen bir hayat sürmek, dünyadan el etek çekip, yalnızca ibadetle ilgilenerek rûhu yüceltmek demektir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Haham. (Yahudi din adamı.)"
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Harâm kazanç, meşru olmayan kazançların tamamı, her türlü yolsuzluk."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَقَالَتِ الْيَهُودُ يَدُ اللّٰهِ مَغْلُولَةٌۜ غُلَّتْ اَيْد۪يهِمْ وَلُعِنُوا بِمَا قَالُواۢ بَلْ يَدَاهُ مَبْسُوطَتَانِۙ يُنْفِقُ كَيْفَ يَشَٓاءُۜ وَلَيَز۪يدَنَّ كَث۪يراً مِنْهُمْ مَٓا اُنْزِلَ اِلَيْكَ مِنْ رَبِّكَ طُغْيَاناً وَكُفْراًۜ وَاَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَٓاءَ اِلٰى يَوْمِ الْقِيٰمَةِۜ كُلَّمَٓا اَوْقَدُوا نَاراً لِلْحَرْبِ اَطْفَاَهَا اللّٰهُۙ وَيَسْعَوْنَ فِي الْاَرْضِ فَسَاداًۜ وَاللّٰهُ لَا يُحِبُّ الْمُفْسِد۪ينَ",
+        "turkish_text": "O Yahudiler,(1) “Allah'ın eli bağlıdır.(2)” dediler. Böyle söylemelerinden dolayı elleri bağlandı ve söyledikleri yüzünden lânetlendiler. Oysaki O'nun iki eli de açıktır.(3) Nasıl dilerse öyle infak(4) eder. Yemin olsun ki sana Rabb'inden indirilen şey onların çoğunun azgınlığını ve küfrünü arttıracaktır. Biz de aralarına kıyamet gününe kadar düşmanlık ve nefret yerleştirdik. Savaş için ateş yaktıkları her seferinde Allah onu söndürdü. Yeryüzünde bozgunculuk için koşuşuyorlar. Ve Allah bozguncuları sevmez.",
+        "index_number": 64,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın eli bağlıdır diyen Yahudiler."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Cimridir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Çok cömerttir."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Karşılıksız yardım."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَوْ اَنَّ اَهْلَ الْكِتَابِ اٰمَنُوا وَاتَّقَوْا لَكَفَّرْنَا عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَاَدْخَلْنَاهُمْ جَنَّاتِ النَّع۪يمِ",
+        "turkish_text": "Eğer Kitâp Ehli de îmân edip takvâ sahibi olsaydı, kötülüklerini örter,(1) nimet dolu Cennetlere koyardık.",
+        "index_number": 65,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kelimesi kelimesine, Kâfirlik ederdik."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَوْ اَنَّهُمْ اَقَامُوا التَّوْرٰيةَ وَالْاِنْج۪يلَ وَمَٓا اُنْزِلَ اِلَيْهِمْ مِنْ رَبِّهِمْ لَاَكَلُوا مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ اَرْجُلِهِمْۜ مِنْهُمْ اُمَّةٌ مُقْتَصِدَةٌۜ وَكَث۪يرٌ مِنْهُمْ سَٓاءَ مَا يَعْمَلُونَ۟",
+        "turkish_text": "Eğer onlar, Tevrât'ı, İncil'i ve Rabb'lerinden kendilerine indirileni gereğince uygulasalardı hem üstlerinden hem de ayaklarının altından(1) yiyeceklerdi. İçlerinde muktesid(2) bir topluluk var. Ve onlardan çoğu da kötü işler yapıyorlar.",
+        "index_number": 66,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Her yönden; ağaçlardan ve yerin yetiştirdiklerinden."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Orta yolu tutan, ortada olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الرَّسُولُ بَلِّـغْ مَٓا اُنْزِلَ اِلَيْكَ مِنْ رَبِّكَۜ وَاِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۜ وَاللّٰهُ يَعْصِمُكَ مِنَ النَّاسِۜ اِنَّ اللّٰهَ لَا يَهْدِي الْقَوْمَ الْكَافِر۪ينَ",
+        "turkish_text": "Ey Resûl! Rabb'inden sana her indirileni tebliğ et. Eğer yapmazsan, O'nun mesajını tebliğ etmemiş sayılırsın. Allah, seni insanlardan koruyor. Kuşkusuz, Allah, Kâfirleri doğru yola iletmez.",
+        "index_number": 67,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ يَٓا اَهْلَ الْكِتَابِ لَسْتُمْ عَلٰى شَيْءٍ حَتّٰى تُق۪يمُوا التَّوْرٰيةَ وَالْاِنْج۪يلَ وَمَٓا اُنْزِلَ اِلَيْكُمْ مِنْ رَبِّكُمْۜ وَلَيَز۪يدَنَّ كَث۪يراً مِنْهُمْ مَٓا اُنْزِلَ اِلَيْكَ مِنْ رَبِّكَ طُغْيَاناً وَكُفْراًۚ فَلَا تَأْسَ عَلَى الْقَوْمِ الْكَافِر۪ينَ",
+        "turkish_text": "De ki: “Ey Kitâp Ehli! Tevrât'ı ve İncil'i ve Rabb'inizden size indirileni gereğince uygulamadığınız sürece inancınızı sağlam bir temele oturtmuş olmazsınız.” Elbette Rabb'inden sana indirilmekte olan şey, onlardan çoğunun azgınlığını ve küfrünü artırır. O halde Kâfir halka üzülme.",
+        "index_number": 68,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَالَّذ۪ينَ هَادُوا وَالصَّابِـؤُ۫نَ وَالنَّصَارٰى مَنْ اٰمَنَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ وَعَمِلَ صَالِحاً فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "turkish_text": "Îmân Edenler, Yahûdiler, Sâbiîler(1) ve Nesârâ;(2) kim Allah'a ve Âhiret Günü'ne îmân etti(3) ve sâlihâtı(4) yaptı ise onlara korku yoktur ve üzülmeyeceklerdir de.",
+        "index_number": 69,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sâbiî konusunda Kur'an bir bilgi vermemektedir. Nûh Nebi ve Zebur ile bağlantıları olan kimseler oldukları söylenmektedir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Hıristiyanlar."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Yahûdiliğin, Hıristiyanlığın ve Sabiîliğin geçerli oldukları zamanlarda îmân eden ve sâlihâtı yapan Yahûdiler, Hıristiyanlar ve Sabiîler ile îmân eden ve sâlihâtı yapan Mü'minlerin ödüllerini Rabb'leri verecek. (Benzer âyet, 2:62.)"
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Bkz. 5:9. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَقَدْ اَخَذْنَا م۪يثَاقَ بَن۪ٓي اِسْرَٓائ۪لَ وَاَرْسَلْـنَٓا اِلَيْهِمْ رُسُلاًۜ كُلَّمَا جَٓاءَهُمْ رَسُولٌ بِمَا لَا تَهْوٰٓى اَنْفُسُهُمْۙ فَر۪يقاً كَذَّبُوا وَفَر۪يقاً يَقْتُلُونَ",
+        "turkish_text": "Elbette İsrâîloğullarından söz aldık ve onlara Resûller gönderdik. Ne zaman kendi hevâlarına(1) uymayan bir resûl geldiyse, bir kısmını yalanlıyor ve bir kısmını da öldürüyorlardı.",
+        "index_number": 70,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 5:48. âyetin 3. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَحَسِبُٓوا اَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا وَصَمُّوا ثُمَّ تَابَ اللّٰهُ عَلَيْهِمْ ثُمَّ عَمُوا وَصَمُّوا كَث۪يرٌ مِنْهُمْۜ وَاللّٰهُ بَص۪يرٌ بِمَا يَعْمَلُونَ",
+        "turkish_text": "Bir fitne(1) olmayacağını sandılar da kör ve sağır kesildiler.(2) Sonra Allah, onların üzerine tevbe(3) etti. Daha sonra onlardan birçoğu yine kör ve sağır kesildiler. Allah ne yaptıklarını gerçeğiyle görmektedir.",
+        "index_number": 71,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Baskı ve zulüm. Samimiyet sınavı. Aldatma, aldatılma. Ateşte yakmak anlamındaki fetn kökünden türemiştir. Fitne, “Altın, gümüş gibi değerli maddelerin kendileriyle kaynaşmış olan değersiz maddelerden ayrıştırılması, yani saflaştırılması amacı ile yüksek ateşte eritilmesi işlemidir.” Fitne, kişinin samimiyetinin iç yüzünün ortaya çıkması için; savaş, baskı, zulüm, zenginlik, yoksulluk, hastalık, ölüm, ün, mevki, mal, mülk gibi konularda tâbi tutulduğu samimiyet sınavıdır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Gerçeği görmezden ve duymazdan geldiler."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Allah'ın tevbe etmesi cezayı hak ettikleri halde, onları cezalandırmaması, onlara kendilerini düzeltmeleri için bir fırsat daha vermesidir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَقَدْ كَفَرَ الَّذ۪ينَ قَالُٓوا اِنَّ اللّٰهَ هُوَ الْمَس۪يحُ ابْنُ مَرْيَمَۜ وَقَالَ الْمَس۪يحُ يَا بَن۪ٓي اِسْرَٓائ۪لَ اعْبُدُوا اللّٰهَ رَبّ۪ي وَرَبَّكُمْۜ اِنَّهُ مَنْ يُشْرِكْ بِاللّٰهِ فَقَدْ حَرَّمَ اللّٰهُ عَلَيْهِ الْجَنَّةَ وَمَأْوٰيهُ النَّارُۜ وَمَا لِلظَّالِم۪ينَ مِنْ اَنْصَارٍ",
+        "turkish_text": "Ant olsun Meyem Oğlu Mesih'e, “O Allah'tır.” diyenler Kâfir oldular. Oysaki Mesih: “Ey İsrâîloğulları! Benim de sizin de Rabb'iniz olan Allah'a kulluk edin. Kim Allah'a şirk(1) koşarsa, Allah ona Cennet'i harâm etmiştir. Ve onun varacağı yer ateştir. Zalimler için hiçbir yardımcı yoktur.” dedi.",
+        "index_number": 72,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın yetki, nitelik ve imtiyazlarını, O'nun yanı sıra soyut ya da somut başka birilerine -Nebilere, âlimlere, kişi ve kurumlara- vermek. Allah'a ait; -gaybı bilme, dinde hüküm koyma, şefaat etme, yol gösterme gibi- nitelikleri Allah'ın yanı sıra başka bir varlıkta görmek."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَقَدْ كَفَرَ الَّذ۪ينَ قَالُٓوا اِنَّ اللّٰهَ ثَالِثُ ثَلٰثَةٍۢ وَمَا مِنْ اِلٰهٍ اِلَّٓا اِلٰهٌ وَاحِدٌۜ وَاِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذ۪ينَ كَفَرُوا مِنْهُمْ عَذَابٌ اَل۪يمٌ",
+        "turkish_text": "Ant olsun “Allah, üçün üçüncüsüdür.” diyenler Kâfir oldular. Oysaki bir tek ilâhtan başka ilâh yoktur. Ve eğer bu söylediklerinden vazgeçmezlerse, onlardan Kâfirlik edenlere elbette elem verici bir azâp dokunacaktır.",
+        "index_number": 73,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَفَلَا يَتُوبُونَ اِلَى اللّٰهِ وَيَسْتَغْفِرُونَهُۜ وَاللّٰهُ غَفُورٌ رَح۪يمٌ",
+        "turkish_text": "Hâlâ Allah'a tevbe edip mağfiret(1) dilemiyorlar mı? Oysaki Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 74,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bağışlanmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مَا الْمَس۪يحُ ابْنُ مَرْيَمَ اِلَّا رَسُولٌۚ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُۜ وَاُمُّهُ صِدّ۪يقَةٌۜ كَانَا يَأْكُلَانِ الطَّعَامَۜ اُنْظُرْ كَيْفَ نُبَيِّنُ لَهُمُ الْاٰيَاتِ ثُمَّ انْظُرْ اَنّٰى يُؤْفَكُونَ",
+        "turkish_text": "İyi bilin ki, Meyem Oğlu Mesih, yalnızca bir Resûl'dür. Ondan önce de Resûller gelip geçti. O'nun annesi çok dürüsttür. İkisi de diğer insanlar gibi yer, içerlerdi(1). Onlar için âyetleri(2) nasıl açıkladığımıza bak ve sonra nasıl döndürüldüklerini(3) gör.",
+        "index_number": 75,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yaşamak için yiyip içen bir kimse nasıl Allah olabilir?"
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Îsâ'nın mucizevi yaradılışını."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Gerçekten yüz çevirdiklerini."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قُلْ اَتَعْبُدُونَ مِنْ دُونِ اللّٰهِ مَا لَا يَمْلِكُ لَكُمْ ضَراًّ وَلَا نَفْعاًۜ وَاللّٰهُ هُوَ السَّم۪يعُ الْعَل۪يمُ",
+        "turkish_text": "De ki: “Allah'ı bırakıp, size bir yarar sağlamaya da bir zarar vermeye de gücü yetmeyen şeylere mi kulluk(1) yapıyorsunuz? Allah, Her Şeyi Duyan, Her Şeyi Bilen'dir.”",
+        "index_number": 76,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Her insan kaçınılmaz olarak kuldur. Bu seçime bağlı olmayıp. Zorunlu bir durumdur. Seçim kul olup olmamakla ilgili değil, kulluğun kime yapılacağı ile ilgilidir. Kulluk ya Allah'a ya da Allah'tan başka şeylere olur. Allah'a özgü olan kulluk gerçek özgürlüktür. Allah'tan başkasına olan kulluk ise köleliktir. Allah'a kul olmayan bir kimse; bir düşünceye, görüşe, doğaya, iktidara, sisteme, kişiye, ünvana, paraya, dünya malına vs. kul olmak zorundadır. Bu kulluk doğası gereği köleliktir. İnsan yaşamında kulluğun kapsamadığı, kulluğun dışına tutulabilecek hiçbir alan yoktur. Bir Mü'min için kulluk, insanın rûhen ve bedenen bütün varlığı ile Allah'a bilinçli bir bağlılık ile yönelmesidir. İbadet ve kulluk anlam olarak aynı şeydir: İbadet kul kelimesinin mastarıdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قُلْ يَٓا اَهْلَ الْكِتَابِ لَا تَغْلُوا ف۪ي د۪ينِكُمْ غَيْرَ الْحَقِّ وَلَا تَتَّبِعُٓوا اَهْوَٓاءَ قَوْمٍ قَدْ ضَلُّوا مِنْ قَبْلُ وَاَضَلُّوا كَث۪يراً وَضَلُّوا عَنْ سَوَٓاءِ السَّب۪يلِ۟",
+        "turkish_text": "De ki: “Ey Kitâp Ehli! Gerçeğin dışına çıkarak, dininizin sınırlarını ihlal etmeyin. Daha önce sapan ve birçoğunu saptıran ve düzgün yoldan sapmış olan bir halkın hevâsına uymayın.",
+        "index_number": 77,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لُعِنَ الَّذ۪ينَ كَفَرُوا مِنْ بَن۪ٓي اِسْرَٓائ۪لَ عَلٰى لِسَانِ دَاوُ۫دَ وَع۪يسَى ابْنِ مَرْيَمَۜ ذٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
+        "turkish_text": "İsrâîloğullarından Kâfir olan kimseler, asi olmaları ve haddi aşmaları nedeniyle, Dâvud'un ve Meyrem Oğlu Îsâ'nın diliyle lânetlendiler.",
+        "index_number": 78,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَانُوا لَا يَتَنَاهَوْنَ عَنْ مُنْكَرٍ فَعَلُوهُۜ لَبِئْسَ مَا كَانُوا يَفْعَلُونَ",
+        "turkish_text": "Yaptıkları kötü şeylerde, birbirlerini uyarmıyorlardı. Gerçekten yapmakta oldukları şey ne kadar çirkindi.",
+        "index_number": 79,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَرٰى كَث۪يراً مِنْهُمْ يَتَوَلَّوْنَ الَّذ۪ينَ كَفَرُواۜ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ اَنْفُسُهُمْ اَنْ سَخِطَ اللّٰهُ عَلَيْهِمْ وَفِي الْعَذَابِ هُمْ خَالِدُونَ",
+        "turkish_text": "Onlardan çoğunun, Kâfirleri veli(1) edindiklerini görürsün. Nefislerinin kendileri için sunduğu şey ne kötüdür. Allah, onlara gazâp etmiştir ve onlar sürekli azâpta kalacaklardır.",
+        "index_number": 80,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 5:51. âyetin 2. dipnot."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَوْ كَانُوا يُؤْمِنُونَ بِاللّٰهِ وَالنَّبِيِّ وَمَٓا اُنْزِلَ اِلَيْهِ مَا اتَّخَذُوهُمْ اَوْلِيَٓاءَ وَلٰكِنَّ كَث۪يراً مِنْهُمْ فَاسِقُونَ",
+        "turkish_text": "Eğer onlar, Allah'a, Nebi'ye ve ona indirilene îmân etselerdi, onları evliya edinmezlerdi. Fakat onlardan pek çoğu fâsıktır.",
+        "index_number": 81,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَةً لِلَّذ۪ينَ اٰمَنُوا الْيَهُودَ وَالَّذ۪ينَ اَشْرَكُواۚ وَلَتَجِدَنَّ اَقْرَبَهُمْ مَوَدَّةً لِلَّذ۪ينَ اٰمَنُوا الَّذ۪ينَ قَالُٓوا اِنَّا نَصَارٰىۜ ذٰلِكَ بِاَنَّ مِنْهُمْ قِسّ۪يس۪ينَ وَرُهْبَاناً وَاَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+        "turkish_text": "Îmân Eden kimselere düşmanlık yönünden insanların en çetininin Yahudiler(1) ve Müşrikler olduğunu görürsün. Ve yine Îmân Eden kimseler için sevgice daha yakın olanların da biz Nesârâ'yiz(2) diyenler olduğunu göreceksin. Bunun nedeni, kuşkusuz bunların içinde gerçekten büyüklük taslamayan keşişler(3) ve rahipler olmasıdır.",
+        "index_number": 82,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yahudiler kelimesin başında, “el” takısı, yani belirlilik takısı bulunmaktadır. Dolayısıyla belli bir dönemde, belli bir coğrafyada ve belli bir kesim Yahudi'den söz edilmektedir. Yani tarihin her döneminde yaşamış ve yaşayacak olan Yahudi'leri kapsayan bir husus söz konusu değildir. O gün İslâm'a karşı tavır alan Yahudiler kast edilmektedir. Aksi bir düşünce Kur'an'a kesinlikle aykırıdır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Hıristiyan'ız. Burada söz konusu edilen Hıristiyanlar da tıpkı Yahudiler gibi belli muhataplardır. Bu bütün zamanları ve herkesi kapsayan bir niteleme değildir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- İbadetle meşgul olanlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا سَمِعُوا مَٓا اُنْزِلَ اِلَى الرَّسُولِ تَرٰٓى اَعْيُنَهُمْ تَف۪يضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّۚ يَقُولُونَ رَبَّنَٓا اٰمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِد۪ينَ",
+        "turkish_text": "Resûl'e indirileni duydukları zaman, gerçeği anlamalarından dolayı onların gözlerinin yaşla dolup taştığını görürsün. Derler ki: “Ey Rabb'imiz! Îmân ettik, öyleyse bizi şahitlerle beraber yaz.”",
+        "index_number": 83,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا لَنَا لَا نُؤْمِنُ بِاللّٰهِ وَمَا جَٓاءَنَا مِنَ الْحَقِّۙ وَنَطْمَعُ اَنْ يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِح۪ينَ",
+        "turkish_text": "“Ve bize ne oluyor ki, Allah'a ve bize gelen gerçeğe îmân etmeyelim: Rabb'imizin bizi iyi kimseler topluluğuna dâhil etmesi umut ve beklentisi içinde iken.”",
+        "index_number": 84,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَثَابَهُمُ اللّٰهُ بِمَا قَالُوا جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ وَذٰلِكَ جَزَٓاءُ الْمُحْسِن۪ينَ",
+        "turkish_text": "Böyle söylemelerinden dolayı Allah da karşılık olarak içinden ırmaklar akan Cennetlerle ödüllendirdi. Onlar, orada sürekli kalacaklardır. İşte muhsinlere(1) verilen karşılık budur.",
+        "index_number": 85,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İyi kimse, iyi işler yapan, iyi davranmayı ilke edinen, güzel ahlâk sahibi olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ كَفَرُوا وَكَذَّبُوا بِاٰيَاتِنَٓا اُو۬لٰٓئِكَ اَصْحَابُ الْجَح۪يمِ۟",
+        "turkish_text": "Kâfir olup âyetlerimizi yalanlayan kimseler, işte onlar Cehennem halkıdırlar.",
+        "index_number": 86,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تُحَرِّمُوا طَيِّبَاتِ مَٓا اَحَلَّ اللّٰهُ لَكُمْ وَلَا تَعْتَدُواۜ اِنَّ اللّٰهَ لَا يُحِبُّ الْمُعْتَد۪ينَ",
+        "turkish_text": "Ey Îmân Edenler! Allah'ın size helâl kıldığı tayyibat(1) olan şeyleri harâm saymayın. Haddi aşmayın.(2) Allah, haddi aşanları sevmez.",
+        "index_number": 87,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hoşa giden, bakımlı, temiz, sağlıklı, yararlı, iyi niyetli, iyi huylu. Tayyibin zıddı habistir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bu helâldir, bu harâmdır diyerek kendi kendinize yargıda bulunmayın."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَكُلُوا مِمَّا رَزَقَكُمُ اللّٰهُ حَلَالاً طَيِّباًۖ وَاتَّقُوا اللّٰهَ الَّـذ۪ٓي اَنْتُمْ بِه۪ مُؤْمِنُونَ",
+        "turkish_text": "Allah'ın sizi rızıklandırdığı şeylerin helâl ve tayyib olanlarından yiyin. Îmân ettiğiniz Allah'a karşı takvâlı olun.",
+        "index_number": 88,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَا يُؤَاخِذُكُمُ اللّٰهُ بِاللَّغْوِ ف۪ٓي اَيْمَانِكُمْ وَلٰكِنْ يُؤَاخِذُكُمْ بِمَا عَقَّدْتُمُ الْاَيْمَانَۚ فَكَفَّارَتُهُٓ اِطْعَامُ عَشَرَةِ مَسَاك۪ينَ مِنْ اَوْسَطِ مَا تُطْعِمُونَ اَهْل۪يكُمْ اَوْ كِسْوَتُهُمْ اَوْ تَحْر۪يرُ رَقَبَةٍۜ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلٰثَةِ اَيَّامٍۜ ذٰلِكَ كَفَّارَةُ اَيْمَانِكُمْ اِذَا حَلَفْتُمْۜ وَاحْفَظُٓوا اَيْمَانَكُمْۜ كَذٰلِكَ يُبَيِّنُ اللّٰهُ لَكُمْ اٰيَاتِه۪ لَعَلَّكُمْ تَشْكُرُونَ",
+        "turkish_text": "Allah, kasıtsız(1) yeminlerinizden dolayı sizi sorumlu tutmaz, ancak bilinçli olarak ettiğiniz yeminlerden dolayı sorumlu tutar. Bunun(2) bedeli ailenize yedirdiğinizin ortalaması üzerinden on yoksulu yedirmek veya onları giydirmek veya bir rekâbeyi(3) özgürlüğüne kavuşturmaktır. Fakat bunlara gücü yetmeyene üç gün siyam(4) vardır. Bozduğunuz yeminlerinizin bedeli budur. Yeminlerinizi bozmayın. Allah, size âyetlerini(5) böyle açıklıyor. Umulur ki şükredersiniz(6).",
+        "index_number": 89,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yalan söyleme amacıyla yapılmayan veya doğru sanılarak yapılan."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Yeminlerinizi bozmanızın bedeli."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Bkz. 9:92. âyetin dipnotu."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Oruç."
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- Hükümlerini."
+          },
+          {
+            "key_word": "6",
+            "index_number": 6,
+            "note": "6- Gerekeni yaparsınız. Bkz. 4:147. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْاَنْصَابُ وَالْاَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+        "turkish_text": "Ey Îmân Edenler! Hamr,(1) kumar, dikili taşlar(2) ve şans oyunları(3) şeytân işi birer pisliktir. Bunlardan kaçının ki kurtuluşa eresiniz.",
+        "index_number": 90,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Aklı örten, sarhoşluk veren her türden içki ve uyuşturucu."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- İnsanlardan yararlanmak amacıyla manevi değer verilmiş, kutsallaştırılmış put ve benzeri nesneler; mezar, türbe vb. şeyler."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Şans oyunları ile gelecek hakkında kehanette bulunmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّمَا يُر۪يدُ الشَّيْطَانُ اَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَٓاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ اللّٰهِ وَعَنِ الصَّلٰوةِۚ فَهَلْ اَنْتُمْ مُنْتَهُونَ",
+        "turkish_text": "Şeytân, hamr ve kumarla aranıza düşmanlık ve kin sokmak; sizi Allah'ın öğütlerini dinlemekten ve salâttan(1) uzaklaştırmak ister. O halde bunlardan vazgeçmeyecek misiniz?",
+        "index_number": 91,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Namaz kılmaktan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَط۪يعُوا اللّٰهَ وَاَط۪يعُوا الرَّسُولَ وَاحْذَرُواۚ فَاِنْ تَوَلَّيْتُمْ فَاعْلَمُٓوا اَنَّمَا عَلٰى رَسُولِنَا الْبَلَاغُ الْمُب۪ينُ",
+        "turkish_text": "Ve Allah'a itaat edin ve Resûl'e itaat edin.(1) Sakının.(2) Eğer bu buyrukları dinlemezseniz, bilin ki resulümüze düşen açıkça duyurmaktır.",
+        "index_number": 92,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İslâm dininin “atalar” ve “rivayetler” dinine dönüştürülmesi, büyük oranda “Allah'a ve Resûl'üne itaat” etmeyi buyuran âyetlerdeki “Resûl'e itaat etmeye”, “Peygambere, yani sünnete ve hadise itaat etmek” anlamı verilerek yapılmıştır. Bu anlam kesinlikle büyük bir yanılgıdır. Kur'an'da peygamber kelimesi geçmez. Peygamber, Farsça bir kelimedir. Kur'an'da Resûl ve Nebi kelimeleri ayrı ayrı geçmektedir. Kur'an'da Nebi'ye itaat etmeyi buyuran âyet yoktur. Yalnızca Resûl'e itaat etmek vardır. Çünkü Resûl'e itaat etmeyle kast edilen şey, Resûlün bize ilettiği âyetlere itaat etmektir. Dolayısı ile Resûl'e itaat etmek demek, aslında Allah'a itaat etmek demektir. Resûl'e tâbi olmak demek, Allah'a yani vahye tâbi olmak demektir. “Kur'an, Allah'ın kelamı, Resûl'ün beyanıdır/sözüdür.” Diğer bir ifade ile Resûl'ün sözleri “âyettir”, Nebi'nin sözleri ise “şahsidir” ve Nebi'nin şahsına aittir. Resûl'ün söyledikleri ise şahsına ait olmayıp Allah'a aittir. (69:40) Resûl, hatasızdır. Nebi'nin yanıldığı olmuştur. Resûl ilâhi koruma altındadır. Resûl'e itiraz etmek, Allah'a itiraz etmektir. Ama Nebi'ye itiraz edilebilir, nitekim sahabe zaman zaman bunu yapmıştır. Allah'a itaatin emredildiği âyetlerde, bir terkip olarak Resûl'e de itaat emredilmektedir. Aslında bu itaat, Resûl'ün şahsına değil, onun vahiy olan sözlerine itaat etmektir ve bu Allah'a itaat etmek anlamına gelmektedir. Yani “Allah ve Resûl'ü” terkibi, iki ayrı şey değil, yalnızca Allah'ı kast eden bir terkiptir. Bu terkipte yer alan “ve” edatı, “atf-ı beyan” olarak kendinden önceki kelimeyi kendinden sonraki kelime ile açıklama görevi yapmaktadır. Bu kurala göre Allah ve Resûl'üne itaat etmek demek, anlam olarak yalnızca “Allah'a, vahye itaat etmek” demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَيْسَ عَلَى الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ ف۪يمَا طَعِمُٓوا اِذَا مَا اتَّقَوْا وَاٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ ثُمَّ اتَّقَوْا وَاٰمَنُوا ثُمَّ اتَّقَوْا وَاَحْسَنُواۜ وَاللّٰهُ يُحِبُّ الْمُحْسِن۪ينَ۟",
+        "turkish_text": "Îmân eden ve sâlihâtı yapan(1) kimselere; îmân edip sâlihâtı yaptıkları sürece takvâ sahipleri değilken yiyip içtiklerinden dolayı bir sorumluluk yoktur. Sonra takvâlı olup, îmân ettikleri, sonra takvâlı olup iyilik yaptıkları takdirde, bilin ki Allah, muhsin(2) olanları sever.",
+        "index_number": 93,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 5:9. âyetin dipnotu."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- İyi kimse, iyi işler yapan, iyi davranmayı ilke edinen, güzel ahlâk sahibi olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَيَبْلُوَنَّكُمُ اللّٰهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُٓ اَيْد۪يكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللّٰهُ مَنْ يَخَافُهُ بِالْغَيْبِۚ فَمَنِ اعْتَدٰى بَعْدَ ذٰلِكَ فَلَهُ عَذَابٌ اَل۪يمٌ",
+        "turkish_text": "Ey Îmân Edenler! Allah, ellerinizin ve oklarınızın ulaşabildiği bir kısım avla sizi dener. Ki görünmeyen yerde kendisine karşı gelmekten sakınanların kimler olduğunu bilmek için. Bundan sonra kim haddi aşarsa onun için elem verici bir azâp vardır.",
+        "index_number": 94,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَاَنْتُمْ حُرُمٌۜ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّداً فَجَزَٓاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِه۪ ذَوَا عَدْلٍ مِنْكُمْ هَدْياً بَالِغَ الْكَعْبَةِ اَوْ كَفَّارَةٌ طَعَامُ مَسَاك۪ينَ اَوْ عَدْلُ ذٰلِكَ صِيَاماً لِيَذُوقَ وَبَالَ اَمْرِه۪ۜ عَفَا اللّٰهُ عَمَّا سَلَفَۜ وَمَنْ عَادَ فَيَنْتَقِمُ اللّٰهُ مِنْهُۜ وَاللّٰهُ عَز۪يزٌ ذُوانْتِقَامٍ",
+        "turkish_text": "Ey Îmân Edenler! İhramlıyken(1) av hayvanı öldürmeyin. Sizden kim bile bile öldürürse, karşılık olarak yapacağı şey, sizden adil iki kişinin kararıyla, avlanılan şeye denk Kâbe'ye ulaşacak hediye(2) göndermek veya yoksulları doyurmak veya buna denk siyamdır(3) ki bu yaptığı işin vebalini tatması içindir. Allah geçmiştekini affetti. Kim aynı suçu tekrar ederse, Allah onun hesabını sorar. Ve Allah, Mutlak Üstün Olan'dır, Hesap Sorucu'dur.",
+        "index_number": 95,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hac esnasında yasaklanmışken, harâm edilmişken."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Kurbanlık bir hayvan."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Oruç tutmaktır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعاً لَكُمْ وَلِلسَّيَّارَةِۚ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ حُرُماًۜ وَاتَّقُوا اللّٰهَ الَّـذ۪ٓي اِلَيْهِ تُحْشَرُونَ",
+        "turkish_text": "Deniz avı ve onu yemek ve ondan geçim temin etmek size ve yolculukta olanlara helâl kılındı. Ve ihramlı olduğunuz süre içinde kara avı size harâm kılındı. Huzuruna toplanacağınız Allah'a karşı takvâ sahibi olun.",
+        "index_number": 96,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "جَعَلَ اللّٰهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَاماً لِلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَٓائِدَۜ ذٰلِكَ لِتَعْلَمُٓوا اَنَّ اللّٰهَ يَعْلَمُ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِ وَاَنَّ اللّٰهَ بِكُلِّ شَيْءٍ عَل۪يمٌ",
+        "turkish_text": "Allah, Beyt-i Harâm(1) olan Kâbe'yi ve o harâm olan ayı(2) ve hediye kurbanlığı(3) ve gerdanlıkları(4) insanlar için kıyam(5) yaptı. Bilesiniz ki Allah, göklerdekini ve yerdekini bilmektedir. Kuşkusuz, Allah, Her Şeyi Bilen'dir.",
+        "index_number": 97,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Saygıdeğer."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Zilhicce ayı. Hacc ibadetinin yapıldığı ay."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Hacc yapanlara yemeleri için gönderilecek olan."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Hacc yapanların yemesi için ayrılan hayvanları belirlemek için hayvanlara yapılan işaretler."
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- Belini doğrultma, geçimini sağlama, yiyeceğini karşılama aracı yaptı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِعْلَمُٓوا اَنَّ اللّٰهَ شَد۪يدُ الْعِقَابِ وَاَنَّ اللّٰهَ غَفُورٌ رَح۪يمٌۜ",
+        "turkish_text": "İyi bilin ki; Allah, Cezası Çok Şiddetli Olan'dır ve kuşkusuz Allah, Çok Bağışlayıcı'dır, Rahmeti Kesintisiz'dir.",
+        "index_number": 98,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا عَلَى الرَّسُولِ اِلَّا الْبَلَاغُۜ وَاللّٰهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+        "turkish_text": "Resûle düşen, yalnızca çağrıda bulunmaktır. Açığa vurduğunuzu da gizlediğinizi de Allah bilir.",
+        "index_number": 99,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ لَا يَسْتَوِي الْخَب۪يثُ وَالطَّيِّبُ وَلَوْ اَعْجَبَكَ كَـثْرَةُ الْخَب۪يثِۚ فَاتَّقُوا اللّٰهَ يَٓا اُو۬لِي الْاَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ۟",
+        "turkish_text": "“De ki:” Habis(1) olanla tayyib(2) olan bir değildir. Velev ki habis olanın çokluğu(3) hoşuna gitse de. Ey selim akıl(4) sahipleri! Allah'a karşı takvâlı olun ki kurtuluşa eresiniz.",
+        "index_number": 100,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kötü, değersiz, murdar, pis, bozuk, iğrenç."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Hoşa giden, bakımlı, temiz, sağlıklı, yararlı, iyi niyetli, iyi huylu."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Az olan temiz şey, çok olan pis şeyden daha hayırlıdır. Az ama helâl olan, çok ama harâm olandan daha temizdir. Önemli olan niteliktir, nicelik değil."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Sağlıklı düşünen, sağduyulu olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَسْـَٔلُوا عَنْ اَشْيَٓاءَ اِنْ تُبْدَ لَكُمْ تَسُؤْكُمْۚ وَاِنْ تَسْـَٔلُوا عَنْهَا ح۪ينَ يُنَزَّلُ الْقُرْاٰنُ تُبْدَ لَكُمْۜ عَفَا اللّٰهُ عَنْهَاۜ وَاللّٰهُ غَفُورٌ حَل۪يمٌ",
+        "turkish_text": "Ey Îmân Edenler! Her şeyi sormayın! Açıklandığında sizi zor duruma düşürecek şeyler vardır. Oysaki Kur'an indirildiği anda o şeyleri sorarsanız size açıklanır. Allah, onlardan vazgeçmiştir.(1) Allah, Çok Bağışlayıcı'dır, Çok Hoş Görülü'dür.",
+        "index_number": 101,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kimi şeyleri detaylandırmamıştır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قَدْ سَاَلَهَا قَوْمٌ مِنْ قَبْلِكُمْ ثُمَّ اَصْبَحُوا بِهَا كَافِر۪ينَ",
+        "turkish_text": "Gerçekten, sizden önce de onları bir halk sormuştu da sonra onları küfredenler olmuşlardı.",
+        "index_number": 102,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا جَعَلَ اللّٰهُ مِنْ بَح۪يرَةٍ وَلَا سَٓائِبَةٍ وَلَا وَص۪يلَةٍ وَلَا حَامٍۙ وَلٰكِنَّ الَّذ۪ينَ كَفَرُوا يَفْتَرُونَ عَلَى اللّٰهِ الْكَذِبَۜ وَاَكْثَرُهُمْ لَا يَعْقِلُونَ",
+        "turkish_text": "Allah, ne “Bahîre” ne “Sâibe” ne “Vâsile” ne de “Ham(1)” diye bir şeyi meşru kıldı. Fakat Kâfirler yalan söyleyerek Allah'a iftira ediyorlar. Ve onların çoğu akıllarını kullanmıyorlar(2).",
+        "index_number": 103,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu isimler; Arapların, putlara kurban ettikleri ya da onlar adına değerlendirdikleri hayvanlara verdikleri isimlerdir (Bkz. 4:119. âyetin dipnotu."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Körü körüne tâbi oluyorlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا ق۪يلَ لَهُمْ تَعَالَوْا اِلٰى مَٓا اَنْزَلَ اللّٰهُ وَاِلَى الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ اٰبَٓاءَنَاۜ اَوَلَوْ كَانَ اٰبَٓاؤُ۬هُمْ لَا يَعْلَمُونَ شَيْـٔاً وَلَا يَهْتَدُونَ",
+        "turkish_text": "Onlara, Allah'ın indirdiğine ve Resûl'e gelin dendiği zaman, “Atalarımızı üzerinde bulduğumuz şey bize yeter.” dediler. Peki ya ataları bir şey bilmeyen ve doğru yolda olmayan kimselerse?",
+        "index_number": 104,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا عَلَيْكُمْ اَنْفُسَكُمْۚ لَا يَضُرُّكُمْ مَنْ ضَلَّ اِذَا اهْتَدَيْتُمْۜ اِلَى اللّٰهِ مَرْجِعُكُمْ جَم۪يعاً فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "turkish_text": "Ey Îmân Edenler! Siz, kendinizden sorumlusunuz. Eğer siz doğru yol üzerindeyseniz, sapan kimseler size zarar veremez. Dönüşünüz Allah'adır. Yaptığınız şeyleri size haber verecektir.",
+        "index_number": 105,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا شَهَادَةُ بَيْنِكُمْ اِذَا حَضَرَ اَحَدَكُمُ الْمَوْتُ ح۪ينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ اَوْ اٰخَرَانِ مِنْ غَيْرِكُمْ اِنْ اَنْتُمْ ضَرَبْتُمْ فِي الْاَرْضِ فَاَصَابَتْكُمْ مُص۪يبَةُ الْمَوْتِۜ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلٰوةِ فَيُقْسِمَانِ بِاللّٰهِ اِنِ ارْتَبْتُمْ لَا نَشْتَر۪ي بِه۪ ثَمَناً وَلَوْ كَانَ ذَا قُرْبٰىۙ وَلَا نَكْتُمُ شَهَادَةَ اللّٰهِ اِنَّٓا اِذاً لَمِنَ الْاٰثِم۪ينَ",
+        "turkish_text": "Ey Îmân Edenler! Eğer birinizde ölüm belirtileri ortaya çıkarsa, vasiyet anında içinizden adalet sahibi iki kişi aranızda tanıklık etsin. Veya yeryüzünde yolculuk ederken(1) ölüm musibeti size isabet ederse, sizden olmayan iki kişi tanıklık etsin. Eğer kuşku duyarsanız o iki kişiyi salâttan(2) sonra alıkoyun. “Yakınımız da olsa tanıklığımızı hiçbir bedele satmayacağız ve Allah'ın tanıklığını gizlemeyeceğiz. Yoksa öyle yaparsak, günahkârlardan oluruz.” diye Allah'a yemin etsinler.",
+        "index_number": 106,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gurbette olduğunuzda."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Cenaze dûasından, töreninden."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاِنْ عُثِرَ عَلٰٓى اَنَّهُمَا اسْتَحَقَّٓا اِثْماً فَاٰخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذ۪ينَ اسْتَحَقَّ عَلَيْهِمُ الْاَوْلَيَانِ فَيُقْسِمَانِ بِاللّٰهِ لَشَهَادَتُـنَٓا اَحَقُّ مِنْ شَهَادَتِهِمَا وَمَا اعْتَدَيْنَاۘ اِنَّٓا اِذاً لَمِنَ الظَّالِم۪ينَ",
+        "turkish_text": "Eğer o ikisinin günah işledikleri anlaşılırsa, onların yerine mirasa hak sahibi olanlardan iki kişi geçer: “Bizim tanıklığımız o ikisinin tanıklığından daha doğrudur ve biz haddi aşmadık, öyle olsaydı kuşkusuz biz elbette zâlimlerden oluruz.” diye Allah'a yemin ederler.",
+        "index_number": 107,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ذٰلِكَ اَدْنٰٓى اَنْ يَأْتُوا بِالشَّهَادَةِ عَلٰى وَجْهِهَٓا اَوْ يَخَافُٓوا اَنْ تُرَدَّ اَيْمَانٌ بَعْدَ اَيْمَانِهِمْۜ وَاتَّقُوا اللّٰهَ وَاسْمَعُواۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الْفَاسِق۪ينَ۟",
+        "turkish_text": "İşte bu, tanıklığın tam anlamıyla yerine getirilmesi; yoksa yeminden sonra yeminlerinin başkalarının yeminleriyle geri çevrilmesinden korkulması bakımından daha uygundur. Allah için takvâlı olun ve dinleyin. Allah, fâsık olan toplumu doğru yola iletmez.",
+        "index_number": 108,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يَجْمَعُ اللّٰهُ الرُّسُلَ فَيَقُولُ مَاذَٓا اُجِبْتُمْۜ قَالُوا لَا عِلْمَ لَنَاۜ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوبِ",
+        "turkish_text": "Allah, Resulleri topladığı gün, “Nasıl karşılandınız der?” “Bizim bir bilgimiz yok, doğrusu gaybleri(1) bilen ancak Sen'sin.” derler.",
+        "index_number": 109,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yaratılmış varlıkların idraklerini aşan, gizli, görünmeyen, bilinmez olan ve duyularla kavranamayan şeyler. Gelecekte olacak şeyler. Âhiret hayatına dair bilgiler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِذْ قَالَ اللّٰهُ يَا ع۪يسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَت۪ي عَلَيْكَ وَعَلٰى وَالِدَتِكَۢ اِذْ اَيَّدْتُكَ بِرُوحِ الْقُدُسِ تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلاًۚ وَاِذْ عَلَّمْتُكَ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرٰيةَ وَالْاِنْج۪يلَۚ وَاِذْ تَخْلُقُ مِنَ الطّ۪ينِ كَـهَيْـَٔةِ الطَّيْرِ بِاِذْن۪ي فَتَنْفُخُ ف۪يهَا فَتَكُونُ طَيْراً بِاِذْن۪ي وَتُبْرِئُ الْاَكْمَهَ وَالْاَبْرَصَ بِاِذْن۪يۚ وَاِذْ تُخْرِجُ الْمَوْتٰى بِاِذْن۪يۚ وَاِذْ كَفَفْتُ بَن۪ٓي اِسْرَٓائ۪لَ عَنْكَ اِذْ جِئْتَهُمْ بِالْبَيِّنَاتِ فَقَالَ الَّذ۪ينَ كَفَرُوا مِنْهُمْ اِنْ هٰذَٓا اِلَّا سِحْرٌ مُب۪ينٌ",
+        "turkish_text": "Allah, “Ey Meryem Oğlu Îsâ! Senin ve annenin üzerinde olan nimetimi hatırla.” Hani seni Kudus'un Rûhu(1) ile desteklemiştim, insanlarla beşikte(2) ve yetişkinlikte konuşuyordun. Ve hani sana Kitâp'ı, Hikmet'i, Tevrât'ı ve İncil'i öğrettim. Ve hani Ben'im iznimle(3) çamurdan kuş şeklinde bir şey tasarlıyordun ve ona üflüyordun, Ben'im iznimle hemen kuş oluyordu; kör olarak doğanı ve abrası(4) Ben'im iznimle iyileştiriyordun. Hani Ben'im iznimle ölüleri(5) çıkarıyordun. Hani İsrâîloğullarını senden uzaklaştırdım. Hani onlara apaçık beyyînelerle(6) geldiğinde, onlardan Kâfir olanlar, “Bu apaçık bir sihirden başka bir şey değildir.” dediler.",
+        "index_number": 110,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın Rûhu ile. Rûhu'l Kudus, “Rûh” ve “Kudus” kelimelerinden bir araya gelmiş belirtili isim tamlamasıdır; “Kudusun Rûhu” demektir. Sıfat tamlaması olarak, “Kutsal Rûh” diye anlam verilmesi doğru değildir. Kur'an'da dört yerde geçmektedir. Rûhu'l Kudus” tamlaması, “Allah'ın rûhu, Allah'ın vahyi, Allah'tan gelen bilgi anlamlarına gelmektedir. Rûh Kelimesi; Kur'an'da, Kelime anlamı olan, “can”, “vücuda hayat veren cevher” anlamının yanı sıra “insanın ve toplumların hayatını diri, sağlıklı kılan vahiy” anlamında da kullanılmaktadır. Kur'an'da geçen Rûhu'l-Kudus ifadesi “Vahiy, Allah'tan gelen temiz, sağlam bilgiler” demektir.” Rûhu'l Kudus ifadesinin geçtiği âyetler: 2: 87, 253; 5:110; 59:23."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Hz. Îsâ'nın beşikte konuşması gerçektir. Bunu başka türlü açıklamak âyete açıkça muhalefettir. 19: 21. âyette de denildiği gibi bu olay bir mucizedir. Hz. Îsâ'nın beşikte iken konuştuğunu hiçbir yoruma gerek kalmayacak açıklıkta başka âyetler de bildirmektedir 3:46: “O, beşikte de yetişkinliğinde de insanlarla konuşacak. O, salihlerden olacaktır.” Ve 19:29, 30, 31. âyetler."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- “Allah'ın izni ile”, terkibi, “Allah'ın belirlediği ilke ve kurallara göre,” Allah'ın bilgisine göre ve bilgisi gereği anlamlarına gelmektedir."
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Alacalıyı."
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- Dirilterek çıkarıyordun."
+          },
+          {
+            "key_word": "6",
+            "index_number": 6,
+            "note": "6- Kanıt içeren açıklayıcı, açığa çıkarıcı bilgi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذْ اَوْحَيْتُ اِلَى الْحَوَارِيّ۪نَ اَنْ اٰمِنُوا ب۪ي وَبِرَسُول۪يۚ قَالُٓوا اٰمَنَّا وَاشْهَدْ بِاَنَّـنَا مُسْلِمُونَ",
+        "turkish_text": "Havarilere, Bana ve Ben'im Resûl'üme îmân etmelerini vahyettim. “Îmân ettik.” dediler. “Ve tanık ol ki kuşkusuz, biz müslimleriz.(1)“",
+        "index_number": 111,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'a gönülden teslim olan, bağlı olan, bağlılık gösteren."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِذْ قَالَ الْحَوَارِيُّونَ يَا ع۪يسَى ابْنَ مَرْيَمَ هَلْ يَسْتَط۪يعُ رَبُّكَ اَنْ يُنَزِّلَ عَلَيْنَا مَٓائِدَةً مِنَ السَّمَٓاءِۜ قَالَ اتَّقُوا اللّٰهَ اِنْ كُنْتُمْ مُؤْمِن۪ينَ",
+        "turkish_text": "Hani havariler dedi: “Ey Meryem Oğlu Îsâ, senin Rabb'inin üzerimize gökten bir sofra indirmeye gücü yeter mi?” “Eğer inanıyorsanız Allah'a karşı takvâlı olun” dedi.",
+        "index_number": 112,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالُوا نُر۪يدُ اَنْ نَأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ اَنْ قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ الشَّاهِد۪ينَ",
+        "turkish_text": "“Ondan yemeyi ve kalplerimizin iyice yatışmasını; senin bize doğru söylediğini bilmeyi ve buna doğrudan tanık olmayı istiyoruz.” dediler.",
+        "index_number": 113,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالَ ع۪يسَى ابْنُ مَرْيَمَ اللّٰهُمَّ رَبَّنَٓا اَنْزِلْ عَلَيْنَا مَٓائِدَةً مِنَ السَّمَٓاءِ تَكُونُ لَنَا ع۪يداً لِاَوَّلِنَا وَاٰخِرِنَا وَاٰيَةً مِنْكَۚ وَارْزُقْنَا وَاَنْتَ خَيْرُ الرَّازِق۪ينَ",
+        "turkish_text": "Meyrem Oğlu Îsâ: “Ey Allah'ım, Rabb'imiz, gökten üzerimize bir sofra indir. Ki o sofra bizim için; öncemiz ve sonramız için bir bayram olur ve Sen'den de bir âyet.(1) Bizi rızıklandır ve Sen rızıklandıranların en hayırlısısın.” dedi.",
+        "index_number": 114,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kanıt, gösterge."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قَالَ اللّٰهُ اِنّ۪ي مُنَزِّلُهَا عَلَيْكُمْۚ فَمَنْ يَكْفُرْ بَعْدُ مِنْكُمْ فَاِنّ۪ٓي اُعَذِّبُهُ عَذَاباً لَٓا اُعَذِّبُهُٓ اَحَداً مِنَ الْعَالَم۪ينَ۟",
+        "turkish_text": "Allah: “Ben, üzerinize onu indireceğim. Ama ondan sonra sizden kim kâfirlik ederse, âlemlerden hiç kimseyi azâplandırmadığım şekilde ona azâp ederim.” dedi.",
+        "index_number": 115,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذْ قَالَ اللّٰهُ يَا ع۪يسَى ابْنَ مَرْيَمَ ءَاَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُون۪ي وَاُمِّيَ اِلٰهَيْنِ مِنْ دُونِ اللّٰهِۜ قَالَ سُبْحَانَكَ مَا يَكُونُ ل۪ٓي اَنْ اَقُولَ مَا لَيْسَ ل۪ي بِحَقٍّۜ اِنْ كُنْتُ قُلْتُهُ فَقَدْ عَلِمْتَهُۜ تَعْلَمُ مَا ف۪ي نَفْس۪ي وَلَٓا اَعْلَمُ مَا ف۪ي نَفْسِكَۜ اِنَّكَ اَنْتَ عَلَّامُ الْغُيُوبِ",
+        "turkish_text": "Allah: “Ey Meryem Oğlu Îsâ! İnsanlara, Allah'tan başka beni ve annemi iki ilâh edinin diye sen mi söyledin?” buyurduğunda, “Sen yücesin.” dedi. “Gerçek olmayan bir şeyi söylemek haddim değil. Ben onu söyleseydim, Sen onu bilirdin. Nefsimde olanı bilirsin, ben ise Sen'in zatında olanı bilmem. Sen, gaipleri eksiksiz bilensin.”",
+        "index_number": 116,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا قُلْتُ لَهُمْ اِلَّا مَٓا اَمَرْتَن۪ي بِه۪ٓ اَنِ اعْبُدُوا اللّٰهَ رَبّ۪ي وَرَبَّكُمْۚ وَكُنْتُ عَلَيْهِمْ شَه۪يداً مَا دُمْتُ ف۪يهِمْۚ فَلَمَّا تَوَفَّيْتَن۪ي كُنْتَ اَنْتَ الرَّق۪يبَ عَلَيْهِمْۜ وَاَنْتَ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌ",
+        "turkish_text": "“Onlara, bana emrettiklerinden başkasını söylemedim. Benim ve sizin Rabb'iniz olan Allah'a kulluk edin dedim. Ben içlerinde olduğum sürece onlara gözetleyiciydim. Fakat beni vefat ettirince(1) onların üzerinde gözetleyici yalnızca Sen oldun. Ve Sen, Her Şeye Tanıksın.”",
+        "index_number": 117,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Âyetten de anlaşılacağı gibi Îsâ Nebi'nin de her insan gibi vefat ettiği açıkça görülmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنْ تُعَذِّبْهُمْ فَاِنَّهُمْ عِبَادُكَۚ وَاِنْ تَغْفِرْ لَهُمْ فَاِنَّكَ اَنْتَ الْعَز۪يزُ الْحَك۪يمُ",
+        "turkish_text": "“Eğer onlara azâp edersen onlar Sen'in kullarındır. Ve eğer onları bağışlarsan, Mutlak Üstün Olan ve En İyi Hüküm Veren Sen'sin.”",
+        "index_number": 118,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالَ اللّٰهُ هٰذَا يَوْمُ يَنْفَعُ الصَّادِق۪ينَ صِدْقُهُمْۜ لَهُمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَٓا اَبَداًۜ رَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوا عَنْهُۜ ذٰلِكَ الْفَوْزُ الْعَظ۪يمُ",
+        "turkish_text": "Allah: “Bugün, doğruluklarının doğrulara fayda sağlayacağı gündür.” dedi. Onlar için, içinden nehirlerin aktığı Cennetler vardır. Orada süresiz kalacaklar. Allah onlardan, onlar da O'ndan razı olmuşlardır. İşte büyük başarı budur.",
+        "index_number": 119,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِلّٰهِ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ وَمَا ف۪يهِنَّۜ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+        "turkish_text": "Göklerin, yerin ve bunların içindekilerin mülkü(1) Allah'ındır. Ve O, Her Şeye Gücü Yeten'dir.",
+        "index_number": 120,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Egemenliği, sahipliği, yönetimi."
+          }
+        ]
+      }
+    ]
+  }
+}

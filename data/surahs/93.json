@@ -1,0 +1,125 @@
+{
+  "data": {
+    "index_number": 93,
+    "name_arabic": "الضحى",
+    "name_turkish": "Duhâ",
+    "description": "Adını 1. âyetteki “Duhâ/kuşluk vakti” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 11,
+    "verse_count": 12,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالضُّحٰىۙ",
+        "turkish_text": "Duhâ(1) vaktine ant olsun.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kuşluk."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّيْلِ اِذَا سَجٰىۙ",
+        "turkish_text": "Gecenin karanlıktaki dinginliğine,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلٰىۜ",
+        "turkish_text": "Rabb'in seni bırakmadı ve sana darılmadı.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَلْاٰخِرَةُ خَيْرٌ لَكَ مِنَ الْاُو۫لٰىۜ",
+        "turkish_text": "Senin için gelecek, geçmişten hayırlı olacak.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَسَوْفَ يُعْط۪يكَ رَبُّكَ فَتَـرْضٰىۜ",
+        "turkish_text": "Yakında Rabb'in sana verecek, sen de hoşnut olacaksın.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ يَجِدْكَ يَت۪ـيـماً فَاٰوٰىۖ",
+        "turkish_text": "Seni yetim bulup, barındırmadı mı?",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَوَجَدَكَ ضَٓالاًّ فَهَدٰىۖ",
+        "turkish_text": "Seni şaşırmış bulup, doğru yolu göstermedi mi?",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَوَجَدَكَ عَٓائِلاً فَاَغْنٰىۜ",
+        "turkish_text": "Seni muhtaç durumda bulup ğınâ(1) etmedi mi?",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Çevirilerde âyete, “Seni yoksul bulup, zenginleştirmedi mi?” şeklinde anlam verilmektedir. Oysaki burada söz konusu olan servet zenginliği değil; “ğınâ” kelimesi ile kastedilen, ona verilen görevin, bir insan için en büyük zenginlik, en büyük nimet olduğudur."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاَمَّا الْيَت۪يمَ فَلَا تَقْهَرْۜ",
+        "turkish_text": "Öyleyse sakın yetimi(1) hor görme.(2)",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kimsesizi."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Güçsüzü zayıfı önemsiz görme."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَمَّا السَّٓائِلَ فَلَا تَنْهَرْۜ",
+        "turkish_text": "Sakın isteyeni(1) geri çevirme.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İstenilen şey somut olarak belirtilmemiş olmakla birlikte, bağlama bakıldığında; istenilen şeyin “bilgi edinme, Hakk'ı öğrenme, korunup gözetilme olduğu” anlaşılmaktadır. Bir sonraki âyetten de bu anlaşılmaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+        "turkish_text": "Ve Rabb'inin nimetini(1) her fırsatta hadis et.(2)",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gönderdiği vahyi."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Anlat."
+          }
+        ]
+      }
+    ]
+  }
+}

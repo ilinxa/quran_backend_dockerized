@@ -1,0 +1,109 @@
+{
+  "data": {
+    "index_number": 101,
+    "name_arabic": "القارعة",
+    "name_turkish": "Kâria",
+    "description": "Adını 1. âyetteki “El-Kâria/şiddetli ses” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 30,
+    "verse_count": 12,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلْقَارِعَةُۙ",
+        "turkish_text": "Kâri'a.(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şiddetli ses. Dehşetten yürekleri hoplatan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مَا الْقَارِعَةُۚ",
+        "turkish_text": "Kâria nedir?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا الْقَارِعَةُۜ",
+        "turkish_text": "Kâria'nın ne olduğunu sen nereden bileceksin?",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِۙ",
+        "turkish_text": "O gün insanlar sağa sola uçuşan pervaneler(1) gibi olurlar.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kelebekler, böcekler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِۜ",
+        "turkish_text": "Dağlar etrafa saçılmış renkli yün gibi olur.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَمَّا مَنْ ثَقُلَتْ مَوَاز۪ينُهُۙ",
+        "turkish_text": "Kimin tartısı ağır gelirse,(1)",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sevabı günahından çok olursa."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَهُوَ ف۪ي ع۪يشَةٍ رَاضِيَةٍۜ",
+        "turkish_text": "O hoşnut edici bir yaşayış içindedir.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَمَّا مَنْ خَفَّتْ مَوَاز۪ينُهُۙ",
+        "turkish_text": "Kimin tartısı hafif gelirse,(1)",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sevabı günahından az olursa."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاُمُّهُ هَاوِيَةٌۜ",
+        "turkish_text": "Artık onun anası hâviyedir.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا هِيَهْۜ",
+        "turkish_text": "O, kızgın bir ateştir.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "نَارٌ حَامِيَةٌ",
+        "turkish_text": "Onun ne olduğunu sen nereden bileceksin?",
+        "index_number": 11,
+        "deep_notes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "data": {
+    "index_number": 61,
+    "name_arabic": "الصف",
+    "name_turkish": "Saff",
+    "description": "Adını 4. âyette geçen “Saff/sıra sıra dizilmek” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 109,
+    "verse_count": 15,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَبَّحَ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۚ وَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
+        "turkish_text": "Göklerde ve yerde olanlar, Allah'ı tesbih(1) ederler. O, Mutlak Üstün Olan'dır ve En Doğru Hüküm Veren'dir.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 57:1. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+        "turkish_text": "Ey Îmân Edenler! Yapmayacağınız şeyi niçin söylüyorsunuz?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَبُرَ مَقْتاً عِنْدَ اللّٰهِ اَنْ تَقُولُوا مَا لَا تَفْعَلُونَ",
+        "turkish_text": "Yapmayacağınız şeyleri söylemeniz, Allah'ın yanında en nefret edilen şeydir.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ اللّٰهَ يُحِبُّ الَّذ۪ينَ يُقَاتِلُونَ ف۪ي سَب۪يلِه۪ صَفاًّ كَاَنَّهُمْ بُنْيَانٌ مَرْصُوصٌ",
+        "turkish_text": "Allah, kendi yolunda bir duvarın taşları gibi kenetlenip saf tutarak savaşanları sever.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذْ قَالَ مُوسٰى لِقَوْمِه۪ يَا قَوْمِ لِمَ تُؤْذُونَن۪ي وَقَدْ تَعْلَمُونَ اَنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْۜ فَلَمَّا زَاغُٓوا اَزَاغَ اللّٰهُ قُلُوبَهُمْۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الْفَاسِق۪ينَ",
+        "turkish_text": "Hani Mûsâ, halkına: “Ey halkım! Benim, size Allah tarafından gönderilen bir Resûl olduğumu bildiğiniz halde, niçin bana eziyet ediyorsunuz?” demişti. Ne zaman ki onlar eğrildiler, Allah da onların kalplerini eğriltti. Allah, fâsıklar topluluğuna doğru yolu göstermez.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذْ قَالَ ع۪يسَى ابْنُ مَرْيَمَ يَا بَن۪ٓي اِسْرَٓائ۪لَ اِنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْ مُصَدِّقاً لِمَا بَـيْنَ يَدَيَّ مِنَ التَّوْرٰيةِ وَمُبَشِّراً بِرَسُولٍ يَأْت۪ي مِنْ بَعْدِي اسْمُهُٓ اَحْمَدُۜ فَلَمَّا جَٓاءَهُمْ بِالْبَـيِّنَاتِ قَالُوا هٰذَا سِحْرٌ مُب۪ينٌ",
+        "turkish_text": "Hani Meryem Oğlu Îsâ: “Ey İsrâîloğulları! Ben, elinizdeki Tevrât'ı doğrulayan ve benden sonra gelecek olan, adı ahmed(1) olan bir Resûlü müjdeleyen Allah'ın Resûl'üyüm.” demişti. Fakat onlara beyyineler(2) getirince, onlar: “Bu, apaçık bir büyüdür.” dediler.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ahmed, özel isim olmayıp; “övgüye daha layık olan” anlamında sıfattır. Bu nedenle, Nebi'nin bir isminin de Ahmed olduğu iddiası doğru bir iddia değildir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Kanıt içeren; açıklayıcı, açığa çıkarıcı bilgiler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ الْـكَذِبَ وَهُوَ يُدْعٰٓى اِلَى الْاِسْلَامِۜ وَاللّٰهُ لَا يَهْدِي الْقَوْمَ الظَّالِم۪ينَ",
+        "turkish_text": "İslâm'a çağrıldığı halde, uydurduğu yalanları Allah'a isnat ederek, iftira edenden daha zâlim kim olabilir? Allah, zâlim topluma doğru yolu göstermez.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يُر۪يدُونَ لِيُطْفِؤُ۫ا نُورَ اللّٰهِ بِاَفْوَاهِهِمْ وَاللّٰهُ مُتِمُّ نُورِه۪ وَلَوْ كَرِهَ الْـكَافِرُونَ",
+        "turkish_text": "Onlar, ağızları ile Allah'ın nûrunu söndürmek istiyorlar.(1) Ancak, Kâfirler'in hoşuna gitmese de Allah, nûrunu tamamlayacaktır.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Onlar, İslâm'a çağrıyı yalan ve iftiralarla engellemek istiyorlar. Ancak, bu çağrıyı durdurmaya güçleri yetmeyecektir. Allah'ın yardımıyla bu çağrı hedefine ulaşacaktır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "هُوَ الَّـذ۪ٓي اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَد۪ينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّ۪ينِ كُلِّه۪ وَلَوْ كَرِهَ الْمُشْرِكُونَ۟",
+        "turkish_text": "Müşriklerin hoşuna gitmese de Resûl'ünü, dinin(1) tamamını bildirmek üzere doğru yolu gösteren rehberle ve Hakk Din ile gönderen O'dur.",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Din kavram olarak, Kur'an'da, inanç sistemi, yaşam biçimi, toplumsal düzen, yasa, hesap, karşılık, ceza vb. anlamlarda kullanılmaktadır. Dinin esas anlamlarından birisi itibariyle, yaşamı düzenleyen ilke ve kuralların referans alındığı “değerler” demektir. Kur'an'a göre, “yaşamı” düzenlemede vahyin değerlerini referans almayan her düşünce ve inanç Câhiliye'dir. Keza insanlar; yaşamlarını, düzenlerini ve sistemlerini hangi değerleri referans alarak belirliyorlarsa, onların dini referans aldıkları değerlerdir (Bkz 3:73; 6:70; 7:51; 12:76; 40:26; 109:6). Kur'an, nasıl ki Mekkeli müşriklerin Câhiliye değerlerini referans alan düzenlerini, sistemlerini “din” olarak tanımlıyorsa; günümüzün Kur'an'ı referans almayan bütün düzen ve sistemleri de “birer dinidirler.” Ancak şu gerçek göz ardı edilmemelidir: Allah, Kur'an'î değerleri referans almak koşulu ile yaşadığımız hayatı düzenlemeyi insana bırakmıştır: Nasıl bir yönetim biçimi, nasıl bir ekonomik sistem, nasıl bir hukuk sistemi, nasıl bir yaşam biçimi vb. olması gerektiği konusunda yetki de görev de sorumluluk da insana aittir. Kur'an'ı referans almak koşulu ile günün koşul ve ihtiyaçlarına göre istenilen düzeni/sistemi/yönetimi kurmak insana bırakılmış bir husustur."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا هَلْ اَدُلُّكُمْ عَلٰى تِجَارَةٍ تُنْج۪يكُمْ مِنْ عَذَابٍ اَل۪يمٍ",
+        "turkish_text": "Ey Îmân Edenler! Size, can yakıcı bir azâptan kurtaracak, kazançlı bir ticaretin yolunu göstereyim mi?",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تُـؤْمِنُونَ بِاللّٰهِ وَرَسُولِه۪ وَتُجَاهِدُونَ ف۪ي سَب۪يلِ اللّٰهِ بِاَمْوَالِكُمْ وَاَنْفُسِكُمْۜ ذٰلِكُمْ خَيْرٌ لَـكُمْ اِنْ كُنْتُمْ تَعْلَمُونَۙ",
+        "turkish_text": "Bu, Allah'a ve Resûl'üne îmân etmeniz; Allah yolunda, mallarınızla ve canlarınızla cihad(1) etmenizdir. İşte bu, eğer bilirseniz sizin için hayırlı olandır.",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah yolunda mücadele etmek. Kararlı ve tutarlı bir şekilde özveri ile çaba göstermek, canla başla çalışmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَغْفِرْ لَـكُمْ ذُنُوبَكُمْ وَيُدْخِلْـكُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ وَمَسَا‌كِنَ طَيِّبَةً ف۪ي جَنَّاتِ عَدْنٍۜ ذٰلِكَ الْفَوْزُ الْعَظ۪يمُۙ",
+        "turkish_text": "Sizin suçlarınızı bağışlar ve sizi içinden nehirler akan Cennetlere koyar. Ve sizi, Adn Cennetler'inde, hoş meskenlere yerleştirir. İşte bu, büyük kurtuluştur.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاُخْرٰى تُحِبُّونَهَاۜ نَصْرٌ مِنَ اللّٰهِ وَفَتْحٌ قَر۪يبٌۜ وَبَشِّرِ الْمُؤْمِن۪ينَ",
+        "turkish_text": "Ayrıca seveceğiniz bir şey daha: Allah'tan yardım ve yakın bir fetih. Mü'minleri müjdele.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا كُونُٓوا اَنْصَارَ اللّٰهِ كَمَا قَالَ ع۪يسَى ابْنُ مَرْيَمَ لِلْحَوَارِيّ۪نَ مَنْ اَنْصَار۪ٓي اِلَى اللّٰهِۜ قَالَ الْحَوَارِيُّونَ نَحْنُ اَنْصَارُ اللّٰهِ فَاٰمَنَتْ طَٓائِفَةٌ مِنْ بَن۪ٓي اِسْرَٓائ۪لَ وَكَـفَرَتْ طَٓائِفَةٌۚ فَاَيَّدْنَا الَّذ۪ينَ اٰمَنُوا عَلٰى عَدُوِّهِمْ فَاَصْبَحُوا ظَاهِر۪ينَ",
+        "turkish_text": "Ey Îmân Edenler! Allah'ın yardımcıları olun! Meryem Oğlu İsâ'nın havarilere: “Allah yolunda benim yardımcılarım kimdir?” dediği zaman, havarilerin: “Allah yolunun yardımcıları biziz.” dedikleri gibi. Sonuçta, İsrâîloğulları'nın bir kısmı îmân etti, bir kısmı da inanmadı. Biz de îmân Edenler'i, düşmanlarına karşı destekledik. Böylece, onlar üstün geldiler.",
+        "index_number": 14,
+        "deep_notes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "index_number": 70,
+    "name_arabic": "المعارج",
+    "name_turkish": "Meâric",
+    "description": "Adını Ma'rec'in çoğulu olan 3. âyetteki “Meâric/ merdiven- yükseliş zamanları” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 79,
+    "verse_count": 45,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَاَلَ سَٓائِلٌ بِعَذَابٍ وَاقِعٍۙ",
+        "turkish_text": "İsteyen, gerçekleşecek olan azâbı istedi.",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِلْـكَافِر۪ينَ لَيْسَ لَهُ دَافِعٌۙ",
+        "turkish_text": "Kâfirler için engellenemez olan azâbı.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مِنَ اللّٰهِ ذِي الْمَعَارِجِۜ",
+        "turkish_text": "Meâric(1) sahibi Allah tarafından.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yükselme zamanları. Yücelikler. Yükseliş yolları."
+          }
+        ]
+      },
+      {
+        "arabic_text": "تَعْرُجُ الْمَلٰٓئِكَةُ وَالرُّوحُ اِلَيْهِ ف۪ي يَوْمٍ كَانَ مِقْدَارُهُ خَمْس۪ينَ اَلْفَ سَنَةٍۚ",
+        "turkish_text": "Melekler ve rûh, miktarı elli bin yıl(1) olan bir günde O'na yükselir.(2)",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'da bu tür sayılar, rakamsal değerleri değil, çokluk ifade etmektedirler (Bkz. 97:"
+          },
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- 5; 32:5; 11:123; 22:47)."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- O'nun sahip olduğu yüceliklere."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاصْبِرْ صَبْراً جَم۪يلاً",
+        "turkish_text": "O halde, güzel bir sabır ile sabret.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُمْ يَرَوْنَهُ بَع۪يداًۙ",
+        "turkish_text": "Onlar onu(1) uzak olarak görüyorlar.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kıyâmet'i."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَنَرٰيهُ قَر۪يباًۜ",
+        "turkish_text": "Biz, onu yakın görüyoruz.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ تَكُونُ السَّمَٓاءُ كَالْمُهْلِۙ",
+        "turkish_text": "O gün gökyüzü erimiş bir maden gibi olur.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِۙ",
+        "turkish_text": "Ve dağlar renkli yün gibi olur.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا يَسْـَٔلُ حَم۪يمٌ حَم۪يماًۚ",
+        "turkish_text": "Ve hiçbir hamîm,(1) başka bir hamîmi sormaz.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hamîm, kaynar su demektir. Âyette mecaz olarak kaynar su kadar sıcak, yakın ve samimi dostluktan söz etmektedir. Hiçbir sıcak/candan dost başka bir sıcak dostunun hâlini soramayacak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يُبَصَّرُونَهُمْۜ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَد۪ي مِنْ عَذَابِ يَوْمِئِذٍ بِبَن۪يهِۙ",
+        "turkish_text": "Onlar, birbirleriyle yüzleşecekler. Mücrim(1) olan, O Gün azâbından kurtulmak için mümkün olsa oğullarını fidye olarak verebilmeyi ister;",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Suçlu. Hakikat ile bağını koparmış. Mücrim, “basit suçlu” anlamında değil, Kâfir, nankör, Müşrik, sapkın” olmayı da kapsan “suçların hepsini içine alan, onların toplamını ifade eden” bir kavramdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَصَاحِبَتِه۪ وَاَخ۪يهِۙ",
+        "turkish_text": "Eşini ve kardeşini,",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَفَص۪يلَتِهِ الَّت۪ي تُـْٔو۪يهِۙ",
+        "turkish_text": "Kendisini barındıran soyunu-sopunu;",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَنْ فِي الْاَرْضِ جَم۪يعاًۙ ثُمَّ يُنْج۪يهِۙ",
+        "turkish_text": "Yeryüzünde kimi varsa tamamını verip kendisini kurtarmak ister.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّاۜ اِنَّهَا لَظٰىۙ",
+        "turkish_text": "Hayır! Hayır! O alev alev yanan ateştir;",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "نَزَّاعَةً لِلشَّوٰىۚ",
+        "turkish_text": "Derileri kavurup soyan;",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَدْعُوا مَنْ اَدْبَرَ وَتَوَلّٰىۙ",
+        "turkish_text": "Haktan yüz çevirip, arkasını dönen kimseyi kendisine çağıran;",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَمَعَ فَاَوْعٰى",
+        "turkish_text": "Mal, mülk edinip, onu biriktireni.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الْاِنْسَانَ خُلِقَ هَلُوعاًۙ",
+        "turkish_text": "O(1) insan hırslı yaratıldı.(2)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bilinen insan, hırslı olan insan."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Musallîn olanlar hariç (70: 22)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِذَا مَسَّهُ الشَّرُّ جَزُوعاًۙ",
+        "turkish_text": "Başına kötü bir şey geldiğinde sızlanmaya başlar.(1)",
+        "index_number": 20,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sabretmesini bilmez."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا مَسَّهُ الْخَيْرُ مَنُوعاًۙ",
+        "turkish_text": "Mal-mülk sahibi olunca da ondan kimseyi yararlandırmaz.(1)",
+        "index_number": 21,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Cimrilik ve bencillik yapar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِلَّا الْمُصَلّ۪ينَۙ",
+        "turkish_text": "Ancak “musallîn(1)” olanlar hariç.",
+        "index_number": 22,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Musallîn olanların kim oldukları devam eden âyetlerde bildirilmektedir. Çoğunlukla çevirilerde; “musallîn” kelimesine, “namaz kılanlar” olarak anlam verilmekte ve bu âyetin çevirisi “Namaz kılanlar hariç” şeklinde yapılmaktadır. Oysaki bu âyetteki musallîn kelimesi; şirkten arınmış bir bilinçle Allah'a yönelmek, ibadete layık yegâne ilâhın Allah olduğuna inanmak; yardımlaşmayı, dayanışmayı ve destek olmayı canlı ve diri tutmak, Allah'ın davasını yüceltmek için bütün gücünü seferber etmek anlamındadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ هُمْ عَلٰى صَلَاتِهِمْ دَٓائِمُونَۖ",
+        "turkish_text": "Onlar, salâtlarında(1) devamlıdırlar.",
+        "index_number": 23,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Salât, ibadete layık yegâne ilâhın Allah olduğuna inanmak, şirkten arınmış bir bilinçle Allah'a yönelme demektir. Bu yönelme: Sürekli destek olmak, dayanışmak, ilgi duymak, duyarlı olmak, izleyici kalmamak, yanında yer almaktır. Salâtın diğer anlamları şunlardır: Ritüel salât (Namaz), dûa etmek, din, havra. Salâtın hangi anlamı ifade ettiği, içinde yer aldığı âyet ve konu bağlamından rahatlıkla anlaşılabilir. Salatın zıddı tevellâdır. Tevellâ süreklilik ifade etmektedir: Sürekli karşı çıkmak, ilgisiz ve duyarsız kalmak, köstek olmak, engellemeye çalışmak. Namaz, Farsça bir kelimedir ve bu kelime Kur'an'da geçmez."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ ف۪ٓي اَمْوَالِهِمْ حَقٌّ مَعْلُومٌۙ",
+        "turkish_text": "Onlar, mallarında belirli bir pay ayıranlardır;(1)",
+        "index_number": 24,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Mallarında, ihtiyaç sahiplerinin de payları bulunduğunun bilincinde olanlardır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لِلسَّٓائِلِ وَالْمَحْرُومِۖ",
+        "turkish_text": "İsteyenler ve yoksun olanlar için.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ يُصَدِّقُونَ بِيَوْمِ الدّ۪ينِۖ",
+        "turkish_text": "Onlar, Din Günü'nü(1) tasdik ederler.",
+        "index_number": 26,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesaplaşma, hesap verme günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَۚ",
+        "turkish_text": "Onlar, Rabb'lerinin azâbından çekinirler.",
+        "index_number": 27,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍۚ",
+        "turkish_text": "Rabb'lerinin azâbından kimse emin olamaz.",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَۙ",
+        "turkish_text": "Onlar, ferçlerini(1) korurlar.",
+        "index_number": 29,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Edep yerlerini, mahrem yerlerini, ırzlarını."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِلَّا عَلٰٓى اَزْوَاجِهِمْ اَوْ مَا مَلَكَتْ اَيْمَانُهُمْ فَاِنَّهُمْ غَيْرُ مَلُوم۪ينَۚ",
+        "turkish_text": "Eşleri veya antlaşma yolu ile(1) sahip oldukları hariç. Şüphesiz onlar kınanmazlar.",
+        "index_number": 30,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kelimesi kelimesine, “Mâ melaket Eymânukum.” Bu terkip, yeminle (antlaşma yoluyla) hak sahibi olduğunuz ve sağ elinizle (güç yoluyla) sahip olduğunuz anlamlarına gelmektedir. “Eymân” sağ el ve yeminler (sözleşmeler) anlamına gelen bir kelimedir. “El” kelimesinin anlamlarından biri de “güç”tür. Bu anlamlar dikkate alındığına bu terkip için şu anlamlar verilebilir: “Güç yolu” ile üzerinde söz sahibi olduğunuz veya “antlaşma yoluyla” sahip olunanlar, sorumluluğu üstlenilenler, bakmakla yükümlü olunanlar, himayeniz altında olanlar. O günün toplumsal gerçekliğinin verili kalıntısı olan kölelik ve cariyelik olgusu, İslâm'ın kabul ettiği veya ön gördüğü bir olgu değildir. İslâm, kölelik ve cariyeliği; cariye ve köle edinme yollarını kapatarak ortadan kaldırmıştır. “Verili durumun” tasfiye edilmesi süreci olan uygulamalarda cariye ve kölelikten söz edilmiş olması sanki bir tasvipmiş gibi değerlendirilmesi cehalet değilse iftiradır. Kur'an; kiminle olursa olsun, nikâh yapmaksızın ilişkiye girmeyi zinâ olarak görmektedir. Kur'an'a göre “nikâhsız her birliktelik” zinâdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَمَنِ ابْتَغٰى وَرَٓاءَ ذٰلِكَ فَاُو۬لٰٓئِكَ هُمُ الْعَادُونَۚ",
+        "turkish_text": "Bunun ötesinde bir şey isteyenler, haddi aşanlardır.",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ هُمْ لِاَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَۖ",
+        "turkish_text": "Onlar,(1) emânetlerini ve ahitlerini gözetirler.",
+        "index_number": 32,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Musallîn olanlar. (70:22)"
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ هُمْ بِشَهَادَاتِهِمْ قَٓائِمُونَۖ",
+        "turkish_text": "Onlar, tanıklıklarını dosdoğru yerine getirirler.",
+        "index_number": 33,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ هُمْ عَلٰى صَلَاتِهِمْ يُحَافِظُونَۜ",
+        "turkish_text": "Onlar, salâtlarını(1) korurlar.",
+        "index_number": 34,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 70:23. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اُو۬لٰٓئِكَ ف۪ي جَنَّاتٍ مُكْرَمُونَۜ ۟",
+        "turkish_text": "İşte onlar, Cennetlerde ağırlanacak olanlardır.",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَالِ الَّذ۪ينَ كَفَرُوا قِبَلَكَ مُهْطِع۪ينَۙ",
+        "turkish_text": "Şimdi Kâfirlere ne oluyor da sana doğru koşuşturuyorlar?",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَنِ الْيَم۪ينِۙ وَعَنِ الشِّمَالِ عِز۪ينَ",
+        "turkish_text": "Her yönden, her yerden gruplar halinde.",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ اَنْ يُدْخَلَ جَنَّةَ نَع۪يمٍۙ",
+        "turkish_text": "Onların her biri Nimet Cenneti'ne konulacağını mı umuyor?",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّاۜ اِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ",
+        "turkish_text": "Hayır, boşuna ummasınlar! Biz, onları bildikleri şeyden yarattık.",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَلَٓا اُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ اِنَّا لَقَادِرُونَۙ",
+        "turkish_text": "Hayır, öyle değil! Doğuların ve batıların Rabb'ine yemin ederim ki kesinlikle Bizim her şeye gücümüz yeter;",
+        "index_number": 40,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلٰٓى اَنْ نُبَدِّلَ خَيْراً مِنْهُمْۙ وَمَا نَحْنُ بِمَسْبُوق۪ينَ",
+        "turkish_text": "Onların yerine, kendilerinden daha hayırlısını getirmeye kesinlikle güç yetirenleriz. Bunu yapmamıza hiçbir güç engel olamaz.",
+        "index_number": 41,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتّٰى يُلَاقُوا يَوْمَهُمُ الَّذ۪ي يُوعَدُونَۙ",
+        "turkish_text": "Artık onları kendi hallerine bırak. Uyarıldıkları günleri gelip çatıncaya kadar gaflet içinde oyalanıp dursunlar.",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يَخْرُجُونَ مِنَ الْاَجْدَاثِ سِرَاعاً كَاَنَّهُمْ اِلٰى نُصُبٍ يُوفِضُونَۙ",
+        "turkish_text": "O Gün, onlar kabirlerinden fırlayıp çıkarlar. Sanki bir hedefe koşuyor gibi;",
+        "index_number": 43,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌۜ ذٰلِكَ الْيَوْمُ الَّذ۪ي كَانُوا يُوعَدُونَ",
+        "turkish_text": "Gözlerinde korku, kendilerini zillet bürümüş halde. İşte bu, onların uyarıldıkları gündür.",
+        "index_number": 44,
+        "deep_notes": []
+      }
+    ]
+  }
+}

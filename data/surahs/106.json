@@ -1,0 +1,61 @@
+{
+  "data": {
+    "index_number": 106,
+    "name_arabic": "قريش",
+    "name_turkish": "Kureyş",
+    "description": "Adını 1. âyetteki “Kureyş (Bir Arap kabilesinin adı)” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 29,
+    "verse_count": 5,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِا۪يلَافِ قُرَيْشٍۙ",
+        "turkish_text": "Kureyş'i alıştırdığı için;(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kureyş'in emin ve rahat olmasını sağladığı için."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
+        "turkish_text": "Onları kış ve yaz yolculuğuna alıştırdığı1 için;",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Emin ve rahat olmalarını sağladığı için."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
+        "turkish_text": "Bu evin(1) Rabb'ine kulluk etsinler.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kâbe'nin."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
+        "turkish_text": "Onları yedirip açlıktan korudu ve onları korkudan güvene kavuşturdu.",
+        "index_number": 4,
+        "deep_notes": []
+      }
+    ]
+  }
+}

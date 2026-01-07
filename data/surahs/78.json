@@ -1,0 +1,295 @@
+{
+  "data": {
+    "index_number": 78,
+    "name_arabic": "النبأ",
+    "name_turkish": "Nebe'",
+    "description": "Adını 2. âyetteki “Nebe'/önemli haber” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 80,
+    "verse_count": 41,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَمَّ يَتَسَٓاءَلُونَۚ",
+        "turkish_text": "Birbirlerine neyi soruyorlar?",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَنِ النَّبَأِ الْعَظ۪يمِۙ",
+        "turkish_text": "Büyük haberden mi?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي هُمْ ف۪يهِ مُخْتَلِفُونَۜ",
+        "turkish_text": "Onlar, onun hakkında anlaşmazlık içindeler.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا سَيَعْلَمُونَۙ",
+        "turkish_text": "Hayır, yakında bilecekler.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+        "turkish_text": "Yine hayır, yakında bilecekler.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهَاداًۙ",
+        "turkish_text": "Yeryüzünü bir döşek yapmadık mı?",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْجِبَالَ اَوْتَاداًۖ",
+        "turkish_text": "Ve dağları da birer kazık?",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَخَلَقْنَاكُمْ اَزْوَاجاًۙ",
+        "turkish_text": "Sizi çiftler halinde yarattık.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتاًۙ",
+        "turkish_text": "Uykunuzu dinlenme zamanı yaptık.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَعَلْنَا الَّيْلَ لِبَاساًۙ",
+        "turkish_text": "Ve geceyi bir elbise yaptık.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَعَلْنَا النَّهَارَ مَعَاشاًۖ",
+        "turkish_text": "Gündüzü geçim zamanı yaptık.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَبَنَيْنَا فَوْقَـكُمْ سَبْعاً شِدَاداًۙ",
+        "turkish_text": "Üstünüze yedi sağlamı bina ettik.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَعَلْنَا سِرَاجاً وَهَّاجاًۖ",
+        "turkish_text": "Ve ışık saçan bir kandil.(1)",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Güneş."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَٓاءً ثَجَّاجاًۙ",
+        "turkish_text": "Ve sıkıştırılmış bulutlardan şırıl şırıl akan su indirdik.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِنُخْرِجَ بِه۪ حَباًّ وَنَبَاتاًۙ",
+        "turkish_text": "Onunla tahıl ve bitkiler yetiştirelim diye;",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَنَّاتٍ اَلْفَافاًۜ",
+        "turkish_text": "İç içe girmiş bağlar bahçeler.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ يَوْمَ الْفَصْلِ كَانَ م۪يقَاتاًۙ",
+        "turkish_text": "Ayırma Günü belirlenmiş bir vakittir.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ اَفْوَاجاًۙ",
+        "turkish_text": "O gün Sûr'a üflenir, bölükler halinde gelirsiniz.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَفُتِحَتِ السَّمَٓاءُ فَـكَانَتْ اَبْوَاباًۙ",
+        "turkish_text": "Gökyüzü açılmış ve kapı kapı olmuştur.",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَسُيِّرَتِ الْجِبَالُ فَـكَانَتْ سَرَاباًۜ",
+        "turkish_text": "Dağlar yürütülmüş, bir serap olmuştur.",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَاداًۙ",
+        "turkish_text": "Cehennem gözetleme yeri oldu;",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِلطَّاغ۪ينَ مَاٰباًۙ",
+        "turkish_text": "Haddi aşanlar için varacakları yer olarak.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَابِث۪ينَ ف۪يهَٓا اَحْقَاباًۚ",
+        "turkish_text": "Orada “ahkâben”(1) kalacaklardır.",
+        "index_number": 23,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu âyete; çevirilerde, “Orada uzun süre, yıllarca veya çağlarca kalacaklar.” şeklinde anlam verilmektedir. Âyetin anlamı “Orada azâp, sıkıntı ve yoksunluk içinde kalacaklardır.” şeklindedir. “Ahkâben,” “hukûbu” kelimesinin çoğulu olup, kelime anlamı olarak “uzun süre, seksen yıl” demek olsa da kelime, kök anlamı (hakibe) itibariyle: “İdrar tutulmasından dolayı azâp ve sıkıntı içinde olmak, yağmur vs. yağmamak.” anlamına gelmektedir. Bu âyette bir zamandan değil, durumdan söz edilmektedir. Kalınacak yerin sıkıntı verici, darlık ve yoksunluk yeri olduğu ifade edilmektedir. Zaten âyetin devamı da bunu pekiştirmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَا يَذُوقُونَ ف۪يهَا بَرْداً وَلَا شَرَاباًۙ",
+        "turkish_text": "Orada ne bir serinlik tadacaklar ne de içecek bir şey.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِلَّا حَم۪يماً وَغَسَّاقاًۙ",
+        "turkish_text": "Yalnızca kaynar ve kokuşmuş su tadacaklar.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "جَزَٓاءً وِفَاقاً",
+        "turkish_text": "Yaptıklarına uygun bir karşılık olarak.",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَاباًۙ",
+        "turkish_text": "Onlar, hesap görüleceğini ummuyorlardı.",
+        "index_number": 27,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكَذَّبُوا بِاٰيَاتِنَا كِذَّاباًۜ",
+        "turkish_text": "Âyetlerimizi yalanladıkça yalanladılar.",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكُلَّ شَيْءٍ اَحْصَيْنَاهُ كِتَاباً",
+        "turkish_text": "Oysa Biz, her şeyi yazıp kaydettik.",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَذُوقُوا فَلَنْ نَز۪يدَكُمْ اِلَّا عَذَاباً۟",
+        "turkish_text": "Şimdi azâbı tadın bakalım! Artık size azâptan başka bir şey artırmayacağız.",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ لِلْمُتَّق۪ينَ مَفَازاًۙ",
+        "turkish_text": "Takvâ sahipleri için ödül vardır;",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "حَدَٓائِقَ وَاَعْنَاباًۙ",
+        "turkish_text": "Bağlar ve bahçeler,",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكَوَاعِبَ اَتْرَاباًۙ",
+        "turkish_text": "Görkemli, dengi dengine,(1)(eşler)",
+        "index_number": 33,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu âyetin çevirisi, “Göğüsleri tomurcuklanmış yaşıt kızlar” veya “tomurcuk göğüslü aynı yaşta genç kızlar.” şeklinde yapılmaktadır. Âyet, “Kevâib” ve “Etrâb” olmak üzere iki kelimeden oluşmaktadır. Kevâib; görkemli, göz alıcı, yüce, değerli, yüksek, aşık kemiği, topuk, küp gibi anlamlara gelen “keâb” kelimesinin kökünden türemiştir. Eril ve dişil cisimlerin her ikisi için de kullanılan bir kelimedir. “Etrâb” kelimesi ise, dengi dengine, aynı özelliklere sahip, aynı seviyede, eş zamanlı,” demektir. Dolayısı ile âyetin anlamı, “birbirine denk, görkemli eşler”dir. “Birbiri ile uyumlu üzüm salkımları” veya “Topraktan yumrular.” Yani topraktan çıkan yumru bitkiler anlamı da verilmektedir. Keâb kelimesi, 5:97. âyette Kâbe, 5:6. âyette ayak topukları anlamında kullanılmaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَكَأْساً دِهَاقاًۜ",
+        "turkish_text": "Ve dolu kaseler.",
+        "index_number": 34,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَا يَسْمَعُونَ ف۪يهَا لَغْواً وَلَا كِذَّاباًۚ",
+        "turkish_text": "Orada yalan da boş söz de duymazlar.",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "جَزَٓاءً مِنْ رَبِّكَ عَطَٓاءً حِسَاباًۙ",
+        "turkish_text": "Bunlar, Rabb'inden hesaba(1) karşılık verilen ödüldür.",
+        "index_number": 36,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yapılanların karşılığı olarak. Verilen hesaba göre."
+          }
+        ]
+      },
+      {
+        "arabic_text": "رَبِّ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَاۙ الرَّحْمٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَاباًۙ",
+        "turkish_text": "O, göklerin, yerin ve ikisinin arasında bulunanların Rabb'idir, Rahman'dır. Ondan bir hitaba,(1) hiç kimse güç yetiremez.",
+        "index_number": 37,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Karşısında söz söylemeye."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلٰٓئِكَةُ صَفاًّۜ لَا يَتَكَلَّمُونَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَقَالَ صَوَاباً",
+        "turkish_text": "O gün, o rûh ve o melekler saflar halinde hazır bulunur. Rahmân'ın izin verdiklerinden başkası konuşamaz. İzin verilen de doğruyu söyler.",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ذٰلِكَ الْيَوْمُ الْحَقُّۚ فَمَنْ شَٓاءَ اتَّخَذَ اِلٰى رَبِّه۪ مَاٰباً",
+        "turkish_text": "İşte bu Hakk gündür. Dileyen Rabb'ine varan bir yol edinir.",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّٓا اَنْذَرْنَا‌كُمْ عَذَاباً قَر۪يباًۚ يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْـكَافِرُ يَا لَيْتَن۪ي كُنْتُ تُرَاباً",
+        "turkish_text": "Sizi yakın bir azâpla uyardık. O gün kişi ellerinin yaptıklarıyla(1) karşı karşıya gelecek ve Kâfir kimse: “Keşke toprak olsaydım.” diyecek.",
+        "index_number": 40,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Dünyada yaptıklarının tamamını karşısında bulacaktır."
+          }
+        ]
+      }
+    ]
+  }
+}

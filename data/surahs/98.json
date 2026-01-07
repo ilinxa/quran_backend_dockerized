@@ -1,0 +1,107 @@
+{
+  "data": {
+    "index_number": 98,
+    "name_arabic": "البينة",
+    "name_turkish": "Beyyine",
+    "description": "Adını 1. âyetteki “El-Beyyine/kanıt içeren bilgi” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 100,
+    "verse_count": 9,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَمْ يَكُنِ الَّذ۪ينَ كَفَرُوا مِنْ اَهْلِ الْـكِتَابِ وَالْمُشْرِك۪ينَ مُنْفَكّ۪ينَ حَتّٰى تَأْتِيَهُمُ الْبَيِّنَةُۙ",
+        "turkish_text": "Kitâp Ehli'nden ve Müşriklerden Kâfirler kendilerine beyyine(1) gelmeden ayrılığa düşmüş değillerdi.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kanıt içeren; açıklayıcı, açığa çıkarıcı bilgi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "رَسُولٌ مِنَ اللّٰهِ يَتْلُوا صُحُفاً مُطَهَّرَةًۙ",
+        "turkish_text": "Onlara tertemiz sayfalar okuyan, Allah tarafından görevlendirilen bir Resûl.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهَا كُتُبٌ قَيِّمَةٌۜ",
+        "turkish_text": "Onda değerli kitâplar(1) vardır.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hükümler, öğretiler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَا تَفَرَّقَ الَّذ۪ينَ اُو۫تُوا الْـكِتَابَ اِلَّا مِنْ بَعْدِ مَا جَٓاءَتْهُمُ الْبَيِّنَةُۜ",
+        "turkish_text": "Kitâp verilmiş olanlar, kendilerine beyyine(1) geldikten sonra ayrılığa düştüler.(2)",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gerçeği apaçık, açıklayıcı olan bilgi."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Hakk'ı kabul etmeye yanaşmadılar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اُمِرُٓوا اِلَّا لِيَعْبُدُوا اللّٰهَ مُخْلِص۪ينَ لَهُ الدّ۪ينَ حُنَفَٓاءَ وَيُق۪يمُوا الصَّلٰوةَ وَيُؤْتُوا الزَّكٰوةَ وَذٰلِكَ د۪ينُ الْقَيِّمَةِۜ",
+        "turkish_text": "Oysa Allah'a kulluktan ve dini hanifler(1) olarak O'na has kılmaktan ve salâtı ikâme etmekten,(2) zekâtı yapmaktan(2) başka bir şeyle emrolunmadılar. İşte doğru din budur.",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şirk koşmaksızın Allah'a yönelmiş olan."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Salâtın namaz kılmak anlamının yanı sıra birçok anlamı bulunmaktadır. Bu âyetteki salât, “namaz kılmak” anlamında değildir. Namazı kılın, zekâtı verin” şeklinde anlam verilen bu terkip: İbadete layık yegâne ilâhın yalnızca Allah olduğuna inanmak; Allah'a yönelmeyi, kulluğu ve dûayı “şirkten arınmış bir bilinçle; arınmış, arı duru hale gelmiş bir benlikle yapmak; dayanışmayı, yardımlaşmayı ve destek olmayı canlı ve diri tutmak demektir. Namazı kılın, zekâtı verin” şeklinde anlam verilen bu terkipteki “vermek” kelimesinin kök harfleri  (Elif-Te-Ye) olup, 549 yerde geçmektedir. Her ne kadar bu terkipte,” vermek” anlamına gelen “Âtû” kelimesi yer alsa da () âtû kelimesine, () Eta “yapmak” anlamının verilmesi de uygundur. Bu kelime kök anlamı itibarıyla yaygın olarak şu üç anlamda kullanılmaktadır: “Yapmak”, “getirmek” ve “vermek.” Arınmak, aklanmak, temizlenmek demek olan “zekât”, verilen bir şey değil, “yapılan” bir şeydir. Kur'an, zekât kelimesini “arınmak” anlamında kullanmaktadır (Bkz. 19:13). Zekât, “mali yardım” demek değil, mâli yardım yapılarak malın arınmasıdır. Kur'an'daki mâli yardımın adı sadakadır (Bkz. 9:60). Sadaka verilirse, malın arınması gerçekleşmiş olacaktır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ كَفَرُوا مِنْ اَهْلِ الْـكِتَابِ وَالْمُشْرِك۪ينَ ف۪ي نَارِ جَهَنَّمَ خَالِد۪ينَ ف۪يهَاۜ اُو۬لٰٓئِكَ هُمْ شَرُّ الْبَرِيَّةِۜ",
+        "turkish_text": "Kitâp Ehli'nden Kâfirler ve Müşrikler, içinde sürekli kalmak üzere Cehennem ateşindedirler. İşte onlar, yaratılmışların şerlileridirler.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِۙ اُو۬لٰٓئِكَ هُمْ خَيْرُ الْبَرِيَّةِۜ",
+        "turkish_text": "Îmân Eden ve sâlihâtı yapan kimseler; işte onlar yaratılanların hayırlı olanlarıdır.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "جَزَٓاؤُ۬هُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَٓا اَبَداًۜ رَضِيَ اللّٰهُ عَنْهُمْ وَرَضُوا عَنْهُۜ ذٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+        "turkish_text": "Onların, Rabb'leri yanındaki ödülleri; onlar için içinden nehirlerin aktığı cennetler vardır. Orada süresiz kalacaklar. Allah onlardan, onlar da O'ndan razı olmuşlardır. İşte bu, Rabb'ine hûşû(1) duyan kimseler içindir.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Derin saygı ve içten sevgi beslemek, üstün ve yüce görmenin sonucu olarak hayranlık duymak."
+          }
+        ]
+      }
+    ]
+  }
+}

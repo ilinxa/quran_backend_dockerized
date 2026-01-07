@@ -1,0 +1,187 @@
+{
+  "data": {
+    "index_number": 90,
+    "name_arabic": "البلد",
+    "name_turkish": "Beled",
+    "description": "Adını 1. âyetteki “El-Beled/belde, kent” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 35,
+    "verse_count": 21,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَٓا اُقْسِمُ بِهٰذَا الْبَلَدِۙ",
+        "turkish_text": "Hayır! Bu beldeye yemin ederim!",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنْتَ حِلٌّ بِهٰذَا الْبَلَدِۙ",
+        "turkish_text": "Senin de içinde yaşadığın beldeye,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَوَالِدٍ وَمَا وَلَدَۙ",
+        "turkish_text": "Ant olsun doğurana ve doğurduğuna!",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ي كَبَدٍۜ",
+        "turkish_text": "Biz insanı gerçekten zorluk arasında yarattık.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَيَحْسَبُ اَنْ لَنْ يَقْدِرَ عَلَيْهِ اَحَدٌۢ",
+        "turkish_text": "Kendisine hiç kimsenin güç yetiremeyeceğini mi sanıyor?",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَقُولُ اَهْلَكْتُ مَالاً لُبَداًۜ",
+        "turkish_text": "“Yığınlarca mal harcadım.” diyor.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَيَحْسَبُ اَنْ لَمْ يَرَهُٓ اَحَدٌۜ",
+        "turkish_text": "Kendisini hiç kimsenin görmediğini mi sanıyor?",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِۙ",
+        "turkish_text": "Ona iki gözü Biz vermedik mi?",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلِسَاناً وَشَفَتَيْنِۙ",
+        "turkish_text": "Bir dil ve iki dudak.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَهَدَيْنَاهُ النَّجْدَيْنِۚ",
+        "turkish_text": "Ona iki yol(1) gösterdik.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Doğru ve eğri, Hakk ve Bâtıl, Îmân ve Küfür, iyilik ve kötülük…"
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَلَا اقْتَحَمَ الْعَقَبَةَۘ",
+        "turkish_text": "Ne var ki o, sarp yokuşu aşmayı göze alamadı.(1)",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Köleye özgürlüğünü vermedi. Tutku ve kuruntuların isteklerine karşı koyamadı. Hakk'ı, hayrı, adaleti tercih etmek işine gelmedi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا الْعَقَبَةُۜ",
+        "turkish_text": "Bilir misin nedir sarp yokuş?",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَكُّ رَقَبَةٍۙ",
+        "turkish_text": "Boynu çözmektir,(1)",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Köleyi özgürleştirmektir. Rekâbe özgürlüğüne kavuşmak isteyen köle demektir. Rekâbe, boyun demektir; özgürlüğü kısıtlı olan kimseler için kullanılmaktadır. Kelime anlamı olarak; gözetlenmek, gözetlemek, korumak, korunmak anlamlarına gelmektedir. Vahiy, köleliği ilk yıllarında gündemine almış ve tamamıyla kaldırmak, yok etmek sürecini başlatmıştır. Köle edinmenin tek yolu olan savaş esirleriydi. 47:4. âyetiyle bu yol tamamıyla kapatılarak bu süreç tamamlanmış kölelik sona erdirilmiştir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَوْ اِطْعَامٌ ف۪ي يَوْمٍ ذ۪ي مَسْغَبَةٍۙ",
+        "turkish_text": "Veya darlık ve yoklukta doyurmaktır;",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَت۪يماً ذَا مَقْرَبَةٍۙ",
+        "turkish_text": "Yakınlık sahibi olan yetimi,(1)",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yakınında, çevrende bulunan sahipsiz, kimsesiz kalmışları."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَوْ مِسْك۪يناً ذَا مَتْرَبَةٍۜ",
+        "turkish_text": "Veya hiçbir şeyi olmayan miskini,(1)",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Çalışacak gücü ve işi olmayan, yerlerde sürünen yoksul. Hiçbir şeyi olmayan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ثُمَّ كَانَ مِنَ الَّذ۪ينَ اٰمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِۜ",
+        "turkish_text": "Sonra birbirlerine sabrı(1) ve merhameti tavsiye eden îmân edenlerden olmaktır.",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Direnmeyi, zorluklara göğüs germeyi, yılgınlık göstermemeyi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اُو۬لٰٓئِكَ اَصْحَابُ الْمَيْمَنَةِۜ",
+        "turkish_text": "İşte onlar, Ashâb-ı Meymene'dir.(1)",
+        "index_number": 18,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Meymene, kelime olarak “sağ el” veya “uğurlu, bereketli” anlamındadır. “Amel defterleri sağdan verilenler”, veya “sağın sahibi,” “sağın taraftarları” şeklinde yanlış anlam verilen “Ashâbı Meymene;” Arapça'da bir deyim olup, bahtı iyi olan, bereketli, yüksek makam, güçlü, çok değerli, şerefli, onurlu ve önemli kimseler için kullanılmaktadır. Keza Türkçe'de de birisine “bu benim sağ kolumdur” dendiği zaman, ona verilen değer gösterilmiş olunmaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّذ۪ينَ كَفَرُوا بِاٰيَاتِنَا هُمْ اَصْحَابُ الْمَشْـَٔمَةِۜ",
+        "turkish_text": "Âyetlerimizi küfredenler Ashab-ı Meşeme'dir.(1)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kelime olarak, “uğursuzluk, talihsizlik demektir. “Sol el” anlamı da bulunmaktadır. “Amel defterleri solundan verilenler” veya “solun Ashâbı,” “solun taraftarları” şeklinde yanlış anlam verilen Ashâbı Meş'eme; Arapça'da deyim olarak, zillet içerisinde, aşağılık, değersiz, onursuz kimseler demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+        "turkish_text": "Onlara, üzerlerine kapıları kapatılmış bir ateş vardır.",
+        "index_number": 20,
+        "deep_notes": []
+      }
+    ]
+  }
+}

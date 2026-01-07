@@ -1,0 +1,108 @@
+{
+  "data": {
+    "index_number": 100,
+    "name_arabic": "العاديات",
+    "name_turkish": "Âdiyât",
+    "description": "Adını 1. âyetteki “Âdiyât/koşan” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 14,
+    "verse_count": 12,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْعَـادِيَاتِ ضَبْـحاًۙ",
+        "turkish_text": "Soluk soluğa koşanlara ant olsun,",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَالْمُـورِيَاتِ قَـدْحاًۙ",
+        "turkish_text": "Çarparak ateş çıkaranlara,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَالْمُغ۪يرَاتِ صُبْحاًۙ",
+        "turkish_text": "Sabahleyin akın edenlere,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَثَرْنَ بِه۪ نَقْعاًۙ",
+        "turkish_text": "Sonra toz koparanlara,",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَوَسَطْنَ بِه۪ جَمْعاًۙ",
+        "turkish_text": "Sonra onunla bir topluluğa dalanlara ki,",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الْاِنْسَانَ لِرَبِّه۪ لَكَنُودٌۚ",
+        "turkish_text": "Kuşkusuz o insan(1) Rabb'ine karşı çok nankördür.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sapkınlıkta kalmayı tercih eden Müşrikler. İnsan kelimesinin başında “El” takısı olması söz konusu insanın belli bir kimse olduğunu ifade etmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنَّهُ عَلٰى ذٰلِكَ لَشَه۪يدٌۚ",
+        "turkish_text": "Ve o(1) da buna tanıktır.(2)",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Müşrik insan."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Kendisinin nankörlüğüne."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنَّهُ لِحُبِّ الْخَيْرِ لَشَد۪يدٌۜ",
+        "turkish_text": "Doğrusu o hayrı(1) aşırı derecede sever.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Dünya malını."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِي الْقُبُورِۙ",
+        "turkish_text": "Bilmez mi kabirlerde olanlar çıkarıldığı zaman,",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَحُصِّلَ مَا فِي الصُّدُورِۙ",
+        "turkish_text": "Ve göğüslerde olanlar açığa çıkarıldığı zaman,",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَب۪يرٌ",
+        "turkish_text": "O Gün Rabb'lerinin her şeylerinden haberdar olduğunu.",
+        "index_number": 11,
+        "deep_notes": []
+      }
+    ]
+  }
+}

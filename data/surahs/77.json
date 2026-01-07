@@ -1,0 +1,379 @@
+{
+  "data": {
+    "index_number": 77,
+    "name_arabic": "المرسلات",
+    "name_turkish": "Murselât",
+    "description": "Adını 1. âyetteki “El-Murselât/gönderilenler” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 33,
+    "verse_count": 51,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْمُرْسَلَاتِ عُرْفاًۙ",
+        "turkish_text": "Art arda gönderilenlere ant olsun.",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَالْعَاصِفَاتِ عَصْفاًۙ",
+        "turkish_text": "Ve şiddetle estikçe esenlere,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالنَّاشِرَاتِ نَشْراًۙ",
+        "turkish_text": "Yaydıkça yayanlara,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَالْفَارِقَاتِ فَرْقاًۙ",
+        "turkish_text": "Ayırdıkça ayıranlara,",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَالْمُلْقِيَاتِ ذِكْراًۙ",
+        "turkish_text": "Ve de öğüdü ulaştıranlara,",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عُذْراً اَوْ نُذْراًۙ",
+        "turkish_text": "Özür veya uyarı için,",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّمَا تُوعَدُونَ لَوَاقِعٌۜ",
+        "turkish_text": "Uyarıldığınız şey kesinlikle gerçekleşecektir.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاِذَا النُّجُومُ طُمِسَتْۙ",
+        "turkish_text": "Yıldızlar silindiğinde.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا السَّمَٓاءُ فُرِجَتْۙ",
+        "turkish_text": "Gök aralandığında.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
+        "turkish_text": "Dağlar ufalanıp savrulduğunda;",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الرُّسُلُ اُقِّتَتْۜ",
+        "turkish_text": "O resûllere vakit belirlendiğinde;",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِاَيِّ يَوْمٍ اُجِّلَتْۜ",
+        "turkish_text": "Bunlar hangi gün için ertelendi?",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِيَوْمِ الْفَصْلِۚ",
+        "turkish_text": "Ayırt etme(1) günü için.",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yargılama. Hesap görme günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الْفَصْلِۜ",
+        "turkish_text": "Ayırt etme gününün ne olduğunu biliyor musun?",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün(1), yalanlayanların vay haline!",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap sorma günü, yalnızca Allah'ın belirlediği ilke ve kuralların geçerli olduğu gün."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَمْ نُهْلِكِ الْاَوَّل۪ينَۜ",
+        "turkish_text": "Öncekileri yok etmedik mi?",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ نُتْبِعُهُمُ الْاٰخِر۪ينَ",
+        "turkish_text": "Sonra arkadan gelenleri de onlara katarız.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِم۪ينَ",
+        "turkish_text": "İşte suçlulara böyle yaparız.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün yalanlayanların vay haline!",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ نَخْلُقْكُمْ مِنْ مَٓاءٍ مَه۪ينٍۙ",
+        "turkish_text": "Sizi basit bir sudan yaratmadık mı?",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَجَعَلْنَاهُ ف۪ي قَرَارٍ مَك۪ينٍۙ",
+        "turkish_text": "Sonra onu korunaklı bir yere yerleştirdik.",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِلٰى قَدَرٍ مَعْلُومٍۙ",
+        "turkish_text": "Belirlenen bir kadere(1) kadar.",
+        "index_number": 22,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Takdir edilen süre."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَقَدَرْنَاۗ فَنِعْمَ الْقَادِرُونَ",
+        "turkish_text": "Sonra takdir ettik,(1) ne güzel takdir edenleriz.",
+        "index_number": 23,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Biçim verdik."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتاًۙ",
+        "turkish_text": "Yeryüzünü toplanma yeri yapmadık mı?",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَحْيَٓاءً وَاَمْوَاتاًۙ",
+        "turkish_text": "Diriler ve ölüler için.",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَعَلْنَا ف۪يهَا رَوَاسِيَ شَامِخَاتٍ وَاَسْقَيْنَاكُمْ مَٓاءً فُرَاتاًۜ",
+        "turkish_text": "Orada oturaklı ağır baskılar yaptık. Size tatlı su içirdik.",
+        "index_number": 27,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün yalanlayanların vay haline!",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنْطَلِقُٓوا اِلٰى مَا كُنْتُمْ بِه۪ تُكَذِّبُونَۚ",
+        "turkish_text": "Haydi, kendisini yalanlamış olduğunuz şeye gidin bakalım!",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنْطَلِقُٓوا اِلٰى ظِلٍّ ذ۪ي ثَلٰثِ شُعَبٍۙ",
+        "turkish_text": "Üç çatal(1) sahibi gölgeye gidin;",
+        "index_number": 30,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Üç kol, üç bölüm."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَا ظَل۪يلٍ وَلَا يُغْن۪ي مِنَ اللَّهَبِۜ",
+        "turkish_text": "Gölge yapmayan ve alevden de korumayan.",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهَا تَرْم۪ي بِشَرَرٍ كَالْقَصْرِۚ",
+        "turkish_text": "O, kocaman kütükler gibi kıvılcımlar saçar.",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَاَنَّهُ جِمَالَتٌ صُفْرٌۜ",
+        "turkish_text": "Sanki o sarı deve sürüsüdür.",
+        "index_number": 33,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 34,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هٰذَا يَوْمُ لَا يَنْطِقُونَۙ",
+        "turkish_text": "Bu, konuşamayacakları gündür.",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+        "turkish_text": "Onlara izin verilmez ki, özür dilesinler.",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هٰذَا يَوْمُ الْفَصْلِۚ جَمَعْنَاكُمْ وَالْاَوَّل۪ينَ",
+        "turkish_text": "Bu, sizi ve öncekileri topladığımız, ayırma günüdür.(1)",
+        "index_number": 38,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yargılama günü. Suçluyu suçsuzu belli etme."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَك۪يدُونِ",
+        "turkish_text": "Haydi! Eğer kurtulmak için bir planınız varsa, Bana karşı hemen planınızı uygulayın!",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ۟",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 40,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الْمُتَّق۪ينَ ف۪ي ظِلَالٍ وَعُيُونٍۙ",
+        "turkish_text": "Takvâ(1) sahipleri gölgelerde ve pınar başlarındadırlar.",
+        "index_number": 41,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Takvâ, korunmak demektir. Allah'ın buyruklarına içtenlikle uyarak fucûr, günah, kötü, zararlı ve tehlikeli şeylere karşı kendisini korumak ve güvene almaktır. Takvâ, kelime anlamı olarak zarar verecek şey ile korunacak şey arasına konan engel demektir. Muttakî: Takvâ sahibi olan. Takvâ “Fucûr”un karşıtıdır (38:28; 91:8). Fâcir, fütursuzca günaha dalan, Hakk'tan Bâtıl'a sapan kimse demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَۜ",
+        "turkish_text": "Ve canlarının çektiği meyveler.",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كُلُوا وَاشْرَبُوا هَن۪ٓيـٔاً بِمَا كُنْتُمْ تَعْمَلُونَ",
+        "turkish_text": "Yaptıklarınıza karşılık afiyetle yiyin ve için.",
+        "index_number": 43,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+        "turkish_text": "İyi olanları işte böyle ödüllendiririz.",
+        "index_number": 44,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 45,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كُلُوا وَتَمَتَّعُوا قَل۪يلاً اِنَّكُمْ مُجْرِمُونَ",
+        "turkish_text": "Yiyin ve yararlanın biraz. Siz suçlularsınız.(1)",
+        "index_number": 46,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ey Müşrikler ve Kâfirler, dünya nimetlerinden yararlanın bakalım!"
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 47,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا ق۪يلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+        "turkish_text": "Onlara, “Rukû(1) edin.” denildiği zaman rukû etmezler.",
+        "index_number": 48,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şirk koşmaksızın Allah'a itaat etmek, emrine amade olmak, değerini takdir etmek, yüceliğini, üstünlüğünü kabul etmek ve saygı göstermek. İçtenlikle boyun eğmek. Câhiliye Arapları puta tapmayıp yalnızca Allah'a tapanlara “rakea ilellah;” Allah'a rukû etti, derlerdi. Kur'an'da geçen rukû kelimeleri ile kast edilen şey namaz kılarken yapılan ve adına “rukû” denilen hareket değildir. Ancak namazdaki rukû ile amaçlanan şey de Allah'a bağlılık ve içtenliktir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 49,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ حَد۪يثٍ بَعْدَهُ يُؤْمِنُونَ",
+        "turkish_text": "Artık bundan başka hangi hadise(1) inanacaklar?",
+        "index_number": 50,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'a inanmadıktan sonra hangi kitâba inanacaklar?"
+          }
+        ]
+      }
+    ]
+  }
+}

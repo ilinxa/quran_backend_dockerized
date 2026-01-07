@@ -1,0 +1,210 @@
+{
+  "data": {
+    "index_number": 87,
+    "name_arabic": "الأعلى",
+    "name_turkish": "A'lâ",
+    "description": "Adını 1. âyetteki “A'lâ/yüce” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 8,
+    "verse_count": 20,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلٰىۙ",
+        "turkish_text": "Rabb'inin yüce adını tesbih(1) et.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın, her türlü kusur ve eksiklikten arınık, bütün mükemmel niteliklere sahip olduğunu bilmek; Allah'ı kendisine özgü nitelikleri ile tanımak ve tanıtmak demektir. Tesbih, tevhid inancının ve anlayışının kavranmasıdır. Allah'ı şirk içeren her türlü düşünce ve inançtan arındırarak, Kendisine özgü nitelikleri ile yüceltmek demektir (20:130). Tesbihi, bazı sözlerin (Subhanallah, Elhamdulillah vb.) belli sayılarla tekrar edilmesine indirgemek hurafeden başka bir şey değildir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي خَلَقَ فَسَوّٰىۙۖ",
+        "turkish_text": "O ki yarattı ve düzene koydu.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّذ۪ي قَدَّرَ فَهَدٰىۙۖ",
+        "turkish_text": "O ki takdir etti(1) ve yol gösterdi.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Her varlığa kendisine özgü özellikler (fıtrat) verdi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالَّـذ۪ٓي اَخْرَجَ الْمَرْعٰىۙۖ",
+        "turkish_text": "O ki yerden bitkiler, yeşillikler çıkardı.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَجَعَلَهُ غُثَٓاءً اَحْوٰىۜ",
+        "turkish_text": "Derken onu kuru, kararmış çer çöp haline getirdi.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَنُقْرِئُكَ فَلَا تَنْسٰىۙ",
+        "turkish_text": "Sana okutacağız;(1) bir daha unutmayacaksın;(2)",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sana ne yapacağını bildireceğiz. Gideceğin yolu göstereceğiz."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bir daha şaşırmayacaksın."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِلَّا مَا شَٓاءَ اللّٰهُۜ اِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۜ",
+        "turkish_text": "Allah, aksini dilemedikçe. Kuşkusuz O, açık ve gizli olanı bilir.(1)",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Mesajı iletmede ne yapıp ne yapmadığını bilir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَنُيَسِّرُكَ لِلْيُسْرٰىۚ",
+        "turkish_text": "Kolay gelmesi için, sana yeterince kolaylaştıracağız.(1)",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu yolda karşılaşacağın zorluklardan çekinme, Biz sana yardım edeceğiz."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَذَكِّرْ اِنْ نَفَعَتِ الذِّكْرٰىۜ",
+        "turkish_text": "O halde öğüt ver,(1) öğüt yararlı olacaksa!",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yararlı olup olmadığına bakmaksızın sen öğüt vermeye devam et."
+          }
+        ]
+      },
+      {
+        "arabic_text": "سَيَذَّكَّرُ مَنْ يَخْشٰىۙ",
+        "turkish_text": "Hûşû(1) duyan kimse öğüt alacaktır.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Derin saygı ve içtenlik."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَيَتَجَنَّبُهَا الْاَشْقٰىۙ",
+        "turkish_text": "Şâkî(1) olan ondan kaçınır.",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bahtsız, azgınlaşan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي يَصْلَى النَّارَ الْـكُبْرٰىۚ",
+        "turkish_text": "Ki o, büyük ateşe atılacaktır.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ لَا يَمُوتُ ف۪يهَا وَلَا يَحْيٰىۜ",
+        "turkish_text": "Sonra orada ölüm de yok, yaşam da.(1)",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ölüp kurtulmak da yok, rahat yüzü görmek de."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ",
+        "turkish_text": "Doğrusu arınan kimse kurtuluşa ermiştir;",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَذَكَرَ اسْمَ رَبِّه۪ فَصَلّٰىۜ",
+        "turkish_text": "Rabb'inin adını anıp sallâ(1) eden.",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Âyette yer alan “sallâ” kelimesine “namaz kılmak” anlamı verilmek önemli bir yanılgıdır. “Sallâ” kelimesi, bu âyette, “namaz kılmak” anlamında değil, yönelmek, destek olmak anlamındadır. Salât, ibadete layık yegâne ilâhın Allah olduğuna inanmak, şirkten arınmış bir bilinçle Allah'a yönelme demektir. Bu yönelme: Sürekli destek olmak, dayanışmak, ilgi duymak, duyarlı olmak, izleyici kalmamak, yanında yer almaktır. Salâtın diğer anlamları şunlardır: Ritüel salât (Namaz), dâa etmek, din, havra. Salâtın hangi anlamı ifade ettiği, içinde yer aldığı âyet ve konu bağlamından rahatlıkla anlaşılabilir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "بَلْ تُؤْثِرُونَ الْحَيٰوةَ الدُّنْيَاۘ",
+        "turkish_text": "Ne var ki siz(1) dünya hayatını tercih ediyorsunuz.",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Siz zamirinden kasıt, Müşrikler ve Kâfirlerdir. Sallâ etmeyenlerdir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالْاٰخِرَةُ خَيْرٌ وَاَبْـقٰىۜ",
+        "turkish_text": "Oysaki âhiret hayatı daha hayırlı ve daha kalıcıdır.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ هٰذَا لَفِي الصُّحُفِ الْاُو۫لٰىۙ",
+        "turkish_text": "Bu, önceki sahifelerde(1) de vardı.",
+        "index_number": 18,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Vahiylerde. Gönderilen Kitâplarda."
+          }
+        ]
+      },
+      {
+        "arabic_text": "صُحُفِ اِبْرٰه۪يمَ وَمُوسٰى",
+        "turkish_text": "İbrâhîm'ın ve Mûsâ'nın sahifelerinde.",
+        "index_number": 19,
+        "deep_notes": []
+      }
+    ]
+  }
+}

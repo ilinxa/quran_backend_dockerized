@@ -1,0 +1,187 @@
+{
+  "data": {
+    "index_number": 96,
+    "name_arabic": "العلق",
+    "name_turkish": "Alâk",
+    "description": "Adını 2. âyetteki “Alak/asılmış, tutunmuş olan” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 1,
+    "verse_count": 20,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذ۪ي خَلَقَۚ",
+        "turkish_text": "Yaratan Rabb'inin adıyla duyur.(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ikra, duyurmak, ilân etmek, iletmek demektir. Vahyin ilk âyeti olduğu kabul gören bu âyetteki “ıkra” kelimesine “oku” anlamını vermek önemli bir yanılgıdır. Henüz ortada okunacak bir metin olmadığına göre, okumaktan söz etmek doğru değildir. Bu kelime ile ifade edilen şey; sana vahyettiğimiz mesajı, aklında tut, derleyip toparla ve ondan sonra da insanlara duyurmaya, ilan etmeye, ulaştırmaya başla demektir. Ikra, kelime anlamı olarak esasen “bir şeyleri biriktirip onu dağıtmak, başka yerlere nakletmek” demektir. Bu âyeti, İslâm'ın bilgiye verdiği değeri örneklemek için konu edinmek; “İslâm'ın ilk emri okudur” türü bir tanımlama yapmak doğru değildir. Zira âyet, okumanın öneminden değil, vahyin insanlara duyurulmasından söz etmektedir. Nasıl ki “ezan okumak”, “türkü okumak” dendiği zaman, okunan bir metinden değil de duyurmaktan, söylemekten söz edilmiş olunuyorsa, âyetteki “ıkra” kelimesi de duyurmak anlamındadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+        "turkish_text": "İnsanı alaktan(1) yarattı.",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Döl yatağına tutunan, döl yatağında asılı olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+        "turkish_text": "Duyur, senin Rabb'in en büyük kerem(1) sahibidir.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- En cömert, en şerefli, en saygın."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي عَلَّمَ بِالْقَلَمِۙ",
+        "turkish_text": "Kalemle öğretendir.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۜ",
+        "turkish_text": "İnsana bilmediğini öğretti.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّٓا اِنَّ الْاِنْسَانَ لَيَطْغٰىۙ",
+        "turkish_text": "Bu gerçeğe rağmen insan yine de tuğyân(1) eder.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Haddi aşma, zûlüm, azgınlık, sapkınlık, isyan, küfür."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَنْ رَاٰهُ اسْتَغْنٰىۜ",
+        "turkish_text": "Kendisini yeterli gördüğü için.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۜ",
+        "turkish_text": "Oysaki dönüş Rabb'inedir.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَرَاَيْتَ الَّذ۪ي يَنْهٰىۙ",
+        "turkish_text": "Gördün mü şu alıkoyanı?",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَبْداً اِذَا صَلّٰىۜ",
+        "turkish_text": "Sallâ(1) ederken bir kulu!",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Çağrıda bulunan. Salât kelimesi, ilk bu âyette geçmektedir. Bu sûrenin, vahyedilen ilk sure olduğu dikkate alındığında, “sallâ” kelimesine namaz anlamı vermek önemli bir yanılgıdır. Bu yanılgı; bundan sonra da bu kelimeye, geçtiği her yerde namaz anlamının verilmesine neden olmaktadır. “Sallâ” kelimesi, bu âyette, “namaz kılmak” anlamında değil, yönelmek, destek olmak anlamındadır. İbadete layık yegâne ilâhın Allah olduğuna inanmak, şirkten arınmış bir bilinçle Allah'a yönelme demektir. Bu yönelme: Sürekli destek olmak, dayanışmak, ilgi duymak, duyarlı olmak, izleyici kalmamak, yanında yer almaktır. Salâtın diğer anlamları şunlardır: Ritüel salât (Namaz), dûa etmek, din, havra. Salâtın hangi anlamı ifade ettiği, içinde yer aldığı âyet ve konu bağlamından rahatlıkla anlaşılabilir. Sallanın karşıtı tevellâdır. Tevellâ süreklilik ifade etmektedir; sürekli karşı çıkmak, ilgisiz ve duyarsız kalmak, köstek olmak, engellemeye çalışmak demektir (75:31, 32)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىۙ",
+        "turkish_text": "Gördün mü?(1) Ya o doğru yolda ise!",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Düşünsene."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَوْ اَمَرَ بِالتَّقْوٰىۜ",
+        "turkish_text": "Veya takvâyı buyuruyorsa?",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۜ",
+        "turkish_text": "Gördün mü; ya yalanlayıp ve yüz çevirdiyse?(1)",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Düşünsene, engelleme yapan kimsenin kendisi gerçeği yalanlıyorsa?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۜ",
+        "turkish_text": "Allah'ın kesinlikle her şeyi gördüğünü bilmiyor mu?",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا لَئِنْ لَمْ يَنْتَهِ۬ لَنَسْفَعاً بِالنَّاصِيَةِۙ",
+        "turkish_text": "Hayır, kesinlikle öyle değil! Eğer gerçekten vazgeçmezse perçeminden(1) yakalarız.",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yelesinden. Yele; at, aslan gibi hayvanların boyun bölgelerinde bulunan ve onları gösterişli yapan uzun kıllara denmektedir. Perçem/yele bir benzetmedir. Yeleden tutmak, kıskıvrak yakalamak, hakimiyet altına almak anlamındadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+        "turkish_text": "Yalancı ve yanlış yapan perçeminden.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَلْيَدْعُ نَادِيَهُۙ",
+        "turkish_text": "Haydi, yardımcılarını çağırsın.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَنَدْعُ الزَّبَانِيَةَۙ",
+        "turkish_text": "Biz de zebanileri çağıracağız.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّاۜ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+        "turkish_text": "Hayır, kesinlikle öyle değil! Ona boyun eğme; secde et ve yaklaş.(1)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'a teslim ol, Allah'a boyun eğerek, saygıyla yönelerek, O'na yakın ol."
+          }
+        ]
+      }
+    ]
+  }
+}

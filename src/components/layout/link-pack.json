@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_layout_link_packs",
+  "info": {
+    "displayName": "linkPack"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "links": {
+      "type": "component",
+      "component": "layout.link",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

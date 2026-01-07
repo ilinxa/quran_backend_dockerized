@@ -1,0 +1,215 @@
+{
+  "data": {
+    "index_number": 88,
+    "name_arabic": "الغاشية",
+    "name_turkish": "Ğâşiye",
+    "description": "Adını 1. âyetteki “Ğâşiye/kaplayan, bürüyen” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 68,
+    "verse_count": 27,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هَلْ اَتٰيكَ حَد۪يثُ الْغَاشِيَةِۜ",
+        "turkish_text": "Ğâşiyenin(1) hadisi(2) sana geldi mi?",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Dehşeti her şeyi kaplayıp kuşatacak olanın."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Haberi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌۙ",
+        "turkish_text": "O Gün(1) birtakım yüzler öne düşüktür;(2)",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap sorma günü, yalnızca Allah'ın belirlediği ilke ve kuralların geçerli olduğu gün."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Müşrikler ve Kâfirler dünyada göstermedikleri hûşûyu (saygıyı) Allah'ı büyüklemeyi âhirette göstereceklerdir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "عَامِلَةٌ نَاصِبَةٌۙ",
+        "turkish_text": "Bitmiş, tükenmiş olarak.(1)",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yaptıkları boşa gitmiştir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "تَصْلٰى نَاراً حَامِيَةًۙ",
+        "turkish_text": "Kızgın ateşe atılacaklar.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تُسْقٰى مِنْ عَيْنٍ اٰنِيَةٍۜ",
+        "turkish_text": "Kaynar bir kaynaktan içirilirler.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَيْسَ لَهُمْ طَعَامٌ اِلَّا مِنْ ضَر۪يعٍۙ",
+        "turkish_text": "Onlar için kuru dikenli bir bitkiden başka yiyecek yoktur;",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَا يُسْمِنُ وَلَا يُغْن۪ي مِنْ جُوعٍۜ",
+        "turkish_text": "O, beslemez ve açlığı gidermez.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌۙ",
+        "turkish_text": "O Gün birtakım yüzler(1) nimetler içindedirler.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kimseler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لِسَعْيِهَا رَاضِيَةٌۙ",
+        "turkish_text": "Yaptıklarından dolayı hoşnutturlar.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي جَنَّةٍ عَالِيَةٍۙ",
+        "turkish_text": "Mükemmel bir bahçededirler.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَا تَسْمَعُ ف۪يهَا لَاغِيَةًۜ",
+        "turkish_text": "Orada boş söz duymazlar.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهَا عَيْنٌ جَارِيَةٌۢ",
+        "turkish_text": "Orada devamlı akan bir pınar vardır.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهَا سُرُرٌ مَرْفُوعَةٌۙ",
+        "turkish_text": "Yükseklere kurulmuş divanlar,",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَكْوَابٌ مَوْضُوعَةٌۙ",
+        "turkish_text": "İçime hazır içecekler,",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَنَمَارِقُ مَصْفُوفَةٌۙ",
+        "turkish_text": "Sıra sıra yastıklar,",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَزَرَابِيُّ مَبْثُوثَةٌۜ",
+        "turkish_text": "Serilmiş halılar vardır.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَفَلَا يَنْظُرُونَ اِلَى الْاِبِلِ كَيْفَ خُلِقَتْ۠",
+        "turkish_text": "Hiç mi deveye(1) bakmıyorlar, nasıl yaratılmış?",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Diğer bir okuyuşa göre “bulutlara.” “İbil,” deve demektir. Bu kelime “ibbil” olarak okunduğunda ise “bulut” anlamına gelmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِلَى السَّمَٓاءِ كَيْفَ رُفِعَتْ۠",
+        "turkish_text": "Ve gökyüzüne, nasıl yükseltilmiş?",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِلَى الْجِبَالِ كَيْفَ نُصِبَتْ۠",
+        "turkish_text": "Ve dağlara, nasıl dikilmişler?",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِلَى الْاَرْضِ كَيْفَ سُطِحَتْ۠",
+        "turkish_text": "Ve yeryüzüne, nasıl yayılıp döşenmiş?",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَذَكِّرْ اِنَّـمَٓا اَنْتَ مُذَكِّرٌۜ",
+        "turkish_text": "Öğüt ver; sen yalnızca öğüt vericisin.",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍۙ",
+        "turkish_text": "Kimseyi zorla inandıracak değilsin.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِلَّا مَنْ تَوَلّٰى وَكَفَرَۙ",
+        "turkish_text": "Ancak kim yüz çevirir ve kâfir olursa,",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَيُعَذِّبُهُ اللّٰهُ الْعَذَابَ الْاَكْبَرَۜ",
+        "turkish_text": "Allah, ona en büyük azâpla azâp eder.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ اِلَيْنَٓا اِيَابَهُمْۙ",
+        "turkish_text": "Kuşkusuz onların dönüşü Bizedir.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ اِنَّ عَلَيْنَا حِسَابَهُمْ",
+        "turkish_text": "Sonra, kuşkusuz onların hesapları kesinlikle Bize aittir.",
+        "index_number": 26,
+        "deep_notes": []
+      }
+    ]
+  }
+}

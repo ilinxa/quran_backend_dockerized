@@ -1,0 +1,79 @@
+{
+  "data": {
+    "index_number": 102,
+    "name_arabic": "التكاثر",
+    "name_turkish": "Tekâsur",
+    "description": "Adını 1. âyetteki “Tekâsur/çoklukla övünme” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 16,
+    "verse_count": 9,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلْهٰيكُمُ التَّكَاثُرُۙ",
+        "turkish_text": "Çoğaltma isteği sizi oyaladı.(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Mal, mülk edinme hırsı, bütün hayatınızı mal edinme peşinde harcamanıza neden oldu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "حَتّٰى زُرْتُمُ الْمَقَابِرَۜ",
+        "turkish_text": "Ta ki ölüp kabirlere girinceye kadar.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا سَوْفَ تَعْلَمُونَۙ",
+        "turkish_text": "Hayır, asla bildiğiniz gibi değil; yakında bileceksiniz.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَۜ",
+        "turkish_text": "Yine hayır, bildiğiniz gibi değil; yakında bileceksiniz.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَق۪ينِۜ",
+        "turkish_text": "Hayır, asla bildiğiniz gibi değil, keşke kesin bilgi ile bilseydiniz.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَتَرَوُنَّ الْجَح۪يمَۙ",
+        "turkish_text": "Bilesiniz ki kesinlikle alevli ateşle karşı karşıya kalacaksınız.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَق۪ينِۙ",
+        "turkish_text": "Sonra onu gözlerinizle kesin olarak göreceksiniz.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ النَّع۪يمِ",
+        "turkish_text": "Sonra O Gün kesinlikle nimetten(1) sorulacaksınız.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Size verilen nimetlerden."
+          }
+        ]
+      }
+    ]
+  }
+}

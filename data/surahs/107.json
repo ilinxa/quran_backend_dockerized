@@ -1,0 +1,85 @@
+{
+  "data": {
+    "index_number": 107,
+    "name_arabic": "الماعون",
+    "name_turkish": "Mâûn",
+    "description": "Adını 1. âyetteki “Tekâsur/çoklukla övünme” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 17,
+    "verse_count": 8,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَرَاَيْتَ الَّذ۪ي يُكَذِّبُ بِالدّ۪ينِۜ",
+        "turkish_text": "Dini(1) yalanlayanı görüyorsun değil mi?",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ceza/karşılık. Hesap Günü'nü. Borcunu: Kendisine verilen nimetleri yok sayanı gördün mü? Din, deyn/borç kelimesinden türemiştir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَذٰلِكَ الَّذ۪ي يَدُعُّ الْيَت۪يمَۙ",
+        "turkish_text": "İşte o, yetimi itip kakar.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْك۪ينِۜ",
+        "turkish_text": "Miskini doyurmaya teşvik etmez.(1)",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Çalışmaya gücü yetmeyenin, kendi malında bulunan payını vermez."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَوَيْلٌ لِلْمُصَلّ۪ينَۙ",
+        "turkish_text": "Vay haline salât edenlerin!(1)",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Destek olanların, yardım edenlerin! Gösteriş olsun diye veya çıkarları için yardım edenlerin vay haline. Söz konusu bu kimseler, Mekke'li Müşriklerdir. Âyete, “Gösteriş yapmak için namaz kılanların vay haline.” şeklinde anlam verilmesi doğru değildir. Mekke koşullarında Müslim olduğunu bile gizlemek zorunda olanların, gösteriş için namaz kılmaları söz konusu olabilir mi? Sûrenin, bu ve bundan sonraki âyetlerinin Medeni olduğunu söylemek ise, bu yanılgıdaki tutarsızlığı izah etme düşüncesinden kaynaklanan ikinci bir yanılgıdır. Bu yanılgının esas nedeni, karşılaşılan her “salât” kelimesine “namaz” anlamı verilmesidir. Oysaki bu âyetteki salât kelimesinin anlamı “yardım etmek, destek olmak” tır. Sonraki âyetler de zaten konunun yardımla ilgili olduğunu açıkça ifade etmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَۙ",
+        "turkish_text": "Onlar ki salâtlarından(1) gafletteler.",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yardım etme, destek olma bilincinden, erdeminden, samimiyetinden yoksundurlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ هُمْ يُرَٓاؤُ۫نَۙ",
+        "turkish_text": "Onlar gösteriş yapanlardır.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيَمْنَعُونَ الْمَاعُونَ",
+        "turkish_text": "Ve küçük, basit, sıradan yardımı bile esirgerler.",
+        "index_number": 7,
+        "deep_notes": []
+      }
+    ]
+  }
+}

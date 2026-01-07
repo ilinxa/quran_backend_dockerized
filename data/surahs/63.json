@@ -1,0 +1,109 @@
+{
+  "data": {
+    "index_number": 63,
+    "name_arabic": "المنافقون",
+    "name_turkish": "Münâfikûn",
+    "description": "Adını 1. âyette geçen “Münafikûn/münafik ‘(ikiyüzlü)” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 114,
+    "verse_count": 12,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذَا جَٓاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ اِنَّكَ لَرَسُولُ اللّٰهِۢ وَاللّٰهُ يَعْلَمُ اِنَّكَ لَرَسُولُهُۜ وَاللّٰهُ يَشْهَدُ اِنَّ الْمُنَافِق۪ينَ لَـكَاذِبُونَۚ",
+        "turkish_text": "Münâfıklar(1) sana geldiklerinde: “Biz, tanıklık ederiz ki, kuşkusuz sen, Allah'ın Resûl'üsün.” dediler. Elbette ki Allah, senin, Kendisinin Resûl'ü olduğunu biliyor. Fakat Allah tanıktır ki, Münâfıklar, kesinlikle yalancıdırlar.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Münafık, içten “bitmiş, tükenmiş ve îmânı kalmamış, omurgasız, onursuz ve iki -yüzlü kimse demektir. Münafık, îmân konusunda dürüst ve samimi olmayan, tıpkı tarla faresinin yuva değiştirdiği gibi, yer değiştiren: işlerine gelince Mü'min, işlerine gelince Kâfir olan kimse."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِتَّخَذُٓوا اَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَب۪يلِ اللّٰهِۜ اِنَّهُمْ سَٓاءَ مَا كَانُوا يَعْمَلُونَ",
+        "turkish_text": "Onlar, yeminlerini kalkan yapıyorlar.(1) Böylece insanları, Allah'ın yolundan saptırıyorlar. Kuşkusuz, yaptıkları şey çok kötüdür.",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yalanlarını ve sahtekârlıklarını yeminleri ile gizliyorlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ذٰلِكَ بِاَنَّهُمْ اٰمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلٰى قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+        "turkish_text": "Bu şundandır: onlar önce îmân ettiler sonra küfrettiler. Bu nedenle, onların kalpleri mühürlenmiştir. Artık onlar, gerçeği kavrayamazlar.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا رَاَيْتَهُمْ تُعْجِبُكَ اَجْسَامُهُمْۜ وَاِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْۜ كَاَنَّهُمْ خُشُبٌ مُسَنَّدَةٌۜ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْۜ هُمُ الْعَدُوُّ فَاحْذَرْهُمْۜ قَاتَلَهُمُ اللّٰهُۘ اَنّٰى يُؤْفَـكُونَ",
+        "turkish_text": "Onlara baktığında, dış görünüşleri itibariyle, seni hayran bırakırlar. Konuştuklarında, sözlerine itibar edersin. Aslında, elbise giydirilmiş kütükler gibidirler. Her bağırtıyı kendi aleyhlerine sanırlar. Onlar, düşmandırlar, onlara karşı dikkatli ol. Allah, onların canlarını alsın! Nasıl da döndürülüyorlar!",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا ق۪يلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللّٰهِ لَـوَّوْا رُؤُ۫سَهُمْ وَرَاَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ",
+        "turkish_text": "Ve onlara, “Gelin, Allah'ın Resûl'ü sizin için bağışlanma dilesin.” dendiği zaman; tersleyerek, büyüklük taslayıp, çekip gittiklerini görürsün.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَوَٓاءٌ عَلَيْهِمْ اَسْتَغْفَرْتَ لَهُمْ اَمْ لَمْ تَسْتَغْفِرْ لَهُمْۜ لَنْ يَغْفِرَ اللّٰهُ لَهُمْۜ اِنَّ اللّٰهَ لَا يَهْدِي الْقَوْمَ الْفَاسِق۪ينَ",
+        "turkish_text": "Zaten onlar için bağışlanma dilesen de dilemesen de fark etmez. Allah, onları asla bağışlamayacaktır. Çünkü Allah, böyle fâsık halkı asla doğru yola iletmez.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هُمُ الَّذ۪ينَ يَقُولُونَ لَا تُنْفِقُوا عَلٰى مَنْ عِنْدَ رَسُولِ اللّٰهِ حَتّٰى يَنْفَضُّواۜ وَلِلّٰهِ خَزَٓائِنُ السَّمٰوَاتِ وَالْاَرْضِ وَلٰكِنَّ الْمُنَافِق۪ينَ لَا يَفْقَهُونَ",
+        "turkish_text": "Onlar, Allah'ın Resûl'ünün yanında bulunanlara, “Yardım etmeyin ki, dağılıp gitsinler.” diyenlerdir. Oysa göklerin ve yeryüzünün bütün hazineleri Allah'ındır. Ancak, münâfıklar, bu gerçeği kavrayamıyorlar.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَقُولُونَ لَئِنْ رَجَعْنَٓا اِلَى الْمَد۪ينَةِ لَيُخْرِجَنَّ الْاَعَزُّ مِنْهَا الْاَذَلَّۜ وَلِلّٰهِ الْعِزَّةُ وَلِرَسُولِه۪ وَلِلْمُؤْمِن۪ينَ وَلٰكِنَّ الْمُنَافِق۪ينَ لَا يَعْلَمُونَ۟",
+        "turkish_text": "“Eğer Medine'ye dönecek olursak, mutlaka daha güçlü olan, güçsüz olanı, oradan sürüp çıkarır.” diyorlar. Oysa izzet;(1) Allah'ın, O'nun Resûl'ünün ve inananlarındır. Fakat münâfıklar bu gerçeği bilmiyorlar.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yüksek onur, şeref, büyük itibar, yücelik, saygınlık, üstünlük, güç."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تُلْهِكُمْ اَمْوَالُكُمْ وَلَٓا اَوْلَادُكُمْ عَنْ ذِكْرِ اللّٰهِۚ وَمَنْ يَفْعَلْ ذٰلِكَ فَاُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+        "turkish_text": "Ey Îmân Edenler! Mallarınız ve çocuklarınız, sizi, Allah'ın öğütlerini dinlemekten alıkoymasın. Kimler bunu yaparsa, bilsinler ki asıl kaybedenler onlardır.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ اَنْ يَأْتِيَ اَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَٓا اَخَّرْتَـن۪ٓي اِلٰٓى اَجَلٍ قَر۪يبٍۙ فَاَصَّدَّقَ وَاَكُنْ مِنَ الصَّالِح۪ينَ",
+        "turkish_text": "Herhangi birinize ölüm gelip çatıp da “Rabb'im! Ölümümü yakın bir zamana kadar ertelesen de böylece ben de sadaka(1) versem ve iyilerden olsam.” demezden önce, size rızık olarak verdiklerimizden karşılıksız yardımda bulunun.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 57:18. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَنْ يُؤَخِّرَ اللّٰهُ نَفْساً اِذَا جَٓاءَ اَجَلُهَاۜ وَاللّٰهُ خَب۪يرٌ بِمَا تَعْمَلُونَ",
+        "turkish_text": "Allah, süresinin sonu gelmiş hiç kimseyi asla ertelemez. Allah, yaptığınız her şeyden haberdardır.",
+        "index_number": 11,
+        "deep_notes": []
+      }
+    ]
+  }
+}

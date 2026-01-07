@@ -1,0 +1,299 @@
+{
+  "data": {
+    "index_number": 72,
+    "name_arabic": "الجن",
+    "name_turkish": "Cinn",
+    "description": "Adını 1. âyette geçen “El-Cinn/yabancı, tanınmayan” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 40,
+    "verse_count": 29,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ اُو۫حِيَ اِلَيَّ اَنَّهُ اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ فَقَالُٓوا اِنَّا سَمِعْنَا قُرْاٰناً عَجَباًۙ",
+        "turkish_text": "De ki: “Bana, cinlerden(1) bir topluluğun dinledikten sonra gidip; biz gerçekten hayranlık uyandıran bir kur'an(2) dinledik, dedikleri, vahyolundu.”",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Tanımadığımız birtakım insanlar. “Cinn, Can kelimesinin çoğuludur. Kelime anlamı, “kapalı, gözükmez varlık, güç ve duyulardan saklanan demektir. Cinn kelimesi mastar olarak, “örtmek, görünmez hale getirmek” demektir. İnsanın yaşam kaynağı görünmediği için ona da “can” denmektedir. Cinnet, mecnûn, cennet, cenin kelimeleri bu köktendir. Aklın örtülmesine cinnet; ağaçlarla, yeşilliklerle örtülmüş toprak parçasına cennet; rahmin örtüğüne cenin, akıl hastası olana (aklı örtülmüş olduğu için) mecnûn denemesi, bunların örtünerek görünmez hale gelmiş olmalarındandır. Kur'an, cinn kelimesini, ontolojik varlık olan ve dumansız ateşten yaratılan “cinn” için kullanmanın yanı sıra, “yabancı olan, yabancı yerleşim yerlerinde yaşayan, görme alanımızın dışında kalan insanların tamamı” kast etmek için de kullanmaktadır (Bkz.46:29). Kur'an, Câhiliye'nin cinn algısını sapkınlık olarak nitelemektedir ve Câhiliye'nin cinlere atfettikleri nitelikleri reddetmektedir. Kur'an'a göre; cinlerin, üstün varlıklar ve üstün güçlere sahip olduğu inancı, Câhili bir inançtır. Müşriklerin; Muhammed Nebi'ye kâhin, şair, mecnûn lakabı takmaları, onların cinn inançlarının bir sonucudur. Ontolojik varlık olan cinlerin insanlarla ilişkiye girmeleri söz konusu değildir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Hitâp, söylev, kelam."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَهْد۪ٓي اِلَى الرُّشْدِ فَاٰمَنَّا بِه۪ۜ وَلَنْ نُشْرِكَ بِرَبِّنَٓا اَحَداًۙ",
+        "turkish_text": "“Her konuda doğru yola iletiyor; ona îmân ettik. Artık kesinlikle Rabb'imize hiçbir şeyi ortak koşmayacağız.”",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّهُ تَعَالٰى جَدُّ رَبِّنَا مَا اتَّخَذَ صَاحِبَةً وَلَا وَلَداًۙ",
+        "turkish_text": "“Rabb'imizin şanı çok yücedir. O, asla eş ve çocuk edinmemiştir.”",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّهُ كَانَ يَقُولُ سَف۪يهُنَا عَلَى اللّٰهِ شَطَطاًۙ",
+        "turkish_text": "“Meğer bizim “beyinsiz,(1)” Allah hakkında saçma şeyler söylüyormuş.”",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Öncümüz, önderimiz."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنَّا ظَنَنَّٓا اَنْ لَنْ تَقُولَ الْاِنْسُ وَالْجِنُّ عَلَى اللّٰهِ كَذِباًۙ",
+        "turkish_text": "“Doğrusu biz insin ve cinnin(1) Allah'a karşı asla yalan söylemeyeceklerine inanıyorduk.”",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 51:56. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنَّهُ كَانَ رِجَالٌ مِنَ الْاِنْسِ يَعُوذُونَ بِرِجَالٍ مِنَ الْجِنِّ فَزَادُوهُمْ رَهَقاًۙ",
+        "turkish_text": "Gerçekten de insten(1) bazı adamlar, cinden(2) bazı adamlara(3) sığınıyorlardı. Böylece onların(4) azgınlıklarını, beyinsizliklerini artırıyorlardı.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Tanıdık kimselerden."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Tanımadığımız yabancı kimselere."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- “Adamlar” kelimesi de aslında cinn kelimesi ile kast edilen şeyin, “insanlar” olduğunu açıkça ifade etmektedir"
+          },
+          {
+            "key_word": "4",
+            "index_number": 4,
+            "note": "4- Yabancı kimselerin."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنَّهُمْ ظَنُّوا كَمَا ظَنَنْتُمْ اَنْ لَنْ يَبْعَثَ اللّٰهُ اَحَداًۙ",
+        "turkish_text": "Gerçekten de onlar sizin sandığınız gibi, Allah'ın hiç kimseyi diriltmeyeceğini sanmışlardı.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّا لَمَسْنَا السَّمَٓاءَ فَوَجَدْنَاهَا مُلِئَتْ حَرَساً شَد۪يداً وَشُهُباًۙ",
+        "turkish_text": "“Gerçekten de biz göğe erişmek istedik, fakat onun zorlu bekçiler ve ışınlarla doldurulmuş olduğunu gördük.”",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَاعِدَ لِلسَّمْعِۜ فَمَنْ يَسْتَمِعِ الْاٰنَ يَجِدْ لَهُ شِهَاباً رَصَداًۙ",
+        "turkish_text": "“Biz, dinlemek için oturma yerlerine otururduk. Fakat şimdi kim dinlemek isterse, kendisini gözetleyen bir ışın buluyor.”",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّا لَا نَدْر۪ٓي اَشَرٌّ اُر۪يدَ بِمَنْ فِي الْاَرْضِ اَمْ اَرَادَ بِهِمْ رَبُّهُمْ رَشَداًۙ",
+        "turkish_text": "“Gerçekten bilmiyoruz. Yeryüzünde olan kimselere kötülük mü istendi yoksa Rabb'leri onlara bir iyilik mi istedi bilmiyoruz.”",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّا مِنَّا الصَّالِحُونَ وَمِنَّا دُونَ ذٰلِكَۜ كُنَّا طَرَٓائِقَ قِدَداًۙ",
+        "turkish_text": "“Doğrusu bir kısmımız sâlihlerdeniz, bir kısmımız da bunun dışındadır. Biz, ayrı ayrı yollar tuttuk.”",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّا ظَنَنَّٓا اَنْ لَنْ نُعْجِزَ اللّٰهَ فِي الْاَرْضِ وَلَنْ نُعْجِزَهُ هَرَباًۙ",
+        "turkish_text": "“Doğrusu biz, yeryüzünde Allah'ı asla aciz bırakamayacağımızı; kaçmakla da O'ndan asla kurtulamayacağımızı anladık.”",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّا لَمَّا سَمِعْنَا الْهُدٰٓى اٰمَنَّا بِه۪ۜ فَمَنْ يُؤْمِنْ بِرَبِّه۪ فَلَا يَخَافُ بَخْساً وَلَا رَهَقاًۙ",
+        "turkish_text": "“Yol gösteren rehberi(1) dinlediğimizde ona inandık. Artık kim Rabb'ine îmân ederse, bundan sonra hakkının verilmemesinden veya haksızlığa uğramaktan endişe etmez.”",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'ı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنَّا مِنَّا الْمُسْلِمُونَ وَمِنَّا الْقَاسِطُونَۜ فَمَنْ اَسْلَمَ فَاُو۬لٰٓئِكَ تَحَرَّوْا رَشَداً",
+        "turkish_text": "“Bizden, Allah'a teslim olanlar da var, asilik edip kendilerine haksızlık yapanlar da. Allah'a teslim olanlar, gerçeği arayanlardır.”",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَمَّا الْقَاسِطُونَ فَكَانُوا لِجَهَنَّمَ حَطَباًۙ",
+        "turkish_text": "Asilik edip kendilerine haksızlık yapanlar, işte onlar Cehennem'e odun oldular.",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنْ لَوِ اسْتَقَامُوا عَلَى الطَّر۪يقَةِ لَاَسْقَيْنَاهُمْ مَٓاءً غَدَقاًۙ",
+        "turkish_text": "Eğer onlar, yolda(1) dosdoğru gitselerdi, onları kesinlikle bol su(2) ile sulardık ki;",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hakk yol, doğru yol."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bolluk, nimet, bereket verirdik."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لِنَفْتِنَهُمْ ف۪يهِۚ وَمَنْ يُعْرِضْ عَنْ ذِكْرِ رَبِّه۪ يَسْلُكْهُ عَذَاباً صَعَداًۙ",
+        "turkish_text": "Onları bu nimetlerle sınardık. Kim Rabb'inin öğüdünden yüz çevirirse, O da onu çok şiddetli bir azâba uğratır.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَنَّ الْمَسَاجِدَ لِلّٰهِ فَلَا تَدْعُوا مَعَ اللّٰهِ اَحَداًۙ",
+        "turkish_text": "Mescitler Allah içindir. O halde Allah'ın yanı sıra başka bir kimseye çağrıda bulunmayın.(1)",
+        "index_number": 18,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İbadet ederken Allah'tan başkasının adının anılması; başkasından destek ve yardım istenmesi kesinlikle doğru değildir. Kendisinden bir şey istenilen kimse Nebi Muhammed de olsa, bu Allah'ın yanı sıra başkasına çağrıda bulunmak olur ki bu da açıkça “şirk koşmak” olur."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَنَّهُ لَمَّا قَامَ عَبْدُ اللّٰهِ يَدْعُوهُ كَادُوا يَكُونُونَ عَلَيْهِ لِبَداًۜ۟",
+        "turkish_text": "O Allah'ın kulu,(1) O'na çağrıda bulunmaya kalktığı zaman, neredeyse çevresinde keçe gibi oluyorlardı.(2)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Nebi Muhammed."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Müşrikler çevresini sarıyorlardı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قُلْ اِنَّمَٓا اَدْعُوا رَبّ۪ي وَلَٓا اُشْرِكُ بِه۪ٓ اَحَداً",
+        "turkish_text": "De ki: “Ben yalnızca Rabb'ime dûa ederim ve hiçbir şeyi O'na şirk koşmam.”",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ اِنّ۪ي لَٓا اَمْلِكُ لَكُمْ ضَراًّ وَلَا رَشَداً",
+        "turkish_text": "De ki: “Ben, size bir zarar verme(1) ve sizi irşad(2) etme gücüne sahip değilim.”",
+        "index_number": 21,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sizi doğru yoldan çıkarma."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Sizi doğru yola iletme. Ben yalnızca çağrıcıyım."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قُلْ اِنّ۪ي لَنْ يُج۪يرَن۪ي مِنَ اللّٰهِ اَحَدٌ وَلَنْ اَجِدَ مِنْ دُونِه۪ مُلْتَحَداًۙ",
+        "turkish_text": "De ki: “Beni, Allah'a karşı hiç kimse koruyamaz ve ben asla O'ndan başka sığınacak bir yer bulamam.”",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِلَّا بَلَاغاً مِنَ اللّٰهِ وَرِسَالَاتِه۪ۜ وَمَنْ يَعْصِ اللّٰهَ وَرَسُولَهُ فَاِنَّ لَهُ نَارَ جَهَنَّمَ خَالِد۪ينَ ف۪يهَٓا اَبَداًۜ",
+        "turkish_text": "“Bana düşen sadece Allah'tan aldığım vahyi size duyurmak ve gönderileni iletmektir. Kim Allah'a ve O'nun Resûl'üne(1) karşı gelirse, bilsin ki onun için kesintisiz olarak sürekli içinde kalacağı Cehennem ateşi vardır.”",
+        "index_number": 23,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İslâm dininin “atalar” ve “rivayetler” dinine dönüştürülmesi, büyük oranda “Allah'a ve Resûl'üne itaat” etmeyi buyuran âyetlerdeki “Resûl'e itaat etmeye”, “Peygambere, yani sünnete ve hadise itaat etmek” anlamı verilerek yapılmıştır. Bu anlam kesinlikle büyük bir yanılgıdır. Kur'an'da peygamber kelimesi geçmez. Peygamber, Farsça bir kelimedir. Kur'an'da Resûl ve Nebi kelimeleri ayrı ayrı geçmektedir. Kur'an'da Nebi'ye itaat etmeyi buyuran âyet yoktur. Yalnızca Resûl'e itaat etmek vardır. Çünkü Resûl'e itaat etmeyle kast edilen şey, Resûlün bize ilettiği âyetlere itaat etmektir. Dolayısı ile Resûl'e itaat etmek demek, aslında Allah'a itaat etmek demektir. Resûl'e tâbi olmak demek, Allah'a yani vahye tâbi olmak demektir. “Kur'an, Allah'ın kelamı, Resûl'ün beyanıdır/sözüdür.” Diğer bir ifade ile Resûl'ün sözleri “âyettir”, Nebi'nin sözleri ise “şahsidir” ve Nebi'nin şahsına aittir. Resûl'ün söyledikleri ise şahsına ait olmayıp Allah'a aittir. (69:40) Resûl, hatasızdır. Nebi'nin yanıldığı olmuştur. Resûl ilâhi koruma altındadır. Resûl'e itiraz etmek, Allah'a itiraz etmektir. Ama Nebi'ye itiraz edilebilir, nitekim sahabe zaman zaman bunu yapmıştır. Allah'a itaatin emredildiği âyetlerde, bir terkip olarak Resûl'e de itaat emredilmektedir. Aslında bu itaat, Resûl'ün şahsına değil, onun vahiy olan sözlerine itaat etmektir ve bu Allah'a itaat etmek anlamına gelmektedir. Yani “Allah ve Resûl'ü” terkibi, iki ayrı şey değil, yalnızca Allah'ı kast eden bir terkiptir. Bu terkipte yer alan “ve” edatı, “atf-ı beyan” olarak kendinden önceki kelimeyi kendinden sonraki kelime ile açıklama görevi yapmaktadır. Bu kurala göre Allah ve Resûl'üne itaat etmek demek, anlam olarak yalnızca “Allah'a, vahye itaat etmek” demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "حَتّٰٓى اِذَا رَاَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ اَضْعَفُ نَاصِراً وَاَقَلُّ عَدَداً",
+        "turkish_text": "Uyarıldıkları şeyi gördükleri zaman, kimin yardımcısının daha zayıf ve kimsesiz olduğunu bilecekler.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُلْ اِنْ اَدْر۪ٓي اَقَر۪يبٌ مَا تُوعَدُونَ اَمْ يَجْعَلُ لَهُ رَبّ۪ٓي اَمَداً",
+        "turkish_text": "De ki: “Uyarıldığınız şey yakın mıdır, yoksa Rabb'im onun için uzun bir süre mi belirlemiştir, bilmiyorum.”",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلٰى غَيْبِه۪ٓ اَحَداًۙ",
+        "turkish_text": "O, gaybı bilendir. Ve O, gaybını hiç kimseye bildirmez;",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِلَّا مَنِ ارْتَضٰى مِنْ رَسُولٍ فَاِنَّهُ يَسْلُكُ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِه۪ رَصَداًۙ",
+        "turkish_text": "Resûllerden razı oldukları hariç.(1) O, onların her tarafından gözetleyiciler gönderir;(2)",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Onlara, kullarına iletilmek üzere bazı gaybi bilgileri verir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Onlar, her taraftan koruma altına alınmıştır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لِيَعْلَمَ اَنْ قَدْ اَبْلَغُوا رِسَالَاتِ رَبِّهِمْ وَاَحَاطَ بِمَا لَدَيْهِمْ وَاَحْصٰى كُلَّ شَيْءٍ عَدَداً",
+        "turkish_text": "Rabb'lerinin mesajlarını tebliğ ettiklerini bilmek için.(1) Yanlarında olanları kuşatmış ve her şeyi kayıt altına almıştır.",
+        "index_number": 28,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Vahyin hiçbir değişikliğe uğramaksızın olduğu gibi tebliğ edildiğini ortaya koymak için."
+          }
+        ]
+      }
+    ]
+  }
+}

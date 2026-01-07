@@ -1,0 +1,270 @@
+{
+  "data": {
+    "index_number": 81,
+    "name_arabic": "التكوير",
+    "name_turkish": "Tekvîr",
+    "description": "Adını 1. âyetteki “Kuvvirat/ köreltildi” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 7,
+    "verse_count": 30,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذَا الشَّمْسُ كُـوِّرَتْۙۖ",
+        "turkish_text": "Güneş köreltildiği zaman(1),",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Işığı karartıldığı zaman."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا النُّجُومُ انْكَدَرَتْۙۖ",
+        "turkish_text": "Yıldızlar bulanıklaştığı zaman,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْجِبَالُ سُيِّرَتْۙۖ",
+        "turkish_text": "Dağlar yürütüldüğü zaman,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْعِشَارُ عُطِّلَتْۙۖ",
+        "turkish_text": "Gebe develer başıboş bırakıldığı(1) zaman,",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hiçbir malın öneminin kalmadığı zaman."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا الْوُحُوشُ حُشِرَتْۙۖ",
+        "turkish_text": "Vahşi hayvanlar bir araya toplandıkları zaman,(1)",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Korkularından bir araya geldiklerinde."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا الْبِحَارُ سُجِّرَتْۙۖ",
+        "turkish_text": "Denizler kaynatıldığı zaman,",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا النُّفُوسُ زُوِّجَتْۙۖ",
+        "turkish_text": "Nefisler eşleştirildiği(1) zaman,",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnsanlar inançlarına göre gruplara ayrıldığı zaman. İnsanlar yaptıkları ile yüzleştikleri zaman. Ölü, yeniden diriltildiği zaman."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا الْمَوْءُ۫دَةُ سُئِلَتْۙ",
+        "turkish_text": "O diri diri toprağa gömülen kıza sorulduğu zaman;",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "بِاَيِّ ذَنْبٍ قُتِلَتْۚ",
+        "turkish_text": "Hangi suçtan dolayı öldürüldüğü!",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الصُّحُفُ نُشِرَتْۙۖ",
+        "turkish_text": "Defterler açıldığı zaman,",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا السَّمَٓاءُ كُشِطَتْۙۖ",
+        "turkish_text": "Gök soyulduğu(1) zaman,",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Tıpkı bir gövdeden derisinin soyulması gibi. Tıpkı bir perde gibi açıldığı, ortadan kalktığı zaman."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِذَا الْجَح۪يمُ سُعِّرَتْۙۖ",
+        "turkish_text": "Cehennem kızıştırıldığı zaman,",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۙۖ",
+        "turkish_text": "Cennet yaklaştırıldığı zaman,",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلِمَتْ نَفْسٌ مَٓا اَحْضَرَتْۜ",
+        "turkish_text": "İnsan, kendisi ile ne getirdiğini görecektir.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَلَٓا اُقْسِمُ بِالْخُنَّسِۙ",
+        "turkish_text": "Hayır, ant olsun sinenlere,(1)",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gündüz kaybolan yıldızlara."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلْجَوَارِ الْكُنَّسِۙ",
+        "turkish_text": "Yörüngesinde dönenlere,",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+        "turkish_text": "Kararmaya başladığı an geceye,",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+        "turkish_text": "Soluk almaya başladığı zaman sabaha ant olsun ki,",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُ لَقَوْلُ رَسُولٍ كَر۪يمٍۙ",
+        "turkish_text": "Kuşkusuz o(1) çok şerefli bir resûl sözüdür;(2)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Vahiy/Kur'an."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- “Elçi sözü,” elçilik yapanın kendisine ait sözler değildir. Onu elçi olarak gönderene ait sözlerdir. Söz konusu elçi, Muhammed Nebi'dir. Elçinin “Cebrail” olduğu şeklindeki ifadeler doğru değildir. “Elçi sözü” ile kastedilen de vahiydir. Resûl'ün sözleri vahiydir, Nebi'nin sözleri ise “hadistir.”"
+          }
+        ]
+      },
+      {
+        "arabic_text": "ذ۪ي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَك۪ينٍۙ",
+        "turkish_text": "Güç sahibi, arşın sahibi yanında itibarlıdır.",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مُطَاعٍ ثَمَّ اَم۪ينٍۜ",
+        "turkish_text": "Kendisine itaat edilen, orada güvenilendir.",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍۚ",
+        "turkish_text": "Arkadaşınız mecnûn(1) değildir.",
+        "index_number": 22,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Cinlenmiş. Aklını kaybetmiş."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُب۪ينِۚ",
+        "turkish_text": "Ant olsun o, onu açık ufukta gördü.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَن۪ينٍۚ",
+        "turkish_text": "O vahyi gizlemez.(1)",
+        "index_number": 24,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kelimesi kelimesine: “O vahiy hakkında cimri değildir.” O, kimsenin duymadığı, görmediği, bilmediği yolla kendisine vahyolunanı, olduğu gibi muhatabına iletir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَج۪يمٍۚ",
+        "turkish_text": "O, taşlanmış şeytânın sözü değildir.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَيْنَ تَذْهَبُونَۜ",
+        "turkish_text": "O halde nereye gidiyorsunuz?(1)",
+        "index_number": 26,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Nebi ve vahiy hakkında nasıl bu kadar yanlış düşünüyorsunuz?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنْ هُوَ اِلَّا ذِكْرٌ لِلْعَالَم۪ينَۙ",
+        "turkish_text": "O âlemler için zikirden(1) başka bir şey değildir.",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Öğütten, hatırlatmaktan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لِمَنْ شَٓاءَ مِنْكُمْ اَنْ يَسْتَق۪يمَ",
+        "turkish_text": "Sizden doğru yoldan gitmek isteyenler için.",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا تَشَٓاؤُ۫نَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ رَبُّ الْعَالَم۪ينَ",
+        "turkish_text": "Âlemlerin Rabb'i Allah dilemedikçe(1) siz dileyemezsiniz.",
+        "index_number": 29,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah sizi doğru yolu tercih etmek zorunda bırakmadıkça, kendiliğinizden doğru yola girmezsiniz. Hidâyet ve dalalet konusu, insanın dilemesiyle ilgilidir. Allah, hiç kimseyi hak etmedikçe ne zorla hidâyete iletir ne de dalalete düşürür. Îmân ve inkâr konusunda sorumluluk bütünüyle insana aittir. Allah, insana dilediğini seçme hakkı tanımamış olsaydı, hiç kimse dilediğini seçemezdi. Allah, doğru yola iletilmek isteyeni doğru yola iletir; sapkınlıkta kalmak isteyeni de sapkınlıkta bırakır. Bu bağlamda Allah'ın dilemesi, kulunun dilemesine bağlıdır. Diğer bir deyimle Allah, kulunun seçimine müdahale edecek olsa, kul dilediğini yapamaz. Ne var ki kul, Allah tarafından dilediğini seçme sınavı ile baş başa bırakılmıştır. Eğer seçimi Allah yapıyor olsa bir sınavdan söz edilemez."
+          }
+        ]
+      }
+    ]
+  }
+}

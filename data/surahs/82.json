@@ -1,0 +1,174 @@
+{
+  "data": {
+    "index_number": 82,
+    "name_arabic": "الإنفطار",
+    "name_turkish": "İnfitâr",
+    "description": "Adını 1. âyetteki “İnfatarat” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 82,
+    "verse_count": 20,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذَا السَّمَٓاءُ انْفَطَرَتْۙ",
+        "turkish_text": "Göğün yasaları yeniden belirlendiği zaman,",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْـكَوَاكِبُ انْتَثَرَتْۙ",
+        "turkish_text": "Yıldızlar dağıldığı zaman,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْبِحَارُ فُجِّرَتْۙ",
+        "turkish_text": "Denizler kabarıp taştığı zaman,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا الْقُبُورُ بُعْثِرَتْۙ",
+        "turkish_text": "Kabirler alt üst edildiği zaman,",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَاَخَّرَتْۜ",
+        "turkish_text": "Herkes yaptığını ve yapmadığını bilecek.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا الْاِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْـكَر۪يمِۙ",
+        "turkish_text": "Ey insân! Kerim(1) olan Rabb'ine karşı seni aldatan nedir?",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şerefli. Cömert."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي خَلَقَكَ فَسَوّٰيكَ فَعَدَلَكَۙ",
+        "turkish_text": "Seni yarattı, sonra sana şekil verdi, organlarını uyumlu ve dengeli yaptı.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ٓي اَيِّ صُورَةٍ مَا شَٓاءَ رَكَّبَكَۜ",
+        "turkish_text": "Seni dilediği şekilde düzenledi.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا بَلْ تُكَذِّبُونَ بِالدّ۪ينِۙ",
+        "turkish_text": "Hayır! Bilakis, siz dini(1) yalanlıyorsunuz!",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap vermeyi. Yargılanmayı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنَّ عَلَيْكُمْ لَحَافِظ۪ينَۙ",
+        "turkish_text": "Sizin üzerinizde kesinlikle kaydediciler var,",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كِرَاماً كَاتِب۪ينَۙ",
+        "turkish_text": "Şerefli yazıcılar.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+        "turkish_text": "Yaptığınız her şeyi bilirler.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الْاَبْرَارَ لَف۪ي نَع۪يمٍۚ",
+        "turkish_text": "Birr(1) olanlar nimet(2) içindedirler.",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İyi, yararlı ve doğru olan her şey, bütün iyilikler, bağışlamak, sadakat, samimiyet, doğruluk, adalet, gerçeklik, erdem, gönül."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Cennet."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنَّ الْفُجَّارَ لَف۪ي جَح۪يمٍۚ",
+        "turkish_text": "Facirler(1) Cehennem'dedirler.",
+        "index_number": 14,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kötü, bozguncu, samimiyetsiz, yalancı, hak hukuk tanımaz, düzenbaz, zâlim; din diyânet tanımayan, dinin sınırlarını çiğneyerek onun dışına çıkmak demektir. Facir Birr'in zıt anlamlısıdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَصْلَوْنَهَا يَوْمَ الدّ۪ينِ",
+        "turkish_text": "Din Günü(1) ona yaslanırlar.",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap görme günü, yargı günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَا هُمْ عَنْهَا بِغَٓائِب۪ينَۜ",
+        "turkish_text": "Onlar, onda yanıp bitecek değillerdir.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الدّ۪ينِۙ",
+        "turkish_text": "Din Günü'nün ne olduğunu sen nereden bileceksin?",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ مَٓا اَدْرٰيكَ مَا يَوْمُ الدّ۪ينِۜ",
+        "turkish_text": "Evet, Din Günü'nün ne olduğunu sen nereden bileceksin?",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْـٔاًۜ وَالْاَمْرُ يَوْمَئِذٍ لِلّٰهِ",
+        "turkish_text": "O, kimsenin kimseye yardım etmeye gücünün yetmeyeceği bir gündür. O gün karar vermek bütünüyle Allah'a aittir.(1)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Âyetten de açıkça anlaşılmaktadır ki Kur'an, “şefaat” anlayışını ve inancını kesin olarak reddetmektedir. Kur'an'a göre, kesinlikle şefaat yoktur ve bu nedenle şefaatin varlığına inanan bir kimse Allah'a eş koşmuş olur."
+          }
+        ]
+      }
+    ]
+  }
+}

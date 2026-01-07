@@ -1,0 +1,665 @@
+{
+  "data": {
+    "index_number": 55,
+    "name_arabic": "الرحمن",
+    "name_turkish": "Rahmân",
+    "description": "Adını 1. âyetteki “Er-Rahmân/Rahmeti Bol” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 97,
+    "verse_count": 79,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلرَّحْمٰنُۙ",
+        "turkish_text": "Rahmân.(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Rahmeti Bol."
+          }
+        ]
+      },
+      {
+        "arabic_text": "عَلَّمَ الْقُرْاٰنَۜ",
+        "turkish_text": "Kur'an'ı öğretti.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "خَلَقَ الْاِنْسَانَۙ",
+        "turkish_text": "İnsanı yarattı.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلَّمَهُ الْبَيَانَ",
+        "turkish_text": "Ona beyanı(1) öğretti.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ona düşünmeyi ve düşündüklerini açıklamayı, ifade edebilmeyi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍۖ",
+        "turkish_text": "Güneş ve Ay hesap iledir.(1)",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bir yasaya bağlıdırlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+        "turkish_text": "Bitkiler(1) ve ağaçlar, ikisi de secde(2) ederler.",
+        "index_number": 6,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Veya yıldızlar. Necm, yıldız anlamının yanı sıra bitki anlamına da gelmektedir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Boyun eğerler, kendilerine konan yasalara göre varlıklarını sürdürürler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالسَّمَٓاءَ رَفَعَهَا وَوَضَعَ الْم۪يزَانَۙ",
+        "turkish_text": "Ve semâ; onu yükseltti. Ve ölçüyü(1) koydu.",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Düzen verdi. Dengeyi koydu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّا تَطْغَوْا فِي الْم۪يزَانِ",
+        "turkish_text": "Ölçüyü çiğnemeyin.(1)",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın koyduğu yasalara uygun davranın. O yasaları, düzeni bozmayın."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَق۪يمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْم۪يزَانَ",
+        "turkish_text": "Tartıyı hakkaniyetle(1) ayakta tutun.(2) Ölçüyü eksiltmeyin.(2)",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Haklıdan ve haktan yana olun."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Düzeni ve dengeyi adaletle koruyun. Allah'ın koyduğu yasaları bozmayın. Bu âyetlerde söz konusu edilen “terazi” tartı aleti olan terazi değildir. Yapı ustalarının daha çok kullandıkları “teraziye almak” deyimindeki terazidir. Bir şeyi yaparken; mesafesini, durması gereken yeri, düzeyini, düzgünlüğünü belirleme ölçüsüdür. Diğer bir deyimle dengeyi, düzeni ve düzgünlüğü belirleme işidir. Allah, evrene bir düzen, bir denge koymuştur; bu düzen ve dengenin korunması istenmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالْاَرْضَ وَضَعَهَا لِلْاَنَامِۙ",
+        "turkish_text": "Ve yeryüzü; onu yaratıklar(1) için alçalttı.(2)",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Canlılar."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Canlıların yaşamalarına uygun hale getirdi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ف۪يهَا فَاكِهَةٌۖ وَالنَّخْلُ ذَاتُ الْاَكْمَامِ",
+        "turkish_text": "Orada meyveler ve salkım salkım hurma ağaçları var.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْحَبُّ ذُوالْعَصْفِ وَالرَّيْحَانُۚ",
+        "turkish_text": "Yapraklı taneler ve güzel kokulu bitkiler var.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde ikiniz(1), Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Çoğul formu (sigası) yerine ikil (“kuma” zamiri) formunun kullanılması, Arapça'da anlamı kuvvetlendirmek içindir. Bir şeydeki bütünlüğü kapsayan bir ifade türüdür. Gökte yerde, baştan sona, büyük küçük yani her ne varsa, var olanın tamamı. Bu ikil zamirin insan-cinn toplumu, îmân-küfür, kadın-erkek anlamına geldiği şeklindeki anlamlandırmaların doğru olmadığı kanaatindeyiz. İkiniz kelimesini, insanlar ve cinler olarak çeviri konusu yapanlar, Kur'an'ın yalnızca insanı muhatap aldığını, Nebilerin de yalnız insanlar için elçilik yaptığını göz ardı etmektedirler. Kur'an, yalnız ve yalnız insan için bir hitap ve yol göstericidir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "خَلَقَ الْاِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِۙ",
+        "turkish_text": "İnsanı salsâlinden,(1) çömlek gibi pişmiş kuru çamurdan yarattı.",
+        "index_number": 14,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şıngırdayan, çın çın eden, tıkırdayan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَخَلَقَ الْجَٓانَّ مِنْ مَارِجٍ مِنْ نَارٍۚ",
+        "turkish_text": "Ve cinleri dumanı olmayan ateşten yarattı.",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِۚ",
+        "turkish_text": "İki doğunun ve iki batının Rabb'idir.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِۙ",
+        "turkish_text": "İki denizi birbirine kavuşmak üzere saldı.",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِۚ",
+        "turkish_text": "Aralarında bir engel var, birbirlerinin sınırını geçip karışmıyorlar.",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ۬ وَالْمَرْجَانُۚ",
+        "turkish_text": "İkisinden de inci ve mercan çıkar.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَهُ الْجَوَارِ الْمُنْشَاٰتُ فِي الْبَحْرِ كَالْاَعْلَامِۚ",
+        "turkish_text": "Denizde akıp giden, dağlar gibi yapılmış olan gemiler O'nundur.(1)",
+        "index_number": 24,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- O'nun koyduğu yasalara tâbidir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ۟",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كُلُّ مَنْ عَلَيْهَا فَانٍۚ",
+        "turkish_text": "Onun üzerindeki herkes yok olacaktır.",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيَبْقٰى وَجْهُ رَبِّكَ ذُوالْجَلَالِ وَالْاِكْرَامِۚ",
+        "turkish_text": "Kalıcı olan yalnız Celâl(1) ve İkrâm(2) Sahibi Rabb'inin kendisidir.",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İhtişam sahibi, muhteşem, ulu, yüce."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Şerefli, çok cömert."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَسْـَٔلُهُ مَنْ فِي السَّمٰوَاتِ وَالْاَرْضِۜ كُلَّ يَوْمٍ هُوَ ف۪ي شَأْنٍۚ",
+        "turkish_text": "Göklerde ve yerde olanlar, O'ndan isterler. O, her gün bir şan işindedir(1).",
+        "index_number": 29,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Her an, sürekli, bir oluş, sürekli yaratma işindedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَنَفْرُغُ لَكُمْ اَيُّهَ الثَّقَلَانِۚ",
+        "turkish_text": "Ey iki büyük grup! Yakında sizin hesabınıza bakacağız!",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَا مَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوا مِنْ اَقْطَارِ السَّمٰوَاتِ وَالْاَرْضِ فَانْفُذُواۜ لَا تَنْفُذُونَ اِلَّا بِسُلْطَانٍۚ",
+        "turkish_text": "Ey cin ve ins toplulukları!(1) Eğer göklerin ve yerin ötesine geçmeye güç yettirebilirseniz,(2) haydi geçin. Ancak aşma yetkisi verilmeden geçemezsiniz.",
+        "index_number": 33,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ey bütün insanlık; yerli yabancı, tanıdık tanımadık kim varsa, ey herkes!"
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bizden kurtulabileceğinizi sanıyorsanız, haydi kurtulun!"
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 34,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِۚ",
+        "turkish_text": "İkinizin üzerine ateşten bir alev ve duman gönderilir ve siz yardımlaşamazsınız.(1)",
+        "index_number": 35,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kurtulamazsınız."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاِذَا انْشَقَّتِ السَّمَٓاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِۚ",
+        "turkish_text": "Gök parçalanıp kırmızı gül renginde yağ eriyiğine dönüştüğü zaman;",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَيَوْمَئِذٍ لَا يُسْـَٔلُ عَنْ ذَنْبِه۪ٓ اِنْسٌ وَلَا جَٓانٌّۚ",
+        "turkish_text": "İşte O Gün(1), ins(2) ve cine(2) suçları sorulmaz.",
+        "index_number": 39,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap sorma günü, yalnızca Allah'ın belirlediği ilke ve kuralların geçerli olduğu gün."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bkz. 51:56. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 40,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يُعْرَفُ الْمُجْرِمُونَ بِس۪يمٰيهُمْ فَيُؤْخَذُ بِالنَّوَاص۪ي وَالْاَقْدَامِۚ",
+        "turkish_text": "Suçlular simalarından tanınır. Alınlarından ve ayaklarından yakalanırlar.(1)",
+        "index_number": 41,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu cümle Arapça'da “yaka paça kıskıvrak yakalamak” anlamında bir deyimdir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هٰذِه۪ جَهَنَّمُ الَّت۪ي يُكَذِّبُ بِهَا الْمُجْرِمُونَۢ",
+        "turkish_text": "İşte bu, suçluların yalanladığı Cehennem'dir.",
+        "index_number": 43,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَم۪يمٍ اٰنٍۚ",
+        "turkish_text": "Onunla kaynar su arasında dolaşır dururlar.",
+        "index_number": 44,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ۟",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 45,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلِمَنْ خَافَ مَقَامَ رَبِّه۪ جَنَّتَانِۚ",
+        "turkish_text": "Rabb'inin makamından korkanlar için iki Cennet vardır.",
+        "index_number": 46,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۙ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 47,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ذَوَاتَٓا اَفْنَانٍۚ",
+        "turkish_text": "İkisinin de çeşit çeşit ağaçları vardır.",
+        "index_number": 48,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 49,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهِمَا عَيْنَانِ تَجْرِيَانِۚ",
+        "turkish_text": "İkisinde de akıp giden iki pınar vardır.",
+        "index_number": 50,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 51,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِۚ",
+        "turkish_text": "İkisinde de her meyveden çift çift vardır.",
+        "index_number": 52,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 53,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مُتَّكِـ۪ٔينَ عَلٰى فُرُشٍ بَطَٓائِنُهَا مِنْ اِسْتَبْرَقٍۜ وَجَنَا الْجَنَّتَيْنِ دَانٍۚ",
+        "turkish_text": "Astarları kalın ipekten minderlere yaslanırlar. İki Cennet'in meyvesi alınabilecek yakınlıktadır.",
+        "index_number": 54,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 55,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهِنَّ قَاصِرَاتُ الطَّرْفِۙ لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَٓانٌّۚ",
+        "turkish_text": "Onlarda daha önce ins(1) ve cinnin(1) dokunmadığı, bakışlarını başkasından çekmiş eşler vardır.",
+        "index_number": 56,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 51:56. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 57,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَاَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُۚ",
+        "turkish_text": "Onlar, adeta yakut ve mercan gibidirler.",
+        "index_number": 58,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 59,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هَلْ جَزَٓاءُ الْاِحْسَانِ اِلَّا الْاِحْسَانُۚ",
+        "turkish_text": "İyiliğin karşılığı, iyilikten başka olabilir mi?",
+        "index_number": 60,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 61,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمِنْ دُونِهِمَا جَنَّتَانِۚ",
+        "turkish_text": "Bu ikisinden başka iki cennet(1) daha var.",
+        "index_number": 62,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bahçe."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۙ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 63,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مُدْهَٓامَّتَانِۚ",
+        "turkish_text": "İkisi de yemyeşildir.",
+        "index_number": 64,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 65,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهِمَا عَيْنَانِ نَضَّاخَتَانِۚ",
+        "turkish_text": "İkisinde de coşkun iki su kaynağı vardır.",
+        "index_number": 66,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 67,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌۚ",
+        "turkish_text": "İkisinde de meyve, hurma ve nar vardır.",
+        "index_number": 68,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 69,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪يهِنَّ خَيْرَاتٌ حِسَانٌۚ",
+        "turkish_text": "Onlarda(1) hayırlar ve iyilikler vardır.(2)",
+        "index_number": 70,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Cennetlerde, o iki Cennette. Bu sûrenin 46. ve daha birçok âyetinde iki Cennet olarak geçmektedir. “Hinne” çoğul zamirinin kullanılmış olması o iki Cennette bulunan şeylerin çokluğunu ve çeşitliliğini ifade etmektedir. Burada çoğul olan zamir, bu sûrenin 50. Ve 52. âyetlerinde ikil olarak kullanılmıştır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Ne bu sûrede ne de bu âyette doğrudan bir kez olsun kadın veya eş kelimesi geçmediği halde, âyet; çoğunlukla, “Orada iyi huylu güzel kadınlar vardır.” diye çevrilmektedir. Dilbilgisi kuralları çerçevesinde böyle anlam verilebilmesi de mümkün olmakla birlikte, bu daha çok “erkeklerin kadınlara bakışlarını dinleştirmesinden” kaynaklanan bir çeviridir. Âyette geçen “hisanun” kelimesi, “güzel” demek olmayıp, “iyi” demektir. Arapçada fizik güzelliği ifade eden kelime, “cemil” kelimesidir. Âyette; “eşler”, “kadınlar”, “güzel huylu”, “güzel kadınlar” kelimeleri yer almamaktadır. Bu kelimeler, “cinsiyetçi algının” yakıştırmalarıdır. Âyetin doğru anlamı, yukarıda verdiğimiz şekilde olmalıdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 71,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِۚ",
+        "turkish_text": "Çadırlarda korunaklı hûriler(1) vardır.",
+        "index_number": 72,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 52:20. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 73,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَمْ يَطْمِثْهُنَّ اِنْسٌ قَبْلَهُمْ وَلَا جَٓانٌّۚ",
+        "turkish_text": "Onlara daha önce ins ve cin1 dokunmadı.",
+        "index_number": 74,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 51:56. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِۚ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 75,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مُتَّكِـ۪ٔينَ عَلٰى رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍۚ",
+        "turkish_text": "En iyi döşeklerin üzerinde yeşil yastıklara yaslanırlar.",
+        "index_number": 76,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَبِاَيِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "turkish_text": "O halde siz ikiniz, Rabb'inizin hangi nimetlerini yalanlayabilirsiniz?",
+        "index_number": 77,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْاِكْرَامِ",
+        "turkish_text": "Celâl(1) ve İkrâm(2) Sahibi Olan Rabb'inin ismi ne yücedir.",
+        "index_number": 78,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İhtişam sahibi, muhteşem, ulu, yüce."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Şerefli, çok cömert."
+          }
+        ]
+      }
+    ]
+  }
+}

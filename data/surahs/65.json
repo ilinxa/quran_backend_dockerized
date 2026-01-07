@@ -1,0 +1,154 @@
+{
+  "data": {
+    "index_number": 65,
+    "name_arabic": "الطلاق",
+    "name_turkish": "Talâk",
+    "description": "Adını 1. âyetteki Talâk/boşanma konusundan almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 99,
+    "verse_count": 13,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيُّهَا النَّبِيُّ اِذَا طَلَّقْتُمُ النِّسَٓاءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَاَحْصُوا الْعِدَّةَۚ وَاتَّقُوا اللّٰهَ رَبَّكُمْۚ لَا تُخْرِجُوهُنَّ مِنْ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ اِلَّٓا اَنْ يَأْت۪ينَ بِفَاحِشَةٍ مُبَيِّنَةٍۜ وَتِلْكَ حُدُودُ اللّٰهِۜ وَمَنْ يَتَعَدَّ حُدُودَ اللّٰهِ فَقَدْ ظَلَمَ نَفْسَهُۜ لَا تَدْر۪ي لَعَلَّ اللّٰهَ يُحْدِثُ بَعْدَ ذٰلِكَ اَمْراً",
+        "turkish_text": "Ey Nebi! Kadınları boşayacağınız zaman, iddet(1) sürelerini gözeterek boşayın ve iddetlerini sayın. Rabb'iniz Allah'a karşı takvâ sahibi olun. Açıkça fahşâ(2) yapmadıkça onları evlerinden çıkarmayın; onlar da çıkmasınlar. Bunlar, Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa, kesinlikle kendisine haksızlık etmiş olur. Bilemezsin, olur ki Allah bundan sonra yeni bir hadis(3) ortaya çıkarır.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Boşanan kadının yeniden evlenebilmesi için beklemesi gereken süre. Bu süre üç iddet ve üç temizlik süresidir. Bu da üç ay demektir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Her türlü aşırılık. Edepsizlik, hayâsızlık."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Durum."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاِذَا بَلَغْنَ اَجَلَهُنَّ فَاَمْسِكُوهُنَّ بِمَعْرُوفٍ اَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَاَشْهِدُوا ذَوَيْ عَدْلٍ مِنْكُمْ وَاَق۪يمُوا الشَّهَادَةَ لِلّٰهِۜ ذٰلِكُمْ يُوعَظُ بِه۪ مَنْ كَانَ يُؤْمِنُ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِۜ وَمَنْ يَتَّقِ اللّٰهَ يَجْعَلْ لَهُ مَخْرَجاًۙ",
+        "turkish_text": "Bekleme süreleri tamamlandığında onları ma'rûfa(1) uygun olarak tutun veya ma'rûfa uygun olarak onlardan ayrılın. Ve sizden adalet sahibi iki kişi tanık olsun. Tanıklığı, Allah için yerine getirin. İşte Allah'a ve âhiret gününe îmân edenlere verilen öğüt budur. Kim Allah için takvâ sahibi olursa, Allah, ona bir çıkış yolu nasip eder.",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ma'rûf: İyi, doğru, yararlı, güzel olan, toplumsal değer yargılarına göre ve toplumsal uzlaşı ile doğru olduğu kabul edilen ve Vahye uygun olan demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُۜ وَمَنْ يَتَوَكَّلْ عَلَى اللّٰهِ فَهُوَ حَسْبُهُۜ اِنَّ اللّٰهَ بَالِغُ اَمْرِه۪ۜ قَدْ جَعَلَ اللّٰهُ لِكُلِّ شَيْءٍ قَدْراً",
+        "turkish_text": "Ve Allah, ona ummadığı yerden rızık verir. Kim Allah'a tevekkül(1) ederse, O, ona yeter. Kuşkusuz Allah, buyruğunu yerine getirir. Allah, her şey için bir ölçü belirlemiştir.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'a güvenmek, O'na dayanmak; kendi payına düşen her şeyi yaptıktan sonra sonucu Allah'a bırakmak."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالّٰٓئ۪ يَـئِسْنَ مِنَ الْمَح۪يضِ مِنْ نِسَٓائِكُمْ اِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلٰثَةُ اَشْهُرٍۙ وَالّٰٓئ۪ لَمْ يَحِضْنَۜ وَاُو۬لَاتُ الْاَحْمَالِ اَجَلُهُنَّ اَنْ يَضَعْنَ حَمْلَهُنَّۜ وَمَنْ يَتَّقِ اللّٰهَ يَجْعَلْ لَهُ مِنْ اَمْرِه۪ يُسْراً",
+        "turkish_text": "Kadınlarınızdan adet görmekten umudunu kesenler hakkında(1) kuşku duyarsanız, o zaman onların iddetleri(2) üç aydır. Ve adet görmeyenlerin de. Hamile kadınların bekleme süresi ise doğum yapıncaya kadardır. Kim Allah için takvâ sahibi olursa, Allah ona işinde kolaylık sağlar.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kimi çevirilerde, “adet görmeyenler” ifadesine, “henüz” kelimesi de ilave edilerek; “henüz adet görmeyenler,” yani “Yaşları itibarıyla çocuk oldukları için adet görmeyenler.” şeklinde yanlış anlam verilmektedir. Oysaki “adet görmeyenler” ifadesinin çocuk yaşta olmakla bir ilgisi yoktur. Adet görmeyenler ile kast edilen şey biyolojik sorunlar nedeniyle “ay hali” olamamaktır. Zira kimi kadınlar ya hiç ay hali olamamakta ya da düzensiz (uzun aralıklarla) olmakta veya belli bir yaştan sonra ay halinden kesilmektedirler. Zaten âyette kullanılan olumsuzluk edatı “henüz” anlamındaki “lemma” edatı değil, “kesin olumsuzluk” bildiren edat olan “lem” olumsuzluk edatıdır. Buna göre doğru anlam, “ay hali olamayanlar”dır. Bu âyetten hareketle küçük yaşta kız çocuğu ile evlenilmeyi uygun görme ahlâksızlığı Allah'a iftira atmaktır."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bekleme süreleri."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ذٰلِكَ اَمْرُ اللّٰهِ اَنْزَلَهُٓ اِلَيْكُمْۜ وَمَنْ يَتَّقِ اللّٰهَ يُكَفِّرْ عَنْهُ سَيِّـَٔاتِه۪ وَيُعْظِمْ لَـهُٓ اَجْراً",
+        "turkish_text": "İşte bu, Allah'ın size indirdiği buyruğudur. Kim Allah için takvâ sahibi olursa, onun kötülüklerine kafir(1) olur ve ona yüce, üstün bir ödül verir.",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kötülüklerini örter."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَسْكِنُوهُنَّ مِنْ حَيْثُ سَكَنْتُمْ مِنْ وُجْدِكُمْ وَلَا تُضَٓارُّوهُنَّ لِتُضَيِّقُوا عَلَيْهِنَّۜ وَاِنْ كُنَّ اُو۬لَاتِ حَمْلٍ فَاَنْفِقُوا عَلَيْهِنَّ حَتّٰى يَضَعْنَ حَمْلَهُنَّۚ فَاِنْ اَرْضَعْنَ لَكُمْ فَاٰتُوهُنَّ اُجُورَهُنَّۚ وَأْتَمِرُوا بَيْنَكُمْ بِمَعْرُوفٍۚ وَاِنْ تَعَاسَرْتُمْ فَسَتُرْضِعُ لَهُٓ اُخْرٰىۜ",
+        "turkish_text": "Oturduğunuz yerin bir bölümünde gücünüz yettiğince onları oturtun. Onları sıkıntıya sokmak için, zarar verecek bir şey yapmayın. Eğer hamile iseler, doğum yapıncaya kadar onlara karşılıksız yardımda bulunun. Sonra emzirirlerse ücretlerini verin. Aranızda konuşarak en iyi ve uygun olacak bir şekilde anlaşın. Eğer bir zorlukla karşılaşırsanız o zaman emzirme işini başkasına yaptırın.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِيُنْفِقْ ذُوسَعَةٍ مِنْ سَعَتِه۪ۜ وَمَنْ قُدِرَ عَلَيْهِ رِزْقُهُ فَلْيُنْفِقْ مِمَّٓا اٰتٰيهُ اللّٰهُۜ لَا يُكَلِّفُ اللّٰهُ نَفْساً اِلَّا مَٓا اٰتٰيهَاۜ سَيَجْعَلُ اللّٰهُ بَعْدَ عُسْرٍ يُسْراً۟",
+        "turkish_text": "Varlık sahibi olanlar, varlıklarına göre karşılıksız yardım etsinler. Durumu müsait olmayan da Allah ne verdiyse ondan versin. Allah, bir kimseyi, kendisine verdiğinden fazlasıyla sorumlu tutmaz. Allah, zorluğun ardından bir kolaylık verecektir.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكَاَيِّنْ مِنْ قَرْيَةٍ عَتَتْ عَنْ اَمْرِ رَبِّهَا وَرُسُلِه۪ فَحَاسَبْنَاهَا حِسَاباً شَد۪يداً وَعَذَّبْنَاهَا عَذَاباً نُكْراً",
+        "turkish_text": "Nice kasaba halkı, Rabb'lerinin buyruğuna ve O'nun Resûllerine başkaldırdılar da Biz de onları şiddetli bir hesaba çektik ve onları korkunç bir azâpla cezalandırdık.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَذَاقَتْ وَبَالَ اَمْرِهَا وَكَانَ عَاقِبَةُ اَمْرِهَا خُسْراً",
+        "turkish_text": "Böylece işinin vebâlini tattı. İşinin sonu da hüsran oldu.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَعَدَّ اللّٰهُ لَهُمْ عَذَاباً شَد۪يداً فَاتَّقُوا اللّٰهَ يَٓا اُو۬لِي الْاَلْبَابِۚۛ اَلَّذ۪ينَ اٰمَنُواۚۛ قَدْ اَنْزَلَ اللّٰهُ اِلَيْكُمْ ذِكْراًۙ",
+        "turkish_text": "Allah, onlara şiddetli bir azâp hazırladı. Ey Îmân Eden sağlıklı düşünen akıl sahipleri, Allah için takvâ sahibi olun. Allah, size zikri(1) indirmiştir.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Öğüdü, Hatırlatıcıyı, Kur'an'ı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "رَسُولاً يَتْلُوا عَلَيْكُمْ اٰيَاتِ اللّٰهِ مُبَيِّنَاتٍ لِيُخْرِجَ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنَ الظُّلُمَاتِ اِلَى النُّورِۜ وَمَنْ يُؤْمِنْ بِاللّٰهِ وَيَعْمَلْ صَالِحاً يُدْخِلْهُ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَٓا اَبَداًۜ قَدْ اَحْسَنَ اللّٰهُ لَهُ رِزْقاً",
+        "turkish_text": "Îmân eden ve sâlihâtı1 yapan kimseleri, karanlıklardan aydınlığa çıkarmak için, Allah'ın apaçık olan âyetlerini size okuyan bir Resûl gönderdi. Kim, Allah'a îmân eder ve sâlih(1) olanı yaparsa, Allah onu, içinden ırmaklar akan ve içinde kesintisiz olarak sürekli kalacakları Cennetlere koyar. Allah, onu en iyi şekilde rızıklandıracaktır.",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 64:9. âyetin 2. dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَللّٰهُ الَّذ۪ي خَلَقَ سَبْعَ سَمٰوَاتٍ وَمِنَ الْاَرْضِ مِثْلَهُنَّۜ يَتَنَزَّلُ الْاَمْرُ بَيْنَهُنَّ لِتَعْلَمُٓوا اَنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌۙ وَاَنَّ اللّٰهَ قَدْ اَحَاطَ بِكُلِّ شَيْءٍ عِلْماً",
+        "turkish_text": "Allah, yedi göğü ve benzer şekilde yeryüzünü yaratandır. Allah'ın her şeye gücünün yettiğini, Allah'ın bilgisinin her şeyi kuşattığını bilesiniz diye, buyruğu onlar arasında iner durur.(1)",
+        "index_number": 12,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'ın buyruğu yer ile gök üzerinde ortaya çıkmaktadır. (Tecelli etmektedir.) Onun yasaları, bütün varlıklar üzerinde egemenliğini sürdürmektedir."
+          }
+        ]
+      }
+    ]
+  }
+}

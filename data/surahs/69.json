@@ -1,0 +1,431 @@
+{
+  "data": {
+    "index_number": 69,
+    "name_arabic": "الحاقة",
+    "name_turkish": "Hâkka",
+    "description": "Adını 1. âyetteki “Hakka/ gerçekleşmesi kesin olan” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 78,
+    "verse_count": 53,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلْحَٓاقَّةُۙ",
+        "turkish_text": "Gerçekleşeceği kesin olan!(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kıyâmet günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مَا الْحَٓاقَّةُۚ",
+        "turkish_text": "Nedir gerçekleşeceği kesin olan?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا الْحَٓاقَّةُۜ",
+        "turkish_text": "Gerçekleşeceği kesin olanın ne olduğunu, nereden bileceksin?",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَذَّبَتْ ثَمُودُ وَعَادٌ بِالْقَارِعَةِ",
+        "turkish_text": "Semûd ve Âd halkı Kâria'yı(1) yalanladılar.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Dehşete düşürecek sarsıcı olayı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاَمَّا ثَمُودُ فَاُهْلِكُوا بِالطَّاغِيَةِ",
+        "turkish_text": "Bu nedenle Semûd halkı büyük bir yıkımla yok edildi.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَمَّا عَادٌ فَاُهْلِكُوا بِر۪يحٍ صَرْصَرٍ عَاتِيَةٍۙ",
+        "turkish_text": "Âd halkı ise kasıp kavuran, şiddetli bir fırtına ile yok edildi.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَثَمَانِيَةَ اَيَّامٍۙ حُسُوماً فَتَرَى الْقَوْمَ ف۪يهَا صَرْعٰىۙ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ خَاوِيَةٍۚ",
+        "turkish_text": "Onu, yedi gece ve sekiz gün; hiç ara vermeden üzerlerine musallat etti. Öyle ki, o halkı, orada kökünden sökülmüş hurma ağacı kütükleri gibi yere serilmiş görürsün.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَهَلْ تَرٰى لَهُمْ مِنْ بَاقِيَةٍ",
+        "turkish_text": "Artık onlara ait bir kalıntı görebiliyor musun?",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَٓاءَ فِرْعَوْنُ وَمَنْ قَبْلَهُ وَالْمُؤْتَفِكَاتُ بِالْخَاطِئَةِۚ",
+        "turkish_text": "Firavun, ondan öncekiler ve kentleri alt üst olanlar, o yanlış ile geldiler.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَعَصَوْا رَسُولَ رَبِّهِمْ فَاَخَذَهُمْ اَخْذَةً رَابِيَةً",
+        "turkish_text": "Onlar, Rabb'lerinin Resûl'üne karşı geldiler. Bunun üzerine onları şiddetli bir yakalayışla yakaladı.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّا لَمَّا طَغَا الْمَٓاءُ حَمَلْنَاكُمْ فِي الْجَارِيَةِۙ",
+        "turkish_text": "Suyun taştığı günde, sizi o akıp gidende Biz taşıdık.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَٓا اُذُنٌ وَاعِيَةٌ",
+        "turkish_text": "Onu sizin için bir öğüt yapalım, duyan kulaklar onu duysun diye.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاِذَا نُفِخَ فِي الصُّورِ نَفْخَةٌ وَاحِدَةٌۙ",
+        "turkish_text": "Artık Sûr'a bir tek üfleyişle üflendiği zaman,",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَحُمِلَتِ الْاَرْضُ وَالْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً",
+        "turkish_text": "Yeryüzü ve dağlar kaldırılıp, bir tek çarpışla parçalandığı zaman,",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَيَوْمَئِذٍ وَقَعَتِ الْوَاقِعَةُۙ",
+        "turkish_text": "şte O Gün(1) gerçekleşecek olan gerçekleşir.",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kıyâmet günü, hesap görme günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَانْشَقَّتِ السَّمَٓاءُ فَهِيَ يَوْمَئِذٍ وَاهِيَةٌۙ",
+        "turkish_text": "Gök yarılır. O Gün, o zayıftır artık.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْمَلَكُ عَلٰٓى اَرْجَٓائِهَاۜ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌۜ",
+        "turkish_text": "melek,(1) onun çevresi üzerindedir. O Gün Rabb'inin Arş'ını(2) yeni varlıklar(3) taşırlar.",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yaratıcının hizmetinde olan güç."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Allah'ın Arş'ına; nesne, yer, zaman vb. türden somut bir anlam vermek, Kur'an'ın Allah tanımına kesinlikle uygun değildir. Allah'ın her şeye egemen oluşunu ve buna benzer konuları anlatmak için bizim kullandığımız dilin kullanılmış olması bizi yanıltmamalıdır. Bu tür kelimeleri, kelimesi kelimesine anlamları ile anlamak doğru değildir. Rabb'in arşı, Allah'ın evrene mutlak egemenliğini, yönetmesini ifade etmektedir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Âyette yer alan “semâniyetun” kelimesine, kelimesi kelimesi anlamı olan sekiz anlamı verildiğinden; çevirilerde, sekiz sayısına ayrıca melek kelimesi de ilave edilerek “sekiz melek” olarak anlam verilmektedir. Oysaki bu kelimenin kök anlamı olan “semen”, bedel demektir. Bedel ise bir şeyin kendisi ile değiştirildiği değer demektir. Dolayısı ile âyette; Rabb'in Arş'ını, yok edilen varlıkların yerine, yeni varlıkların taşıyacağı ifade edilmektedir. (Semen/bedel için bak: 2: 41.)"
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَوْمَئِذٍ تُعْرَضُونَ لَا تَخْفٰى مِنْكُمْ خَافِيَةٌ",
+        "turkish_text": "O Gün, arz olunacaksınız.(1) Gizli saklı hiçbir şeyiniz kalmaz.",
+        "index_number": 18,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap vermek üzere Allah'ın huzuruna çıkarılacaksınız."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاَمَّا مَنْ اُو۫تِيَ كِتَابَهُ بِيَم۪ينِه۪ فَيَقُولُ هَٓاؤُ۬مُ اقْرَؤُ۫ا كِتَابِيَهْۚ",
+        "turkish_text": "Kitâbı sağından verilen(1) kimse: “Alın, kitâbımı okuyun.” der.",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu bir deyimdir. Araplarda sağ taraf deyimi, “uğur, mutluluk, sağlamlık ve kurtuluşu” ifade etmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنّ۪ي ظَنَنْتُ اَنّ۪ي مُلَاقٍ حِسَابِيَهْۚ",
+        "turkish_text": "Doğrusu ben, hesabımla karşılaşacağımı biliyordum.",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَهُوَ ف۪ي ع۪يشَةٍ رَاضِيَةٍۙ",
+        "turkish_text": "Artık o, hoşnut olacağı bir hayat yaşayacak.",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي جَنَّةٍ عَالِيَةٍۙ",
+        "turkish_text": "Mükemmel bir bahçede;",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُطُوفُهَا دَانِيَةٌ",
+        "turkish_text": "Olgunlaşmış meyveleri dallarından sarkmış bir haldedir.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كُلُوا وَاشْرَبُوا هَن۪ٓيـٔاً بِمَٓا اَسْلَفْتُمْ فِي الْاَيَّامِ الْخَالِيَةِ",
+        "turkish_text": "Dünyada yapmış olduğunuz şeylerin karşılığı olarak, afiyetle yiyin ve için.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَمَّا مَنْ اُو۫تِيَ كِتَابَهُ بِشِمَالِه۪ فَيَقُولُ يَا لَيْتَن۪ي لَمْ اُو۫تَ كِتَابِيَهْۚ",
+        "turkish_text": "Kitâbı solundan verilen(1) kimse ise: “Keşke bana kitâbım verilmeseydi.” de;",
+        "index_number": 25,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu Arapçada bir deyimdir. Sol, “üzüntü, bozukluk ve sıkıntıyı” ifade etmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَمْ اَدْرِ مَا حِسَابِيَهْۚ",
+        "turkish_text": "“Hesabımın ne olduğunu hiç bilmeseydim.” der.",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَۚ",
+        "turkish_text": "“Keşke o(1) bitmiş olsaydı.”",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ölümden sonra hayat olmamış olsaydı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مَٓا اَغْنٰى عَنّ۪ي مَالِيَهْۚ",
+        "turkish_text": "“Malım-gücüm bana hiçbir yarar sağlamadı.”",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هَلَكَ عَنّ۪ي سُلْطَانِيَهْۚ",
+        "turkish_text": "“Bütün saltanatım yok oldu.”",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "خُذُوهُ فَغُلُّوهُۙ",
+        "turkish_text": "“Onu tutun ve bağlayın.”",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ الْجَح۪يمَ صَلُّوهُۙ",
+        "turkish_text": "“Sonra onu Cehennem'e atın.”",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ ف۪ي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعاً فَاسْلُكُوهُۜ",
+        "turkish_text": "“Sonra onu yetmiş arşın uzunluğunda bir zincire bağlayın.”",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُ كَانَ لَا يُؤْمِنُ بِاللّٰهِ الْعَظ۪يمِۙ",
+        "turkish_text": "O, O Azîm(1) Allah'a inanmıyordu.(1)",
+        "index_number": 33,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yüce. Allah'ın tek ilâh olduğuna, buyruklarına, öğütlerine ve uyarılarına. (Müşrikler, Allah'ın varlığına ve yaratıcılığına inanıyorlardı.)"
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْك۪ينِۜ",
+        "turkish_text": "Miskinin yedirilmesini(1) teşvik etmiyordu.",
+        "index_number": 34,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Malında ve mülküne miskinin hakkı olan payı vermeyi istemiyordu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَلَيْسَ لَهُ الْيَوْمَ هٰهُنَا حَم۪يمٌۙ",
+        "turkish_text": "Artık bugün, onun burada hiçbir koruyucusu yoktur.",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا طَعَامٌ اِلَّا مِنْ غِسْل۪ينٍۙ",
+        "turkish_text": "Ve gislinden(1) başka bir yiyecekleri yoktur.",
+        "index_number": 36,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yiyeceğin en kötüsü, en pisi, en yutulamazı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "لَا يَأْكُلُهُٓ اِلَّا الْخَاطِؤُ۫نَ۟",
+        "turkish_text": "Onu, yanlışlarında ısrar edenlerden başkası yemez.",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَلَٓا اُقْسِمُ بِمَا تُبْصِرُونَۙ",
+        "turkish_text": "Hayır! Gördüğünüz şeylere yemin ederim;",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا لَا تُبْصِرُونَۙ",
+        "turkish_text": "Ve görmediklerinize.",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُ لَقَوْلُ رَسُولٍ كَر۪يمٍۚ",
+        "turkish_text": "Kuşkusuz o, şerefli bir Resûl'ün sözdür(1).",
+        "index_number": 40,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Resûl'ün Allah'tan aktardığı sözdür (Bkz. 69:44)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَا هُوَ بِقَوْلِ شَاعِرٍۜ قَل۪يلاً مَا تُـؤْمِنُونَۙ",
+        "turkish_text": "O, bir şâir sözü değildir. Amma da inançsızsınız!",
+        "index_number": 41,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا بِقَوْلِ كَاهِنٍۜ قَل۪يلاً مَا تَذَكَّرُونَۜ",
+        "turkish_text": "O, bir kâhin sözü de değildir. Hiç öğüt dinlemiyorsunuz!",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَنْز۪يلٌ مِنْ رَبِّ الْعَالَم۪ينَ",
+        "turkish_text": "Âlemlerin Rabb'inden indirilmedir.",
+        "index_number": 43,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْاَقَاو۪يلِۙ",
+        "turkish_text": "Eğer Biz'im adımıza bazı sözler uydurmuş olsaydı;",
+        "index_number": 44,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَاَخَذْنَا مِنْهُ بِالْيَم۪ينِۙ",
+        "turkish_text": "Elbette onun bütün gücünü alırdık.",
+        "index_number": 45,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَت۪ينَۘ",
+        "turkish_text": "Sonra kesinlikle can damarını koparırdık.",
+        "index_number": 46,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَا مِنْكُمْ مِنْ اَحَدٍ عَنْهُ حَاجِز۪ينَ",
+        "turkish_text": "Hiçbiriniz buna engel olamazdınız.",
+        "index_number": 47,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِنَّهُ لَتَذْكِرَةٌ لِلْمُتَّق۪ينَ",
+        "turkish_text": "O, takvâ sahipleri için bir öğüttür.",
+        "index_number": 48,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِنَّا لَنَعْلَمُ اَنَّ مِنْكُمْ مُكَذِّب۪ينَ",
+        "turkish_text": "Biz, sizden onu yalanlayıcıları çok iyi biliyoruz.",
+        "index_number": 49,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِنَّهُ لَحَسْرَةٌ عَلَى الْـكَافِر۪ينَ",
+        "turkish_text": "O, Kâfirler için derin bir pişmanlıktır.(1)",
+        "index_number": 50,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Vakti zamanında yalanladıkları için."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنَّهُ لَحَقُّ الْيَق۪ينِ",
+        "turkish_text": "O, kesinlikle gerçektir.",
+        "index_number": 51,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hakku'l Yakîn, mutlak ve kesin gerçek olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظ۪يمِ",
+        "turkish_text": "O halde Azîm Rabb'inin adını tesbih(1) et.",
+        "index_number": 52,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 59:1. âyetin dipnotu."
+          }
+        ]
+      }
+    ]
+  }
+}

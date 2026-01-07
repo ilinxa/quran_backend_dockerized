@@ -1,0 +1,268 @@
+{
+  "data": {
+    "index_number": 89,
+    "name_arabic": "الفجر",
+    "name_turkish": "Fecr",
+    "description": "Adını 1. âyetteki “Fecr/tan yerinin ağarması” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 10,
+    "verse_count": 31,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْفَجْرِۙ",
+        "turkish_text": "Fecre(1) ant olsun.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Tan yerinin ağarma zamanı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَيَالٍ عَشْرٍۙ",
+        "turkish_text": "On geceye,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالشَّفْعِ وَالْوَتْرِۙ",
+        "turkish_text": "Çift ve tek olana,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالَّيْلِ اِذَا يَسْرِۚ",
+        "turkish_text": "Geçip giden geceye.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هَلْ ف۪ي ذٰلِكَ قَسَمٌ لِذ۪ي حِجْرٍۜ",
+        "turkish_text": "İşte bunlarda aklını kullanan kimse(1) için bir kasem(2) yok mu?",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kelimesi kelimesine “Zî hicir.” Taş, kaya, yasak, duvar, set, anlayış, menetmek, engellemek anlamına gelen hicr kelimesi “Zî hicir” şeklinde tabir olarak özünü aslını bozmamış, kendisine hâkim olmayı bilen, taş gibi, kaya gibi sağlam irade sahibi anlamındadır. Taşta bir şeyin içinde yer alan koruyucu nitelik anlamı düşünüldüğünden akıl ve iradeye de “hicrun” denmiştir. Çünkü insan aklı sayesinde kendisini koruma imkânına sahiptir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- İkna olmalarını sağlayacak işaret, belirti, kanıt yok mu?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍۙۖ",
+        "turkish_text": "Rabb'inin Âd kavmine ne yaptığını biliyor musun?",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِرَمَ ذَاتِ الْعِمَادِۙۖ",
+        "turkish_text": "Sütunlara sahip İrem'e!",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّت۪ي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِۙۖ",
+        "turkish_text": "Ki, beldeler içinde onun bir eşi yaratılmadı;",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَثَمُودَ الَّذ۪ينَ جَابُوا الصَّخْرَ بِالْوَادِۙۖ",
+        "turkish_text": "Ve vadide kayaları oyan Semûd'a,",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَفِرْعَوْنَ ذِي الْاَوْتَادِۙۖ",
+        "turkish_text": "Ve kazıklar sahibi Firavun'a;",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ طَغَوْا فِي الْبِلَادِۙۖ",
+        "turkish_text": "Onlar ki, ülkelerde tâğûtlaşmışlardı,(1)",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'a isyan etmek anlamına gelen “tağa” kökünden türemiştir. Despot, azgın, sapkın, kötülük önderi, zorba, şeytan, put, kâhin; kaba kuvvetle hükmeden kişi, kurum veya yönetim demektir. Tuğyan, “Haddi aşma, zulüm, azgınlık, sapkınlık, isyan, küfür.” Tağa fiilinin mastarıdır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاَكْثَرُوا ف۪يهَا الْفَسَادَۙۖ",
+        "turkish_text": "Böylece oralarda bozgunculuğu çoğaltmışlardı.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍۙۖ",
+        "turkish_text": "Bu yüzden Rabb'in onları azâp kırbacıyla kırbaçladı.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ رَبَّكَ لَبِالْمِرْصَادِۜ",
+        "turkish_text": "Çünkü Rabb'in olup -biteni görüp- gözlemektedir.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاَمَّا الْاِنْسَانُ اِذَا مَا ابْتَلٰيهُ رَبُّهُ فَاَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبّ۪ٓي اَكْرَمَنِۜ",
+        "turkish_text": "Fakat o insan(1); Rabb'i ne zaman onu sınamak için ikramda bulunsa ve ona nimet verse, “Rabb'im bana ikram etti.(2)” der.",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Âyette geçen insan kelimesi, insanların tamamını değil, belli başlı insanları, yani Müşrikleri kastetmektedir."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Doğru yolda olduğum için, Rabb'imin bu nimetini hak etmekteyim."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَمَّٓا اِذَا مَا ابْتَلٰيهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبّ۪ٓي اَهَانَنِۚ",
+        "turkish_text": "Fakat ne zaman ona sınamak için rızkını ölçülü verirse,(1) “Rabb'im beni alçaltı.(2)” der.",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Daraltsa."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Doğru yolda olmadığım için beni ikramından mahrum bıraktı. Müşriklere göre, yoksul ve güçsüz kimseler ki bunlar çoğunlukla Muhammed Nebi'mizin yanında yer almışlardı, bunlar yanlış yolda olduklarından Rabb'in ikramından mahrum bırakılmaktaydılar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "كَلَّا بَلْ لَا تُكْرِمُونَ الْيَت۪يمَۙ",
+        "turkish_text": "Hayır! Doğrusu siz yetime ikram etmiyorsunuz.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا تَحَٓاضُّونَ عَلٰى طَعَامِ الْمِسْك۪ينِۙ",
+        "turkish_text": "Yoksulu yedirmede birbirinizi teşvik etmiyorsunuz.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَتَأْكُلُونَ التُّرَاثَ اَكْلاً لَماًّۙ",
+        "turkish_text": "Varis olduğunuz mirası ihtirasla yiyorsunuz.(1)",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sahip olduğunuz malda-mülkte hakkı olanları hiç gözetmiyorsunuz."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَتُحِبُّونَ الْمَالَ حُباًّ جَماًّۜ",
+        "turkish_text": "Malı büyük bir sevgiyle, çok seviyorsunuz.",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّٓا اِذَا دُكَّتِ الْاَرْضُ دَكاًّ دَكاًّۙ",
+        "turkish_text": "Hayır, hayır! Yer, paramparça olup dağıldığı zaman,",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَٓاءَ رَبُّكَ وَالْمَلَكُ صَفاًّ صَفاًّۚ",
+        "turkish_text": "Rabb'in emri geldiği ve melekler saf saf dizildiği zaman,",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَج۪ٓيءَ يَوْمَئِذٍ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ الْاِنْسَانُ وَاَنّٰى لَهُ الذِّكْرٰىۜ",
+        "turkish_text": "O Gün Cehennem ortaya getirilir. O Gün insan neyin ne olduğunu anlar, ancak bunun ona bir yararı olmaz.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَقُولُ يَا لَيْتَن۪ي قَدَّمْتُ لِحَيَات۪يۚ",
+        "turkish_text": "“Ah keşke hayattayken, âhiret hayatım için hazırlık yapmış olsaydım.” der.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُٓ اَحَدٌۙ",
+        "turkish_text": "Artık O Gün, O'nun azbı hiç kimsenin azâbına benzemez.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَا يُوثِقُ وَثَاقَهُٓ اَحَدٌۜ",
+        "turkish_text": "O'nun vurduğu bağ, hiç kimsenin vurduğu bağa benzemez.",
+        "index_number": 26,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَٓا اَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُۗ",
+        "turkish_text": "“Ey mutmain nefs!(1)",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sahip olduğu nimetlerden dolayı doğru yolda olduğunu sanan, varlığı ile kendisini yeterli gören kimse; Müşrikler. İçinde bulunduğu halden memnun olan kimse."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِرْجِع۪ٓي اِلٰى رَبِّكِ رَاضِيَةً مَرْضِيَّةًۚ",
+        "turkish_text": "Rızasını kazanarak, razı olarak Rabb'ine dön.(1)",
+        "index_number": 28,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Rabb'in gösterdiği yoldan giderek, O'nun emirlerine itaat ederek, Hakk yola dön."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَادْخُل۪ي ف۪ي عِبَاد۪يۙ",
+        "turkish_text": "Kullarıma katıl;(1)",
+        "index_number": 29,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Böylelikle Cennetlik kullarımın arasına gir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَادْخُل۪ي جَنَّت۪ي",
+        "turkish_text": "Cennetime gir.”",
+        "index_number": 30,
+        "deep_notes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "index_number": 86,
+    "name_arabic": "الطارق",
+    "name_turkish": "Târık",
+    "description": "Adını 1. âyetteki “Et-Târık/seher yıldızı” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 36,
+    "verse_count": 18,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالسَّمَٓاءِ وَالطَّارِقِۙ",
+        "turkish_text": "Semâ'ya(1) ve Târık'a ant olsun,",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Göğe."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا الطَّارِقُۙ",
+        "turkish_text": "Târık'ın ne olduğunu sen ne bileceksin?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلنَّجْمُ الثَّاقِبُۙ",
+        "turkish_text": "O, delici(1) yıldızdır.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Keskin parlaklığı ile karanlığı delen."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌۜ",
+        "turkish_text": "Hiçbir nefs(1) yoktur ki üzerinde koruyucu(2) bulunmasın.",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kimse, insân."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Gözetleyici."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَۜ",
+        "turkish_text": "İnsân neden yaratıldığına bir baksın.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "خُلِقَ مِنْ مَٓاءٍ دَافِقٍۙ",
+        "turkish_text": "Dökülen bir sıvıdan yaratıldı;",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَٓائِبِۜ",
+        "turkish_text": "Omurga ile göğüs kemikleri arasından çıkan(1).",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Babadan gelen meni sıvısı içerisindeki sperm ile anneden gelen yumurtlama sıvısı içerisindeki yumurta birleşerek insân yaratılmaktadır. Babanın bu sıvısı er bezlerinde (testisler) üretilir. Annenin sıvısı ise yumurtalıklarında üretilir. Âyette insânın yaratılışına dikkat çekilmiştir. Bu nedenle bu sıvıların üretildiği er bezlerinin/yumurtalıkların anne karnındaki ceninin yaratılış evresindeki konumları önemlidir. Er bezlerinin/yumurtalıkların tam da âyette bildirildiği gibi ceninin omurgası ile göğüs kemikleri arasında olduğunu embriyoloji bilimi bize göstermiştir. Cenin"
+          },
+          {
+            "key_word": "8",
+            "index_number": 8,
+            "note": "8- 15 haftalıkken bu organlar âyette işaret edilen yerden ceninin kasık bölgesine indirilir. Yumurtalıklar kasık bölgesinde kalırken, er bezleri er bezi torbasına indirilir. Bu süreç cenin"
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- 2"
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- 35 haftalıkken gerçekleştirilir. Bu âyet 7:172. âyeti ile birlikte okunmalıdır. Âyetin, insânın omurga ile göğüs kemikleri arasından çıkan bir sıvıdan yaratıldığını söylemesi, Kur'an'ın ilâhi bir metin olduğunu açık bir şekilde ortaya koymaktadır. Bu bilgi günümüz tıp bilimi tarafından çok yakın bir döneme kadar bilinmiyordu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّهُ عَلٰى رَجْعِه۪ لَقَادِرٌۜ",
+        "turkish_text": "Kuşkusuz O, onu yeniden diriltmeye elbette kâdirdir.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ تُبْلَى السَّرَٓائِرُۙ",
+        "turkish_text": "Bütün gizliliklerin ortaya çıkarıldığı gün,",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍۜ",
+        "turkish_text": "Onun ne bir gücü ne de bir yardımcısı vardır.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالسَّمَٓاءِ ذَاتِ الرَّجْعِۙ",
+        "turkish_text": "Dönüş sahibi Semâya ant olsun,",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ",
+        "turkish_text": "Yarılma sahibi yeryüzüne ant olsun",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُ لَقَوْلٌ فَصْلٌۙ",
+        "turkish_text": "Kuşkusuz O, ayırt edici(1) bir sözdür.",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hakk ile Bâtıl'ı birbirinden ayıran."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَا هُوَ بِالْهَزْلِۜ",
+        "turkish_text": "O, sıradan bir söz değildir.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهُمْ يَك۪يدُونَ كَيْداًۙ",
+        "turkish_text": "Onlar, planlar yapıyorlar,(1)",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'ı geçersiz kılmak için."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاَ‌ك۪يدُ كَيْداًۚ",
+        "turkish_text": "Ben de plan yapıyorum.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَمَهِّلِ الْـكَافِر۪ينَ اَمْهِلْهُمْ رُوَيْداً",
+        "turkish_text": "Kâfirlere biraz daha süre tanı, onları kendi hallerine bırak.",
+        "index_number": 17,
+        "deep_notes": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "index_number": 50,
+    "name_arabic": "ق",
+    "name_turkish": "Kaf",
+    "description": "Adını 1. ayetteki “Kaf” harfinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 34,
+    "verse_count": 46,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قٓ۠ وَالْقُرْاٰنِ الْمَج۪يدِۚ",
+        "turkish_text": "Kâf. Mecîd(1) Kur'an'a ant olsun.",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Şerefli, şanı yüce."
+          }
+        ]
+      },
+      {
+        "arabic_text": "بَلْ عَجِبُٓوا اَنْ جَٓاءَهُمْ مُنْذِرٌ مِنْهُمْ فَقَالَ الْـكَافِرُونَ هٰذَا شَيْءٌ عَج۪يبٌ",
+        "turkish_text": "Ama kendilerinden bir uyarıcının onlara gelmesine şaşırdılar. Kâfirler:(1) “Bu şaşılacak bir şey.” dediler.",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnançsız, îmân etmeyen. Gerçeğin üzerini örten, gerçeği kabul etmeyen, gerçeğe karşı nankörlük eden. Allah'ı ve vahyi reddeden. Fıtrî yeteneğini köreltip örten. Küfr, Îmân'ın emin olmanın, güvenmenin, onaylamanın karşıtıdır. Kur'an, ektiği tohumun üzerini toprakla örttüğü için çiftçiye de kâfir demektedir (57:20)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ءَاِذَا مِتْنَا وَكُنَّا تُرَاباًۚ ذٰلِكَ رَجْعٌ بَع۪يدٌ",
+        "turkish_text": "“Biz ölüp, toprak olduktan sonra mı diriltileceğiz? İşte bu mümkün olmayan bir dönüştür.” dediler.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَدْ عَلِمْنَا مَا تَنْقُصُ الْاَرْضُ مِنْهُمْۚ وَعِنْدَنَا كِتَابٌ حَف۪يظٌ",
+        "turkish_text": "Biz, yerin onlardan neyi eksilttiğini elbette biliyoruz. Yanımızda her şeyi kayda alan bir Kitâp vardır.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَٓاءَهُمْ فَهُمْ ف۪ٓي اَمْرٍ مَر۪يجٍ",
+        "turkish_text": "Ne var ki onlar, kendilerine Hakk(1) gelince onu yalanladılar. Bu yüzden karmakarışık bir durumdalar.",
+        "index_number": 5,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gerçekliği kesin olan. Gerçeği kesin olarak bildiren mesaj. Mutlak gerçeklik, doğruluk. Bir şeyin aslı ve esası. Yasa, ferman, kural. Bâtıl'ın karşıtı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَفَلَمْ يَنْظُرُٓوا اِلَى السَّمَٓاءِ فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا وَزَيَّنَّاهَا وَمَا لَهَا مِنْ فُرُوجٍ",
+        "turkish_text": "Öyleyse üzerlerindeki göğe bakmıyorlar mı ki, onu hiçbir çatlağı olmaksızın nasıl bina etmişiz, nasıl süslemişiz!",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْاَرْضَ مَدَدْنَاهَا وَاَلْقَيْنَا ف۪يهَا رَوَاسِيَ وَاَنْبَتْنَا ف۪يهَا مِنْ كُلِّ زَوْجٍ بَه۪يجٍۙ",
+        "turkish_text": "Ve yine yeryüzünü döşedik, oraya ağır baskılar yerleştirdik. Ve orada her çeşitten göz alıcı çiftler yetiştirdik.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَبْصِرَةً وَذِكْرٰى لِكُلِّ عَبْدٍ مُن۪يبٍ",
+        "turkish_text": "Bunları, Allah'a yönelen kulların basiretini(1) açmak ve öğüt olması için yaptık.",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kavrayışını, gerçeği görme yeteneğini."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَنَزَّلْنَا مِنَ السَّمَٓاءِ مَٓاءً مُبَارَكاً فَاَنْبَتْنَا بِه۪ جَنَّاتٍ وَحَبَّ الْحَص۪يدِۙ",
+        "turkish_text": "Gökten bereketli su indirdik. Onunla cennetler(1) ve biçilecek ekinler yetiştirdik.",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bahçeler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَض۪يدٌۙ",
+        "turkish_text": "Ve salkımları üst üste yığılmış, uzun hurma ağaçları.",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "رِزْقاً لِلْعِبَادِۙ وَاَحْيَيْنَا بِه۪ بَلْدَةً مَيْتاًۜ كَذٰلِكَ الْخُرُوجُ",
+        "turkish_text": "Kullar için rızık olarak. Onunla ölü bir beldeye hayat verdik. İşte yeniden diriliş de böyledir.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَاَصْحَابُ الرَّسِّ وَثَمُودُۙ",
+        "turkish_text": "Onlardan önce Nûh halkı, Ress'liler ve Semûd yalanlamıştı.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَعَادٌ وَفِرْعَوْنُ وَاِخْوَانُ لُوطٍۙ",
+        "turkish_text": "Ve Âd, Firavun ve Lût'un kardeşleri de.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَصْحَابُ الْاَيْكَةِ وَقَوْمُ تُبَّعٍۜ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَع۪يدِ",
+        "turkish_text": "Ve Eykeliler ve Tûbba halkı. Hepsi Resûlleri yalanladılar. Böylece uyarım gerçekleşti.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَفَعَي۪ينَا بِالْخَلْقِ الْاَوَّلِۜ بَلْ هُمْ ف۪ي لَبْسٍ مِنْ خَلْقٍ جَد۪يدٍ۟",
+        "turkish_text": "İlk yaratışta yetersiz kaldık mı ki yeniden yaratılıştan şüphe içindeler!",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ خَلَقْنَا الْاِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِه۪ نَفْسُهُۚ وَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ",
+        "turkish_text": "Ant olsun ki insanı Biz yarattık. Nefsinin ona neler fısıldadığını biliriz. Ve Biz ona “habl-i verîd”ten(1) daha yakınız.",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Çevirilerde bu kelimeye “şah damarı” olarak anlam verilmektedir. Bunun insan “anatomisindeki şah damarı” ile bir ilgisi yoktur. Bu deyimle kastedilen şey, insana canlılık veren, onun yaşamasını sağlayan özdür. Bu mecazi bir anlatımdır. Yoksa Allah için mesafe söz konusu değildir. Allah'ın; insana, insanın kendisinden daha yakın olduğu vurgusu yapılmaktadır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَم۪ينِ وَعَنِ الشِّمَالِ قَع۪يدٌ",
+        "turkish_text": "Sağında ve solunda yerleşmiş iki kaydedici, yaptıklarını kayda geçirmektedirler.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا يَلْفِظُ مِنْ قَوْلٍ اِلَّا لَدَيْهِ رَق۪يبٌ عَت۪يدٌ",
+        "turkish_text": "Söylediği her söz, yanındaki hazır gözleyicilerce gözlenmektedir.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَٓاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّۜ ذٰلِكَ مَا كُنْتَ مِنْهُ تَح۪يدُ",
+        "turkish_text": "Ölümün sarhoşluğu kaçınılmaz bir gerçek olarak gelince, “İşte senin kaçtığın şey budur!”",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَنُفِـخَ فِي الصُّورِۜ ذٰلِكَ يَوْمُ الْوَع۪يدِ",
+        "turkish_text": "Ve Sûr'a üfürülür. “İşte bu, vaktiyle uyarıldığınız gündür.”",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَجَٓاءَتْ كُلُّ نَفْسٍ مَعَهَا سَٓائِقٌ وَشَه۪يدٌ",
+        "turkish_text": "Herkes yanında bir sevk edici ve bir tanıkla birlikte gelir.",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَقَدْ كُنْتَ ف۪ي غَفْلَةٍ مِنْ هٰذَا فَـكَشَفْنَا عَنْكَ غِطَٓاءَكَ فَبَصَرُكَ الْيَوْمَ حَد۪يدٌ",
+        "turkish_text": "Ant olsun ki sen bugünün geleceğinden gaflet içindeydin. İşte senden perdeyi kaldırdık. Artık bugün gerçeği bütün açıklığıyla görüyorsun.",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَقَالَ قَر۪ينُهُ هٰذَا مَا لَدَيَّ عَت۪يدٌۜ",
+        "turkish_text": "Onun yakını, “İşte bu yanımda olan şey hazırdır.” der.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلْقِيَا ف۪ي جَهَنَّمَ كُلَّ كَفَّارٍ عَن۪يدٍۙ",
+        "turkish_text": "“İnatçı, Kâfirlerin tamamını Cehennem'e atın.”",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ مُر۪يبٍۙ",
+        "turkish_text": "Hayra engel olan, haddi aşan, güvensizlik içinde olan.",
+        "index_number": 25,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي جَعَلَ مَعَ اللّٰهِ اِلٰهاً اٰخَرَ فَاَلْقِيَاهُ فِي الْعَذَابِ الشَّد۪يدِ",
+        "turkish_text": "O, Allah ile birlikte başka ilâh(1) edindi. Öyleyse, onu şiddetli azâba atın.",
+        "index_number": 26,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İlâh, (Çoğulu Âlihe) hizmet edilen, tapınılan, kulluk edinilen, koruyucu, gönülden bağlanıp sığınılan, yüceliği karşısında hayrete düşülen, duyularla idrak edilemeyen, gibi anlamları olan bir kavramdır.  Hakk veya Bâtıl olsun tapılmaya lâyık görülüp ibadet edilen her varlığa ilâh adı verildiği ve âlihe şeklinde çoğulu bulunduğu dikkate alınınca, ilâhın tanrı anlamına geldiği, Allah'ın ise bir ve kendisinden başka “gerçek ilâh” olmayanın adı olduğu, diğer bir ifade ile Allah'a özgü bir isim olduğu ortaya çıkar. Kur'an'a baktığımız zaman İlâh kelimesinin kök harflerinden hiç fiil gelmediği görülür. El-İlâh şeklinde bir kullanımı da yoktur. Bu nokta da sadece Allah kelimesinin El-İlâhı yansıttığı görülmektedir. Dolayısı ile Allah ve Tanrı kelimeleri birbirinin anlam eşiti değildir. İlâhlar denebilir ama Allahlar denemez. Bu da birbirlerinin eşiti olmadıklarını gösterir. Onun için Allah'a tanrı denmesi doğru değildir. “Allah ancak bir tek ilâhtır” (4:171)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "قَالَ قَر۪ينُهُ رَبَّنَا مَٓا اَطْغَيْتُهُ وَلٰكِنْ كَانَ ف۪ي ضَلَالٍ بَع۪يدٍ",
+        "turkish_text": "Onun yakını: “Rabb'imiz! Onu ben azdırmadım, fakat o derin bir sapkınlık içindeydi.” der.",
+        "index_number": 27,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ اِلَيْكُمْ بِالْوَع۪يدِ",
+        "turkish_text": "“Huzurumda çekişmeyin! Size daha önce uyarımı yapmıştım.” der.",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَٓا اَنَا۬ بِظَلَّامٍ لِلْعَب۪يدِ۟",
+        "turkish_text": "“Katımda söz değiştirilmez. Ben kullara asla haksızlık eden değilim.”",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِنْ مَز۪يدٍ",
+        "turkish_text": "O Gün, Cehennem'e, “Doldun mu?” deriz. O da “Daha yok mu?” der.",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاُزْلِفَتِ الْجَنَّةُ لِلْمُتَّق۪ينَ غَيْرَ بَع۪يدٍ",
+        "turkish_text": "Cennet, takvâ sahipleri için uzak değil, yaklaştırılmıştır.",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هٰذَا مَا تُوعَدُونَ لِكُلِّ اَوَّابٍ حَف۪يظٍۚ",
+        "turkish_text": "İşte size söz verilen şey budur. Yönelen(1) ve koruyanların(1) tamamı içindir.",
+        "index_number": 32,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Allah'a yönelenler, O'nun buyruklarına uyanlar ve kendilerini her türlü kötülükten koruyanlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "مَنْ خَشِيَ الرَّحْمٰنَ بِالْغَيْبِ وَجَٓاءَ بِقَلْبٍ مُن۪يبٍ",
+        "turkish_text": "Gaybda Allah'a hûşû duyanların, gönülden bağlı olanların ödülüdür.",
+        "index_number": 33,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اُدْخُلُوهَا بِسَلَامٍۜ ذٰلِكَ يَوْمُ الْخُلُودِ",
+        "turkish_text": "Oraya esenlikle girin. İşte bu Süreklilik Günü'dür.",
+        "index_number": 34,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "لَهُمْ مَا يَشَٓاؤُ۫نَ ف۪يهَا وَلَدَيْنَا مَز۪يدٌ",
+        "turkish_text": "Onlar için, orada diledikleri her şey vardır. Yanımızda daha fazlası da vardır.",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكَمْ اَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ اَشَدُّ مِنْهُمْ بَطْشاً فَنَقَّبُوا فِي الْبِلَادِۜ هَلْ مِنْ مَح۪يصٍ",
+        "turkish_text": "Onlardan önce, kendilerinden daha güçlü nice nesilleri yok ettik. Yok olmaktan kurtulmak için belde belde dolaştılar. Böyleyken sığınacak bir yer buldular mı?",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ ف۪ي ذٰلِكَ لَذِكْرٰى لِمَنْ كَانَ لَهُ قَلْبٌ اَوْ اَلْقَى السَّمْعَ وَهُوَ شَه۪يدٌ",
+        "turkish_text": "Kuşkusuz bunda kalbi olan ve can kulağıyla dinleyen ve tanık olan kimseler için kesinlikle alınacak öğüt vardır.",
+        "index_number": 37,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ خَلَقْنَا السَّمٰوَاتِ وَالْاَرْضَ وَمَا بَيْنَهُمَا ف۪ي سِتَّةِ اَيَّامٍۗ وَمَا مَسَّنَا مِنْ لُغُوبٍ",
+        "turkish_text": "Ant olsun ki gökleri, yeri ve ikisinin arasındakileri bir yorgunluk olmaksızın altı günde(1) yarattık.",
+        "index_number": 38,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Altı dönemde, altı bölümde, altı evrede."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاصْبِرْ عَلٰى مَا يَقُولُونَ وَسَبِّـحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِۚ",
+        "turkish_text": "Onların söyledikleri şeylere sabret. Güneş'in doğmasından önce ve batmasından önce Rabb'ini hamd(1) ile tesbih(2) et.",
+        "index_number": 39,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Övgüye ve teşekküre layık yegâne varlık. Bir nimetin ve güzelliğin kaynağı ve sahibi olan gücü, övgü ve yüceltme sözleriyle anmaktır. Bu anlamıyla \"hamd\", verilen bir nimetten yararlanma veya yapılan bir yardımla feraha çıkma karşılığı olmaktan çok, o nimeti veren Yaratıcı'nın sonsuz güç ve kuvvetine duyulan hayranlık sebebiyle dile getirilen bir övgüdür. Hamid: Övgüye ve teşekküre layık yegâne varlık."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Allah'ın, her türlü kusur ve eksiklikten arınık, bütün mükemmel niteliklere sahip olduğunu bilmek; Allah'ı kendisine özgü nitelikleri ile tanımak ve tanıtmak demektir. Tesbih, tevhid inancının ve anlayışının kavranmasıdır. Allah'ı şirk içeren her türlü düşünce ve inançtan arındırarak, Kendisine özgü nitelikleri ile yüceltmek demektir (20:130). Tesbihi, bazı sözlerin (Subhanallah, Elhamdulillah vb.) belli sayılarla tekrar edilmesine indirgemek hurafeden başka bir şey değildir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمِنَ الَّيْلِ فَسَبِّحْهُ وَاَدْبَارَ السُّجُودِ",
+        "turkish_text": "Geceleyin ve secdelerin ardından O'nu tesbih et.",
+        "index_number": 40,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاسْتَمِــعْ يَوْمَ يُنَادِ الْمُنَادِ مِنْ مَكَانٍ قَر۪يبٍۙ",
+        "turkish_text": "Çağırıcının, yakın bir yerden çağıracağı güne kulak ver.",
+        "index_number": 41,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّۜ ذٰلِكَ يَوْمُ الْخُرُوجِ",
+        "turkish_text": "O Gün, gerçek olan o çığlığı duyarlar. İşte bu yeniden diriliş günüdür.",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّا نَحْنُ نُحْـي۪ وَنُم۪يتُ وَاِلَيْنَا الْمَص۪يرُۙ",
+        "turkish_text": "Biz; ancak Biz hayat veririz ve öldürürüz. Ve dönüş Biz'edir.",
+        "index_number": 43,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ تَشَقَّقُ الْاَرْضُ عَنْهُمْ سِرَاعاًۜ ذٰلِكَ حَشْرٌ عَلَيْنَا يَس۪يرٌ",
+        "turkish_text": "O Gün yer yarılır, onlar topraktan çabukça ayrılırlar. İşte bu, Biz'im için kolay bir toplamadır.",
+        "index_number": 44,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "نَحْنُ اَعْلَمُ بِمَا يَقُولُونَ وَمَٓا اَنْتَ عَلَيْهِمْ بِجَبَّارٍ فَذَكِّرْ بِالْقُرْاٰنِ مَنْ يَخَافُ وَع۪يدِ",
+        "turkish_text": "Onların ne dediklerini en iyi Bilen'iz. Sen, onları zorla yola getirecek değilsin. O halde Ben'im uyarımdan korkan kimselere Kur'an'la öğüt ver.",
+        "index_number": 45,
+        "deep_notes": []
+      }
+    ]
+  }
+}

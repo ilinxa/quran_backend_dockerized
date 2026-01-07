@@ -1,0 +1,328 @@
+{
+  "data": {
+    "index_number": 83,
+    "name_arabic": "المطففين",
+    "name_turkish": "Mutaffifîn",
+    "description": "Adını 1. âyetteki “El Mutaffifin/hile yapanlar” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 86,
+    "verse_count": 37,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ لِلْمُطَفِّف۪ينَۙ",
+        "turkish_text": "Hile(1) yapanların vay haline!",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ölçüde, tartıda, hesapta, paylaşmada vb."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ اِذَا ا‌كْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَۘ",
+        "turkish_text": "Onlar, alırlarken tam olarak ölçer, tartarlar.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا كَالُوهُمْ اَوْ وَزَنُوهُمْ يُخْسِرُونَۜ",
+        "turkish_text": "Satarlarken eksik ölçer, tartarlar.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَا يَظُنُّ اُو۬لٰٓئِكَ اَنَّهُمْ مَبْعُوثُونَۙ",
+        "turkish_text": "Onlar diriltileceklerini bilmiyorlar mı?(1)",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap gününe inanan bunu yapar mı?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "لِيَوْمٍ عَظ۪يمٍۙ",
+        "turkish_text": "Büyük bir gün için.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَم۪ينَۜ",
+        "turkish_text": "O Gün İnsanlar âlemlerin Rabb'inin divanında duracaklar.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّٓا اِنَّ كِتَابَ الْفُجَّارِ لَف۪ي سِجّ۪ينٍۜ",
+        "turkish_text": "Hayır! Kötülerin kayıtları kesinlikle siccîndedir.(1)",
+        "index_number": 7,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- En iyi, en sağlam korunan yerdedir; kütüktedir, defterdedir. Siccîn, kelime anlamı olarak en iyi en sağlam korunan hapishane, zindan demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا سِجّ۪ينٌۜ",
+        "turkish_text": "Siccînin ne olduğunu sen ne bileceksin!",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كِتَابٌ مَرْقُومٌۜ",
+        "turkish_text": "Her şeyin tek tek yazıldığı bir kitâptır.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَۙ",
+        "turkish_text": "O Gün, yalanlayanların vay haline!",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّذ۪ينَ يُكَذِّبُونَ بِيَوْمِ الدّ۪ينِۜ",
+        "turkish_text": "Onlar, Din Günü'nü(1) yalanlıyorlar.",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap görme günü, yargılanma günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَا يُكَذِّبُ بِه۪ٓ اِلَّا كُلُّ مُعْتَدٍ اَث۪يمٍۙ",
+        "turkish_text": "Onu haddi aşan günahkârdan başka kimse yalanlamaz.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذَا تُتْلٰى عَلَيْهِ اٰيَاتُنَا قَالَ اَسَاط۪يرُ الْاَوَّل۪ينَۜ",
+        "turkish_text": "Ona âyetlerimiz okunduğu zaman, “Eskilerin masalları.” der.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا بَلْ۔ رَانَ عَلٰى قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+        "turkish_text": "Hayır, hayır! Bilakis, onların yapıp ettikleri şeyler kalplerini kararttı.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّٓا اِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَۜ",
+        "turkish_text": "Hayır! Onlar, O Gün(1) Rabb'lerinden perdelenmiş olanlardır.(2)",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hesap sorma günü, yalnızca Allah'ın belirlediği ilke ve kuralların geçerli olduğu gün."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Rabb'lerinin rahmetinden mahrum kalmış olanlardır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ثُمَّ اِنَّهُمْ لَصَالُوا الْجَح۪يمِۜ",
+        "turkish_text": "Sonra onlar, Cehennem'e girecekler.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ثُمَّ يُقَالُ هٰذَا الَّذ۪ي كُنْتُمْ بِه۪ تُكَذِّبُونَۜ",
+        "turkish_text": "Sonra da: “İşte bu yalanlayıp durduğunuz şeydir.” denecek.",
+        "index_number": 17,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّٓا اِنَّ كِتَابَ الْاَبْرَارِ لَف۪ي عِلِّيّ۪ينَۜ",
+        "turkish_text": "Hayır! Kuşkusuz ebrâr(1) olanların kayıtları kesinlikle İlliyyîn'dedir.(2)",
+        "index_number": 18,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Birr'in çoğuludur. İyi, yararlı ve doğru olan her şey, bütün iyilikler, bağışlamak, sadakat, samimiyet, doğruluk, adalet, gerçeklik, erdem, gönül."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- İlliyyin kelime anlamı olarak şerefli, yüksek makam demektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا عِلِّيُّونَۜ",
+        "turkish_text": "İlliyyin'in ne olduğunu sen ne bileceksin?",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كِتَابٌ مَرْقُومٌۙ",
+        "turkish_text": "Her şeyin tek tek yazıldığı bir kitâptır.(1)",
+        "index_number": 20,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kayıtların tutulduğu kütük."
+          }
+        ]
+      },
+      {
+        "arabic_text": "يَشْهَدُهُ الْمُقَرَّبُونَۜ",
+        "turkish_text": "Yaklaştırılmış olanlar(1) ona tanık olurlar.",
+        "index_number": 21,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hakk'ın safında yer almış olanlar, iyilerin yanında yer alanlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الْاَبْرَارَ لَف۪ي نَع۪يمٍۙ",
+        "turkish_text": "Ebrâr kesinlikle nimetler içindedir,",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلَى الْاَرَٓائِكِ يَنْظُرُونَۙ",
+        "turkish_text": "Tahtlar üzerinde nimetleri seyre dalarlar.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَعْرِفُ ف۪ي وُجُوهِهِمْ نَضْرَةَ النَّع۪يمِۚ",
+        "turkish_text": "Nimetlerin sevincini yüzlerinden anlarsın.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يُسْقَوْنَ مِنْ رَح۪يقٍ مَخْتُومٍۙ",
+        "turkish_text": "Onlara mühürlenmiş(1) en leziz, en saf içecekler(2) içirilir.",
+        "index_number": 25,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- El değmemiş, kapaklarını kendilerinin açacağı."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Çevirilerde, âyette yer alan “rahîkin” kelimesine “şarap” olarak anlam verilmektedir. Bu, Türkçe'de Allah'ın haram ettiği sarhoşluk veren içkiyi çağrıştırdığı için, anlam yanlışlığına neden olmaktır. O nedenle bu kelimenin Türkçe'deki doğru anlamı, “leziz, saf” içecektir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "خِتَامُهُ مِسْكٌۜ وَف۪ي ذٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَۜ",
+        "turkish_text": "Onun sonu misktir.(1) Yarışanlar bunun için yarışsınlar.",
+        "index_number": 26,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İçildikten sonra ağızda misk kokusu bırakır."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمِزَاجُهُ مِنْ تَسْن۪يمٍۙ",
+        "turkish_text": "Onun katkısı tesnimdir(1).",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- En değerli, en güzel maddeler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "عَيْناً يَشْرَبُ بِهَا الْمُقَرَّبُونَۜ",
+        "turkish_text": "Bir pınardır, yakınlaştırılmış(1) olanların içtiği.",
+        "index_number": 28,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hakk'ın safında yer almış olanlar, iyilerin yanında yer alanlar."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ اَجْرَمُوا كَانُوا مِنَ الَّذ۪ينَ اٰمَنُوا يَضْحَكُونَۘ",
+        "turkish_text": "Suçlular, dünyada Îmân Edenlere gülüyorlardı.",
+        "index_number": 29,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَۘ",
+        "turkish_text": "Îmân Edenler yanlarından geçerlerken, birbirlerine kaş-göz ederek onlarla alay ediyorlardı.",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا انْقَلَـبُٓوا اِلٰٓى اَهْلِهِمُ انْقَلَبُوا فَكِه۪ينَۘ",
+        "turkish_text": "Yandaşlarına döndükleri zaman da neşelenmiş olarak dönüyorlardı.",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِذَا رَاَوْهُمْ قَالُٓوا اِنَّ هٰٓؤُ۬لَٓاءِ لَضَٓالُّونَۙ",
+        "turkish_text": "Îmân Edenleri gördükleri zaman, “İşte bunlar, kesinlikle sapkın olanlardır.” diyorlardı.",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَٓا اُرْسِلُوا عَلَيْهِمْ حَافِظ۪ينَۜ",
+        "turkish_text": "Îmân Edenlerin üzerlerine gözetici olarak gönderilmediler.(1)",
+        "index_number": 33,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Îmân Edenlerin inançlarını sorgulamak onlara düşmezdi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَالْيَوْمَ الَّذ۪ينَ اٰمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَۙ",
+        "turkish_text": "Artık bugün Îmân Edenler, Kâfirlere gülüyorlar.",
+        "index_number": 34,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "عَلَى الْاَرَٓائِكِۙ يَنْظُرُونَۜ",
+        "turkish_text": "Tahtlar üzerinde seyirdeler:",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+        "turkish_text": "“Kâfirler, yaptıkları şeylerin karşılığını buldular mı?” diye.",
+        "index_number": 36,
+        "deep_notes": []
+      }
+    ]
+  }
+}

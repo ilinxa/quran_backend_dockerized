@@ -1,0 +1,49 @@
+{
+  "data": {
+    "index_number": 105,
+    "name_arabic": "الفيل",
+    "name_turkish": "Fîl",
+    "description": "Adını 1. âyetteki “Fîl” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 19,
+    "verse_count": 6,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحَابِ الْف۪يلِۜ",
+        "turkish_text": "Görmedin mi? Rabb'inin fîl sahiplerine ne yaptığını?",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ يَجْعَلْ كَيْدَهُمْ ف۪ي تَضْل۪يلٍۙ",
+        "turkish_text": "Onların tuzaklarını boşa çıkarmadı mı?",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاَرْسَلَ عَلَيْهِمْ طَيْراً اَبَاب۪يلَۙ",
+        "turkish_text": "Onların üzerlerine sürü sürü kuşlar gönderdi;",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَرْم۪يهِمْ بِحِجَارَةٍ مِنْ سِجّ۪يلٍۖۙ",
+        "turkish_text": "Onlara çamurdan sertleşmiş taşlar atan.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+        "turkish_text": "Böylece onları yenmiş ekin yaprağı gibi yaptı.",
+        "index_number": 5,
+        "deep_notes": []
+      }
+    ]
+  }
+}

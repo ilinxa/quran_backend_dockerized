@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "translation_stories",
+  "info": {
+    "singularName": "translation-story",
+    "pluralName": "translation-stories",
+    "displayName": "Çevirinin Öyküsü"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Çevirinin Öyküsü",
+      "maxLength": 255,
+      "required": true
+    },
+    "shortDescription": {
+      "type": "text"
+    },
+    "description": {
+      "type": "blocks"
+    }
+  }
+}

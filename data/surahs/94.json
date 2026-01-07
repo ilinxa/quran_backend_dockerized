@@ -1,0 +1,97 @@
+{
+  "data": {
+    "index_number": 94,
+    "name_arabic": "الشرح",
+    "name_turkish": "İnşirâh",
+    "description": "Adını 1. âyetteki “İnşirâh/açmak” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 12,
+    "verse_count": 9,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+        "turkish_text": "Senin için göğsünü açmadık mı?(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sıkıntılarına, kara kara düşünmene, ne yapacağını bilmemene son vermedik mi? Seni rahatlatmadık mı?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+        "turkish_text": "Yükünü üzerinden atmadık mı?(1)",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ne yapacağını bilmezken, sana yol gösterdik mi?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّـذ۪ٓي اَنْقَضَ ظَهْرَكَۙ",
+        "turkish_text": "Belini büken yükünü?(1)",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnsanlığın içinde bulunduğu durumun sana verdiği üzüntüyü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَرَفَعْنَا لَكَ ذِكْرَكَۜ",
+        "turkish_text": "Senin zikrini yükseltmedik mi?(1)",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu denli önemli bir görevi (Nebi'lik/Resûl'lük) sana vererek, herkes tarafından bilinmene ve anılmana neden olmadık mı?"
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَاِنَّ مَعَ الْعُسْرِ يُسْراًۙ",
+        "turkish_text": "Zira zorlukla beraber bir kolaylık vardır.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ مَعَ الْعُسْرِ يُسْراًۜ",
+        "turkish_text": "Elbette zorlukla beraber bir kolaylık vardır.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+        "turkish_text": "O halde her fırsatta kararlılıkla yeni şeyler yapmaya giriş.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَاِلٰى رَبِّكَ فَارْغَبْ",
+        "turkish_text": "Ve yalnızca Rabb'ine yönel.(1)",
+        "index_number": 8,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yardım ve desteği yalnızca Allah'tan iste. İsteklerini yalnızca Rabb'ine yönelt."
+          }
+        ]
+      }
+    ]
+  }
+}

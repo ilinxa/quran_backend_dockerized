@@ -1,0 +1,53 @@
+{
+  "data": {
+    "index_number": 110,
+    "name_arabic": "النصر",
+    "name_turkish": "Nasr",
+    "description": "Adını 1. âyetteki “Nasr/yardım” kelimesinden almıştır",
+    "type": "Medeni",
+    "order_of_revelation": 102,
+    "verse_count": 4,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذَا جَٓاءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+        "turkish_text": "Allah'ın yardımı ve fetih geldiği zaman,",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَرَاَيْتَ النَّاسَ يَدْخُلُونَ ف۪ي د۪ينِ اللّٰهِ اَفْوَاجاًۙ",
+        "turkish_text": "İnsanların Allah'ın dinine dalga dalga girdiklerini gördüğün zaman,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۜ اِنَّهُ كَانَ تَوَّاباً",
+        "turkish_text": "O zaman, Rabb'ini hamd(1) ile tesbih(2) et. Ve O'ndan mağfiret(3) dile. Kuşkusuz O, tevbeleri kabul edendir.",
+        "index_number": 3,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Övgüye ve teşekküre layık yegâne varlık. Bir nimetin ve güzelliğin kaynağı ve sahibi olan gücü, övgü ve yüceltme sözleriyle anmaktır. Bu anlamıyla \"hamd\", verilen bir nimetten yararlanma veya yapılan bir yardımla feraha çıkma karşılığı olmaktan çok, o nimeti veren Yaratıcı'nın sonsuz güç ve kuvvetine duyulan hayranlık sebebiyle dile getirilen bir övgüdür. Hamid: Övgüye ve teşekküre layık yegâne varlık."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Allah'ın, her türlü kusur ve eksiklikten arınık, bütün mükemmel niteliklere sahip olduğunu bilmek; Allah'ı kendisine özgü nitelikleri ile tanımak ve tanıtmak demektir. Tesbih, tevhid inancının ve anlayışının kavranmasıdır. Allah'ı şirk içeren her türlü düşünce ve inançtan arındırarak, Kendisine özgü nitelikleri ile yüceltmek demektir (20:130). Tesbihi, bazı sözlerin (Subhanallah, Elhamdulillah vb.) belli sayılarla tekrar edilmesine indirgemek hurafeden başka bir şey değildir."
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- Bağışlanma."
+          }
+        ]
+      }
+    ]
+  }
+}

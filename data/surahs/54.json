@@ -1,0 +1,487 @@
+{
+  "data": {
+    "index_number": 54,
+    "name_arabic": "القمر",
+    "name_turkish": "Kamer",
+    "description": "Adını 1. âyetteki “El-Kamer/ay” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 37,
+    "verse_count": 56,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
+        "turkish_text": "Sâ'at(1) yaklaştı ve Ay yarıldı.(2)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kıyâmet'in kopuş anı."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Gerçekler ortaya çıktı. “Ay yarıldı” bir deyimdir, bir şeyin gerçek yüzünün ortaya çıkması demektir. Âyette yer alan “inşikak/yarılma” kelimesi bir şeyin iki parçaya ayrılması değil, bir şeyde meydana gelen çatlak anlamındadır. İnşikak, “şikak” kelimesinden gelmektedir. Bu kelime, herhangi bir nedenden dolayı hayvan veya insan cildinde meydana gelen çatlama, yarılma veya bir şeyin açığa çıkması anlamına gelmektedir. (Örneğin: 2:74, 19:90, 55:37, 84:1.) “Ayın yarılma mucizesi” olarak inanılan ve bunun üzerinde geniş bir rivâyet oluşturulan bu âyet te, bir mucizeden söz edilmemektedir. Bu tamamen Kur'an'ın anlatım diliyle ilgili bir konudur: Ahiret ve Kıyâmet sahnelerinin yer aldığı âyetlerdeki fiillerin, geçmiş zaman formunda olması, gramer kuralı olarak kesinlik ifadesi etmesi ile ilgilidir. Bir şeyin kesin olacağını ifade etmek için kurallardan birisi de “geçmiş zaman kipinin” kullanılmasıdır. Böylece olacak olan şeylerin, kesinlikle olacaklarına vurgu yapılmaktadır. Kur'an, Muhammed Nebi'ye mucize verilmediğini birçok âyette açık bir şekilde ifade etmektedir (17:59,"
+          },
+          {
+            "key_word": "3",
+            "index_number": 3,
+            "note": "3- 9"
+          },
+          {
+            "key_word": "0",
+            "index_number": 0,
+            "note": "0- 93; 21:"
+          },
+          {
+            "key_word": "5",
+            "index_number": 5,
+            "note": "5- 6; 13:38; 29:50,51)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاِنْ يَرَوْا اٰيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
+        "turkish_text": "Onlar, bir âyet(1) görseler, hemen yüz çevirirler.(1) Ve “Bu süregelen bir büyüdür.” derler.",
+        "index_number": 2,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Gerçekten de ay ikiye yarılmış olsa bile, onlar yine de gerçeği kabul etmezler. Âyetteki “in” edatı, “vasliyye” olup, ay gerçekten ikiye ayrılsa bile anlamı vermektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَكَذَّبُوا وَاتَّبَعُٓوا اَهْوَٓاءَهُمْ وَكُلُّ اَمْرٍ مُسْتَقِرٌّ",
+        "turkish_text": "Ve yalanladılar. Kendi tutkularına uydular. Oysa her şey kararlaştırılmıştır.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ جَٓاءَهُمْ مِنَ الْاَنْـبَٓاءِ مَا ف۪يهِ مُزْدَجَرٌۙ",
+        "turkish_text": "Ant olsun ki onlara, yanılgılarını giderecek nice haberler geldi.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "حِكْمَةٌ بَالِغَةٌ فَمَا تُغْنِ النُّذُرُۙ",
+        "turkish_text": "Yüksek seviyede hikmetli haberler. Buna rağmen uyarıların bir yararı olmadı.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَتَوَلَّ عَنْهُمْۢ يَوْمَ يَدْعُ الدَّاعِ اِلٰى شَيْءٍ نُكُرٍۙ",
+        "turkish_text": "O halde onlardan yüz çevir. O Gün çağırıcı onları hiç hoşlanmayacakları şeye çağıracak.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "خُشَّعاً اَبْصَارُهُمْ يَخْرُجُونَ مِنَ الْاَجْدَاثِ كَاَنَّهُمْ جَرَادٌ مُنْتَشِرٌۙ",
+        "turkish_text": "Kabirlerinden baygın gözlerle çıkarlar. Etrafa dağılmış çekirgeler gibidirler.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "مُهْطِع۪ينَ اِلَى الدَّاعِۜ يَقُولُ الْـكَافِرُونَ هٰذَا يَوْمٌ عَسِرٌ",
+        "turkish_text": "Çağırıcıya doğru koşan Kâfirler: “Bu, çok zor bir gün.” diyecekler.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَـكَذَّبُوا عَبْدَنَا وَقَالُوا مَجْنُونٌ وَازْدُجِرَ",
+        "turkish_text": "Onlardan önce Nûh'un halkı da yalanladı. Kulumuzu, “O delinin biridir.” diye yalanladılar. Kulumuz zorluk çıkarılarak engellendi.",
+        "index_number": 9,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَدَعَا رَبَّهُٓ اَنّ۪ي مَغْلُوبٌ فَانْتَصِرْ",
+        "turkish_text": "Sonunda Rabb'ine çağrıda bulundu: “Doğrusu ben yenik düştüm, bana yardım et.”",
+        "index_number": 10,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَفَتَحْنَٓا اَبْوَابَ السَّمَٓاءِ بِمَٓاءٍ مُنْهَمِرٍۘ",
+        "turkish_text": "Biz de hemen göğün kapılarını gürül gürül boşalan su ile açtık.",
+        "index_number": 11,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَفَجَّرْنَا الْاَرْضَ عُيُوناً فَالْتَقَى الْمَٓاءُ عَلٰٓى اَمْرٍ قَدْ قُدِرَۚ",
+        "turkish_text": "Yeryüzünde de kaynakları fışkırttık. Böylece sular kararlaştırılan amaç için birleşti.",
+        "index_number": 12,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَحَمَلْنَاهُ عَلٰى ذَاتِ اَلْوَاحٍ وَدُسُرٍۙ",
+        "turkish_text": "Onu ağaç lifi ile birbirine bağlanmış tahtalar üzerinde taşıdık.",
+        "index_number": 13,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَجْر۪ي بِاَعْيُنِنَاۚ جَزَٓاءً لِمَنْ كَانَ كُفِرَ",
+        "turkish_text": "Yalanlanan kimseye bir ödül olarak, gözetimimiz altında yüzüp gidiyordu.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ تَرَكْنَاهَٓا اٰيَةً فَهَلْ مِنْ مُدَّكِرٍ",
+        "turkish_text": "Ant olsun ki onu(1) bir âyet(2) olarak bıraktık. İbret alan yok mudur?",
+        "index_number": 15,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu kıssayı."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- Bir ibret belgesi olarak bıraktık."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَـكَيْفَ كَانَ عَذَاب۪ي وَنُذُرِ",
+        "turkish_text": "Ama azâbım ve uyarılarım nasıl oldu?(1)",
+        "index_number": 16,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Uyarılarımı dinlememenin sonucu azâbımın nasıl olduğunu görün."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+        "turkish_text": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık.(1) Var mı öğüt alıp düşünen?",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bu sûrede de birkaç kez tekrar edilen ve Kur'an'da onlarca benzeri bulunan âyetler, Kur'an'ın anlaşılır olduğunu söylemektedir. Kur'an'ın anlaşılır olmadığını, herkesin onu anlayamayacağını, onu ancak ilim adamlarının anlayabileceğini söylemek, Kur'an'a atılmış en büyük iftiradır. Bu düşünce tam şeytânca bir aldatmadır. Kur'an, doğası gereği anlaşılır olmak zorundadır. Allah'ın kulu ile konuşması olan Kur'an'ın, anlaşılmaması demek, ne yaptığını bilmeyen bir Allah olduğunu söylemekten başka bir şey değildir. Kur'an okuyan bir kimsenin ondan anladığı her ne kadar olursa olsun kesinlikle ona yetecektir. Kur'an'ı anlamak demek, ondan anladığınız size yeter demektir. Dininizi öğrenmek için Kur'an'dan edindiğiniz bilgi, onun dışında okuyacağınız binlerce kitâptan öğreneceğiniz bilgiden daha doğru bilgi olur demektir. Kur'an'nın anlaşılması için yazılan yüzbinlerce kitâp, onu anlaşılmaz hale getirmekten başka hiçbir işe yaramamış, ortaya binlerce dinin çıkmasına neden olmuştur."
+          }
+        ]
+      },
+      {
+        "arabic_text": "كَذَّبَتْ عَادٌ فَـكَيْفَ كَانَ عَذَاب۪ي وَنُذُرِ",
+        "turkish_text": "Âd da yalanladı. Ama azâbım ve uyarılarım nasıl oldu?",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّٓا اَرْسَلْنَا عَلَيْهِمْ ر۪يحاً صَرْصَراً ف۪ي يَوْمِ نَحْسٍ مُسْتَمِرٍّۙ",
+        "turkish_text": "Biz, onların üzerine felaketleri gün boyu süren çok sarsıcı rüzgârı gönderdik.",
+        "index_number": 19,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "تَنْزِعُ النَّاسَۙ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ مُنْقَعِرٍ",
+        "turkish_text": "İnsanları, kökünden sökülmüş hurma kütükleri gibi savurup atıyordu.",
+        "index_number": 20,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَـكَيْفَ كَانَ عَذَاب۪ي وَنُذُرِ",
+        "turkish_text": "Ama azâbım ve uyarılarım nasıl oldu?",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ۟",
+        "turkish_text": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık. Var mı öğüt alıp düşünen?",
+        "index_number": 22,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَذَّبَتْ ثَمُودُ بِالنُّذُرِ",
+        "turkish_text": "Semûd da uyarıcıları yalanladı.",
+        "index_number": 23,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَقَالُٓوا اَبَشَراً مِنَّا وَاحِداً نَتَّبِعُهُٓۙ اِنَّٓا اِذاً لَف۪ي ضَلَالٍ وَسُعُرٍ",
+        "turkish_text": "Şöyle dediler: “Bizden biri olan bir beşere mı biz ona mı uyacağız? Öyle yaparsak kesinlikle bir sapkınlık ve çılgınlık yapmış oluruz.",
+        "index_number": 24,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ءَاُلْقِيَ الذِّكْرُ عَلَيْهِ مِنْ بَيْنِنَا بَلْ هُوَ كَذَّابٌ اَشِرٌ",
+        "turkish_text": "Zikir.(1) aramızdan bula bula onu mu buldu? Hayır! O küstah bir yalancıdır.",
+        "index_number": 25,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an. Öğüt. Hatırlatıcı."
+          }
+        ]
+      },
+      {
+        "arabic_text": "سَيَعْلَمُونَ غَداً مَنِ الْـكَذَّابُ الْاَشِرُ",
+        "turkish_text": "Onlar, yarın(1) küstah yalancının kim olduğunu anlayacaklar!",
+        "index_number": 26,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kıyâmet Günü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّا مُرْسِلُوا النَّاقَةِ فِتْنَةً لَهُمْ فَارْتَقِبْهُمْ وَاصْطَبِرْۘ",
+        "turkish_text": "Biz, fitne(1) olsun diye onlara dişi deveyi(2) gönderdik. Artık onları gözetle ve sabret.",
+        "index_number": 27,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sınav."
+          },
+          {
+            "key_word": "2",
+            "index_number": 2,
+            "note": "2- “Dişi deve” günümüzün modern deyimi ile “kamuya ait bir mal” dır. Yani sahibi toplum olan, toplumun ortak malıdır. Diğer bir ifade ile ihtiyaç sahiplerinin yararına sunulan bir imkândır. Böyle olunca da dokunulmazdır. Bu, alegorik bir örnekleme de olabilir. Kimsesizlerin, yoksulların ihtiyaçlarını karşılamak amacıyla oluşturulan yardım imkânlarının korunması ve gözetilmesi, gelir kaynaklarının güvence altına alınmasının gereği anlatılmak istenmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَنَبِّئْهُمْ اَنَّ الْمَٓاءَ قِسْمَةٌ بَيْنَهُمْۚ كُلُّ شِرْبٍ مُحْتَضَرٌ",
+        "turkish_text": "Onlara, suyun bölüşüldüğünü haber ver. Her içiş hazır kılınmıştır.",
+        "index_number": 28,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَنَادَوْا صَاحِبَهُمْ فَتَعَاطٰى فَعَقَرَ",
+        "turkish_text": "Derken arkadaşlarını çağırdılar,(1) o da bıçağa sarıldı ve kesti.",
+        "index_number": 29,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Deveyi öldürmesini istediler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فَـكَيْفَ كَانَ عَذَاب۪ي وَنُذُرِ",
+        "turkish_text": "Ama azâbım ve uyarılarım nasıl oldu?",
+        "index_number": 30,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّٓا اَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَاحِدَةً فَـكَانُوا كَـهَش۪يمِ الْمُحْتَظِرِ",
+        "turkish_text": "Biz, onların üzerlerine tek bir sayha gönderdik. Böylece ağıldaki ufalanmış kuru ot gibi oldular.",
+        "index_number": 31,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ",
+        "turkish_text": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık. Var mı öğüt alıp düşünen?",
+        "index_number": 32,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَذَّبَتْ قَوْمُ لُوطٍ بِالنُّذُرِ",
+        "turkish_text": "Lût'un halkı da uyarıcılarını yalanladı.",
+        "index_number": 33,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّٓا اَرْسَلْنَا عَلَيْهِمْ حَاصِباً اِلَّٓا اٰلَ لُوطٍۜ نَجَّيْنَاهُمْ بِسَحَرٍۙ",
+        "turkish_text": "Biz de onların üzerlerine yok edici kasırga(1) gönderdik. Lût'un yanında yer alanlar bunun dışında tutuldu. Seher vakti onları kurtardık.",
+        "index_number": 34,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Âyette yer alan “Hâsib” kelimesi, kelime olarak “taş sağanağı getiren rüzgâr” anlamına gelmektedir. Burada bir nevi “taş fırtınasından” söz edilmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "نِعْمَةً مِنْ عِنْدِنَاۜ كَذٰلِكَ نَجْز۪ي مَنْ شَكَرَ",
+        "turkish_text": "İşte şükredenleri katımızdan bir nimet olarak böyle ödüllendiririz.",
+        "index_number": 35,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ اَنْذَرَهُمْ بَطْشَتَنَا فَتَمَارَوْا بِالنُّذُرِ",
+        "turkish_text": "Ant olsun ki yakalayıp tutuşumuza karşı onları uyarmıştı. Ne var ki onlar bu uyarıları kuşku ile karşıladılar.",
+        "index_number": 36,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ رَاوَدُوهُ عَنْ ضَيْفِه۪ فَطَمَسْنَٓا اَعْيُنَهُمْ فَذُوقُوا عَذَاب۪ي وَنُذُرِ",
+        "turkish_text": "Ant olsun ki onun misafirlerinden cinsel yönden yararlanmak istediler. Bunun üzerine gözlerini sildik.(1) Azâbımı ve uyarılarımı tadın.",
+        "index_number": 37,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- “Gözlerini sildik.” deyimini, “Gözlerini kör ettik.” şeklinde çeviri konusu etmek isabetli değildir. Bu deyim “bilinçten ve gerçeği kavramaktan yoksun bırakılmayı” ifade etmektedir. Tıpkı, “gözlerin kararması, bir şeyi görmemesi” deyiminde olduğu gibi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَلَقَدْ صَبَّحَهُمْ بُكْرَةً عَذَابٌ مُسْتَقِرٌّۚ",
+        "turkish_text": "Ant olsun ki, onları sabahleyin kalıcı bir azâp yakaladı.",
+        "index_number": 38,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَذُوقُوا عَذَاب۪ي وَنُذُرِ",
+        "turkish_text": "Haydi! Tadın bakalım, azâbımı ve uyarılarımı!",
+        "index_number": 39,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ يَسَّرْنَا الْقُرْاٰنَ لِلذِّكْرِ فَهَلْ مِنْ مُدَّكِرٍ۟",
+        "turkish_text": "Ant olsun Biz, Kur'an'ı öğüt alınsın diye kolaylaştırdık. Var mı öğüt alıp düşünen?",
+        "index_number": 40,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ جَٓاءَ اٰلَ فِرْعَوْنَ النُّذُرُۚ",
+        "turkish_text": "Ant olsun ki, Firavun ailesine(1) de uyarıcılar gelmişti.",
+        "index_number": 41,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Firavunculara."
+          }
+        ]
+      },
+      {
+        "arabic_text": "كَذَّبُوا بِاٰيَاتِنَا كُلِّهَا فَاَخَذْنَاهُمْ اَخْذَ عَز۪يزٍ مُقْتَدِرٍ",
+        "turkish_text": "Âyetlerimizin tamamını yalanladılar. Biz de onları gücümüze, üstünlüğümüze yaraşır bir yakalayışla yakalayıverdik.",
+        "index_number": 42,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَكُفَّارُكُمْ خَيْرٌ مِنْ اُو۬لٰٓئِكُمْ اَمْ لَـكُمْ بَرَٓاءَةٌ فِي الزُّبُرِۚ",
+        "turkish_text": "Sizin(1) kâfirleriniz onlardan daha mı hayırlı; yoksa kitâplarda size dokunulmayacağına dair söz mü verildi?",
+        "index_number": 43,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Ey Mekke'li Müşrikler."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَمْ يَقُولُونَ نَحْنُ جَم۪يعٌ مُنْتَصِرٌ",
+        "turkish_text": "Yoksa: “Biz, güç birliği etmiş yenilmez bir toplumuz.” mu diyorlar?",
+        "index_number": 44,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "سَيُهْزَمُ الْجَمْعُ وَيُوَلُّونَ الدُّبُرَ",
+        "turkish_text": "Yakında o topluluk bozguna uğrayacak ve darmadağın olacaklar.(1)",
+        "index_number": 45,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hicretten beş yıl önce inzal olan bu âyet, Mekke'li Müşrikler'in, Bedir'de uğrayacakları bozgunu haber veriyor olabilir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "بَلِ السَّاعَةُ مَوْعِدُهُمْ وَالسَّاعَةُ اَدْهٰى وَاَمَرُّ",
+        "turkish_text": "Hayır! Asıl onlara vaat edilen o Sâ'at'tir.(1) Ve o Sâ'at, daha korkunç daha dehşetlidir.",
+        "index_number": 46,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kıyâmettir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الْمُجْرِم۪ينَ ف۪ي ضَلَالٍ وَسُعُرٍۢ",
+        "turkish_text": "Kuşkusuz, mücrimler sapkınlık ve çılgınlık içindedirler.",
+        "index_number": 47,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلٰى وُجُوهِهِمْۜ ذُوقُوا مَسَّ سَقَرَ",
+        "turkish_text": "O Gün yüz üstü sürülerek ateşe atılırlar. “Cehennem ateşinin dokunuşunu tadın!”",
+        "index_number": 48,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّا كُلَّ شَيْءٍ خَلَقْنَاهُ بِقَدَرٍ",
+        "turkish_text": "Biz, her şeyi bir yasayla yarattık.(1)",
+        "index_number": 49,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Evren, Biz'im koyduğumuz yasalara göre varlığını sürdürmektedir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَمَٓا اَمْرُنَٓا اِلَّا وَاحِدَةٌ كَلَمْحٍ بِالْبَصَرِ",
+        "turkish_text": "Ve buyruğumuz bir tek buyruktur. Gözün bir anlık bakışı gibidir.",
+        "index_number": 50,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَلَقَدْ اَهْلَكْنَٓا اَشْيَاعَكُمْ فَهَلْ مِنْ مُدَّكِرٍ",
+        "turkish_text": "Ant olsun ki size benzer nicelerini yok ettik. Buna rağmen düşünen mi var?",
+        "index_number": 51,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكُلُّ شَيْءٍ فَعَلُوهُ فِي الزُّبُرِ",
+        "turkish_text": "Onların yaptığı her şey kitâplardadır.",
+        "index_number": 52,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَكُلُّ صَغ۪يرٍ وَكَب۪يرٍ مُسْتَطَرٌ",
+        "turkish_text": "Ve küçük büyük her şey yazılmıştır.",
+        "index_number": 53,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّ الْمُتَّق۪ينَ ف۪ي جَنَّاتٍ وَنَهَرٍۙ",
+        "turkish_text": "Takvâ sahipleri cennetlerde(1) ve nehir kenarlarındadır.",
+        "index_number": 54,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bahçelerde."
+          }
+        ]
+      },
+      {
+        "arabic_text": "ف۪ي مَقْعَدِ صِدْقٍ عِنْدَ مَل۪يكٍ مُقْتَدِرٍ",
+        "turkish_text": "Sonsuz Güç Sahibi yöneticinin katında, sadakat makamındadırlar.(1)",
+        "index_number": 55,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yok olmayan, sabit tahtlarda."
+          }
+        ]
+      }
+    ]
+  }
+}

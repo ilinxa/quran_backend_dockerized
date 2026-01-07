@@ -1,0 +1,211 @@
+{
+  "data": {
+    "index_number": 85,
+    "name_arabic": "البروج",
+    "name_turkish": "Burûc",
+    "description": "Adını 1. âyetteki “El-Burûc/burçlar” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 27,
+    "verse_count": 23,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالسَّمَٓاءِ ذَاتِ الْبُرُوجِۙ",
+        "turkish_text": "Burçlar sahibi gökyüzüne ant olsun,",
+        "index_number": 1,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَالْيَوْمِ الْمَوْعُودِۙ",
+        "turkish_text": "Söz Verilen Gün'e ant olsun,",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَشَاهِدٍ وَمَشْهُودٍۜ",
+        "turkish_text": "Tanığa ve tanıklık edilene ant olsun,",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "قُتِلَ اَصْحَابُ الْاُخْدُودِۙ",
+        "turkish_text": "Uhdûd'un Ashâb'ı(1) kahroldu;",
+        "index_number": 4,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Kur'an'ın ilk muhataplarının çok iyi bildiklerinden kuşku olmayan Ashâb'ı Uhdûd'un kim olduğu bugün tartışma konusudur. Kur'an, bu konuda kesin bir bilgi vermemektedir. Sonraki âyetlerden anlaşılan bunlar, kazıdıkları çukurda ateş yakıp, îmân edenleri o ateşe attıktan sonra onları izleyenlerdir."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلنَّارِ ذَاتِ الْوَقُودِۙ",
+        "turkish_text": "O şiddetli ateşin sahipleri.",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِذْ هُمْ عَلَيْهَا قُعُودٌۙ",
+        "turkish_text": "Hani onlar, onun başında oturmuşlardı.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِن۪ينَ شُهُودٌۜ",
+        "turkish_text": "Mü'minlere yaptıklarını izliyorlardı.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَز۪يزِ الْحَم۪يدِۙ",
+        "turkish_text": "Bunu, Mutlak Üstün Olan ve Övgüye Değer Yegâne Varlık olan Allah'a îmân edenleri cezalandırmak için yapıyorlardı.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِۜ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌۜ",
+        "turkish_text": "O Allah ki, göklerin ve yerin mülkü(1) yalnızca O'na aittir. Allah, Her Şeye Tanık'tır.",
+        "index_number": 9,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Sahipliği, egemenliği, yönetimi."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ فَتَنُوا الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَر۪يقِۜ",
+        "turkish_text": "Mü'min erkeklere ve kadınlara fitne(1) yapıp, sonra da kesin olarak tevbe etmeyenler için Cehennem azâbı vardır. Onlar için yakıcı bir azâp vardır.",
+        "index_number": 10,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Baskı ve zulüm."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُۜ ذٰلِكَ الْفَوْزُ الْـكَب۪يرُۜ",
+        "turkish_text": "Îmân Eden ve sâlihâtı(1) yapanlar için içinden nehirler akan Cennetler vardır. İşte bu, büyük kurtuluştur.",
+        "index_number": 11,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Bkz. 84:28. âyetin dipnotu."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّ بَطْشَ رَبِّكَ لَشَد۪يدٌۜ",
+        "turkish_text": "Rabb'inin yakalaması(1) kesinlikle çok şiddetlidir.",
+        "index_number": 12,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Cezalandırması."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اِنَّهُ هُوَ يُبْدِئُ وَيُع۪يدُۚ",
+        "turkish_text": "Kuşkusuz başlatan ve tekrarlayan(1) O'dur.",
+        "index_number": 13,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İlk yaratan ve yaratmayı tekrarlayacak olan."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَهُوَ الْغَفُورُ الْوَدُودُۙ",
+        "turkish_text": "O, Çok Bağışlayan'dır, Çok Seven'dir.",
+        "index_number": 14,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ذُوالْعَرْشِ الْمَج۪يدُۙ",
+        "turkish_text": "Şanı Yüce Arş'ın Sahibi'dir.",
+        "index_number": 15,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "فَعَّالٌ لِمَا يُر۪يدُۜ",
+        "turkish_text": "Dilediğini yapandır.",
+        "index_number": 16,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "هَلْ اَتٰيكَ حَد۪يثُ الْجُنُودِۙ",
+        "turkish_text": "O orduların hadisi(1) sana geldi mi?",
+        "index_number": 17,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Haberi, sözü."
+          }
+        ]
+      },
+      {
+        "arabic_text": "فِرْعَوْنَ وَثَمُودَۜ",
+        "turkish_text": "Firavun ve Semûd'un.",
+        "index_number": 18,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "بَلِ الَّذ۪ينَ كَفَرُوا ف۪ي تَكْذ۪يبٍۙ",
+        "turkish_text": "Doğrusu Kâfirler(1) hâlâ bir yalanlama içindedirler.",
+        "index_number": 19,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- İnançsız, îmân etmeyen. Gerçeğin üzerini örten, gerçeği kabul etmeyen, gerçeğe karşı nankörlük eden. Allah'ı ve vahyi reddeden. Fıtrî yeteneğini köreltip örten. Küfr, Îmân'ın emin olmanın, güvenmenin, onaylamanın karşıtıdır. Kur'an, ektiği tohumun üzerini toprakla örttüğü için çiftçiye de kâfir demektedir (57:20)."
+          }
+        ]
+      },
+      {
+        "arabic_text": "وَاللّٰهُ مِنْ وَرَٓائِهِمْ مُح۪يطٌۚ",
+        "turkish_text": "Allah, onları arkalarından(1) kuşatmıştır.",
+        "index_number": 20,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Hiç hesaba katmadıkları şekilde, her yönden."
+          }
+        ]
+      },
+      {
+        "arabic_text": "بَلْ هُوَ قُرْاٰنٌ مَج۪يدٌۙ",
+        "turkish_text": "Bilakis, o şanı yüce şerefli bir Kur'an'dır,",
+        "index_number": 21,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي لَوْحٍ مَحْفُوظٍ",
+        "turkish_text": "Levh-i Mahfûz'dadır.(1)",
+        "index_number": 22,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Yazı yazmaya uygun, düzgün yüzey demek olan lefvh ile korunmuş demek olan mahfûz kelimelerden oluşan ve korunmuş levha demek olan Levh-i Mahfûz, Allah'ın sonsuz ilmi, yasa, hüküm ve takdirini ifade eden, her şeyin bilgisinin mevcut olduğu Kitâp demektir."
+          }
+        ]
+      }
+    ]
+  }
+}

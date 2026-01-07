@@ -1,0 +1,79 @@
+{
+  "data": {
+    "index_number": 104,
+    "name_arabic": "الهمزة",
+    "name_turkish": "Humezeh",
+    "description": "Adını 1. âyetteki “Humezeh/ kaş göz hareketiyle alay edenler” kelimesinden almıştır",
+    "type": "Mekki",
+    "order_of_revelation": 32,
+    "verse_count": 10,
+    "verses": [
+      {
+        "arabic_text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+        "turkish_text": "Rahmeti Bol ve Kesintisiz Olan Allah'ın Adıyla",
+        "index_number": 0,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍۨۙ",
+        "turkish_text": "Arkadan çekiştirenlerin, kaş göz hareketiyle alay edenlerin vay haline!(1)",
+        "index_number": 1,
+        "deep_notes": [
+          {
+            "key_word": "1",
+            "index_number": 1,
+            "note": "1- Nebi'ye ve davetine karşı küçümseyici tavır takınan, onu alaya alanların vay haline."
+          }
+        ]
+      },
+      {
+        "arabic_text": "اَلَّذ۪ي جَمَعَ مَالاً وَعَدَّدَهُۙ",
+        "turkish_text": "O ki malı toplayıp, onun hesabını yapıp durur.",
+        "index_number": 2,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "يَحْسَبُ اَنَّ مَالَهُٓ اَخْلَدَهُۚ",
+        "turkish_text": "Malın kendisini sonsuza dek yaşatacağını sanıyor.",
+        "index_number": 3,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "كَلَّا لَيُنْبَذَنَّ فِي الْحُطَمَةِۘ",
+        "turkish_text": "Hayır, kesinlikle bildiği gibi değil, kesinlikle o Hutame'ye atılacak.",
+        "index_number": 4,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "وَمَٓا اَدْرٰيكَ مَا الْحُطَمَةُۜ",
+        "turkish_text": "Hutame'nin ne olduğunu sen nereden bileceksin?",
+        "index_number": 5,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "نَارُ اللّٰهِ الْمُوقَدَةُۙ",
+        "turkish_text": "Allah'ın tutuşturulmuş ateşidir.",
+        "index_number": 6,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اَلَّت۪ي تَطَّلِعُ عَلَى الْاَفْـِٔدَةِۜ",
+        "turkish_text": "Yüreklere işleyen bir ateş.",
+        "index_number": 7,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "اِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌۙ",
+        "turkish_text": "Kuşkusuz o, onların üzerine kapatılmıştır.",
+        "index_number": 8,
+        "deep_notes": []
+      },
+      {
+        "arabic_text": "ف۪ي عَمَدٍ مُمَدَّدَةٍ",
+        "turkish_text": "Uzatılmış sütunlar arasında.",
+        "index_number": 9,
+        "deep_notes": []
+      }
+    ]
+  }
+}
